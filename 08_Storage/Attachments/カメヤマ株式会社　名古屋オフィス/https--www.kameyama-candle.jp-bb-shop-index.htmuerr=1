@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="ヤンキーキャンドルやジェルジェム、デザインステーショナリー、キッチングッズなどのインテリア雑貨の他にもバースデーキャンドルやウエディング関連までローソクのカメヤマが暮らしにアクセントをつけるグッズを幅広くご紹介しています。">
+<meta http-equiv="expires" content="1200"> 
+<meta http-equiv="Content-Language" content="ja">
+<meta http-equiv="Content-Style-type" content="text/css">
+
+<script type="text/javascript">
+if ((navigator.userAgent.indexOf('iPhone') > 0) || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
+        document.write('<meta name="viewport" content="width=device-width,initial-scale=1">');
+    }else{
+        document.write('');
+    }
+</script>
+
+
+
+
+
+<link href="../css/base.css" rel="stylesheet" type="text/css">
+<link href="../css/base_mobile.css" rel="stylesheet" type="text/css" media="screen and (min-width:0px) and (max-width:660px)">
+
+<link rel="SHORTCUT ICON" href="../Images_01/kcnet.ico">
+
+<title>キャンドル　業務用キャンドル・インテリア雑貨｜カメヤマキャンドル（法人向け仕入サイト）</title>
+
+<!--JS-->
+<script type="text/javascript" src="../js/jquery-2.2.2.min.js"></script>
+<script type="text/javascript" src="../js/base.js"></script>
+<!--hamberger menu-->
+<link rel="stylesheet" href="../css/HBGMenu_drawer.min.css">
+<script type="text/javascript" src="../js/HBGMenu_drawer.min.js"></script>
+<script type="text/javascript" src="../js/iscroll.js"></script>
+
+<!--hamberger menu start-->
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".drawer").drawer();
+});
+</script>
+
+<!--hamberger menu acordion-->
+<script type="text/javascript">
+$(document).ready(function(){
+$('.drawer_acd').click(function(){
+$(this).next().slideToggle();
+}).next().hide();
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.opn_trg').click(function(){
+$(this).next().slideToggle();
+}).next().hide();
+});
+</script>
+
+
+<!-- GA4	Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PPHW6PCWHR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PPHW6PCWHR');
+</script>
+
+
+
+<style>
+
+
+
+#loopslider {
+    margin: 0px 0px 30px 0px;
+    width:auto;
+    height: 140px;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+}
+ 
+#loopslider ul {
+    height: 140px;
+    float: left;
+    display: inline;
+    overflow: hidden;
+}
+ 
+#loopslider ul li {
+    width: 140px;
+    height: 140px;
+    float: left;
+    display: inline;
+    overflow: hidden;
+    padding-left:20px;
+    font-size:7pt;
+    letter-spacing:normal;
+    line-height:normal;
+    color:#999;
+    font-family:"Meiryo UI";
+}
+ 
+/* =======================================
+    ClearFixElements
+======================================= */
+#loopslider ul:after {
+    content: ".";
+    height: 0;
+    clear: both;
+    display: block;
+    visibility: hidden;
+}
+ 
+#loopslider ul {
+    display: inline-block;
+    overflow: hidden;
+}
+
+</style>
+
+<script type="text/javascript">
+$(function(){
+    $('#loopslider').each(function(){
+        var loopsliderWidth = $(this).width();
+        var loopsliderHeight = $(this).height();
+        $(this).children('ul').wrapAll('<div id="loopslider_wrap"></div>');
+ 
+        var listWidth = $('#loopslider_wrap').children('ul').children('li').width();
+        var listCount = $('#loopslider_wrap').children('ul').children('li').length;
+ 
+        var loopWidth = (listWidth)*(listCount);
+ 
+        $('#loopslider_wrap').css({
+            top: '0',
+            left: '0',
+            width: ((loopWidth) * 2),
+            height: (loopsliderHeight),
+            overflow: 'hidden',
+            position: 'absolute'
+        });
+ 
+        $('#loopslider_wrap ul').css({
+            width: (loopWidth)
+        });
+        loopsliderPosition();
+ 
+        function loopsliderPosition(){
+            $('#loopslider_wrap').css({left:'0'});
+            $('#loopslider_wrap').stop().animate({left:'-' + (loopWidth) + 'px'},80000,'linear');
+            setTimeout(function(){
+                loopsliderPosition();
+            },80000);
+        };
+ 
+        $('#loopslider_wrap ul').clone().appendTo('#loopslider_wrap');
+    });
+});
+
+
+</script>
+
+</head>
+<body>
+
+<div id="flame">
+
+		
+	<a name="top"></a>
+	
+	<div id="hd_float">	
+
+		<div id="hd_cont">
+
+			<div class="vpc"><div id="hd_dsc">キャンドル　仕入れ　業務用｜カメヤマキャンドルハウスのKCnetは、灯りと香りの業務用仕入をサポートします。</div></div>
+
+			<div id="hd_box_left">
+	
+				<div class="hd_box vpc" id="hd_logo"><a href="../shop/"><img src="../Images_01/logo/site_logo.png"></a></div>
+				<div class="vmb">
+					<div class="hd_box" id="hd_logo_sp"><a href="../shop/"><img src="../Images_01/logo/site_logo.png"></a>
+					<div id="hd_gmenu_smb">	
+						<form method="POST" action="https://www.kameyama-candle.jp/bb/shop/category_search_result.htm?submitbtn01=1&hd=1" name="fsearch8">
+						<table>
+						<tr>
+						<td><input type="text" name="skey" class="scitemf" placeholder="商品検索" onclick="document.fsearch0.skey.value='';"></td>
+						<td><input type="image" src="../Images_01/serch_btn02.png" name="I1" alt="検索ボタン" style="margin-top:3px;"></td>
+						</tr>
+						</table>
+						</form>
+					</div>
+					</div>
+				</div>
+				
+				<table id="hd_cart_info">
+				<tr><th class="hd_cart_lbtm" style="height: 20px; width: 51px;"><div class="hd_cart_ttl">商品計</div></th>
+					<td class="rt hd_cart_lbtm" style="font-weight:bold; height: 20px;">0円</td>
+					<th class="hd_cart_lbtm" style="height: 20px"><div class="hd_cart_ttl">送料</div></th>
+					<td class="rt hd_cart_lbtm" style="height: 20px">0円</td></tr>
+				<tr><th style="width: 51px"><div class="hd_cart_ttl">消費税</div></th><td class="rt">0円</td><th><div class="hd_cart_ttl">総計</div></th><td class="rt">0円</td></tr>
+				</table>
+
+
+			</div>
+			<div id="hd_box_right">
+			
+				<table id="hbtn">
+					<tr>
+						<td><a href="https://www.kameyama-candle.jp/bb/Information/info_function.htm" class="btn_ippan" style="margin:0px;">その他の機能</a></td>
+						
+						<td style="position:relative;"><img src="../Images_01/header/hdbtn_flist.jpg" onclick="window.open('https://www.kameyama-candle.jp/bb/shop/entry_favorite_list.htm', 'entry', 'width=860,height=600,scrollbars=yes,status=yes,resizable=yes'); return false;" style="cursor:pointer;"></td>
+						<td rowspan="2" style="padding:0px;vertical-align:middle;">
+						<div style="display:inline-block;vertical-align:top;position:relative;">
+						<a href="../shop/cart.htm"><img src="../Images_01/header/btn/sys_btn_cart_v.gif"></a></div>
+						<div style="display:inline-block;vertical-align:top;">
+						<a href="https://www.kameyama-candle.jp/bb/order/checkout01.htm"><img src="../Images_01/header/btn/sys_btn_regi_v.gif"></a>
+						</div>
+						</td>
+					</tr>
+					<tr>
+						<td><a href="../member/" class="btn_ippan" style="margin:0px;background:#FFFFCC;">マイページ</a></td>
+						
+						<td><img src="../Images_01/header/hdbtn_slist.jpg" onclick="window.open('https://www.kameyama-candle.jp/bb/shop/entry_item_lookup.htm','search','width=860,height=600,scrollbars=yes,status=yes,resizable=yes'); return false;" style="cursor:pointer;"></td>
+					</tr>
+				</table>
+			
+			</div>
+			<div class="clr"></div>
+
+			
+			<div id="sp_flt_btn">
+			
+				
+				
+				<div style="display:inline-block;vertical-align:top;position:relative;">
+				<a target="entry" href="../shop/entry_favorite_list.htm"><img src="../Images_01/header/btn/sys_btn_flist_sp.png" style="width:65px;"></a></div>
+
+	
+				<div style="display:inline-block;vertical-align:top;position:relative;">
+				<a href="../shop/cart.htm"><img src="../Images_01/header/btn/sys_btn_cart_sp.png" style="width:65px;"></a>
+				</div>
+				
+			</div>
+			
+			<!--ToTop-->
+			<div id="Topagetop"><a href="#top" class="scroll"><img src="../Images_01/header/btn/sys_btn_totop.png"></a></div>
+
+
+			<div id="hd_gmenu">
+			<a href="../shop/category_b.htm?cate_a=kind">カテゴリ別</a><a href="../shop/category_b.htm?cate_a=kaori">香りで探す</a><a href="../shop/category_items_catalogue.htm">カタログ別</a>
+			</div>
+			<div id="hd_panel">
+			
+			<a href="https://www.kameyama-candle.jp/bb/shop/index.htm?uerr=1&panelc=1"><img src="../Images_01/header/hd_panel_cls.png" style="margin:3px 0px 0px 5px;"></a>
+			</div>
+			<div id="hd_gmenu_s">	
+				<form method="POST" action="https://www.kameyama-candle.jp/bb/shop/category_search_result.htm?su*bmitbtn01=1&hd=1" name="fsearch0">
+				<div><input type="text" name="skey" class="scitemf" placeholder="商品検索" onclick="document.fsearch0.skey.value='';"></div>
+				<div><input type="image" src="../Images_01/serch_btn02.png" name="I1" alt="検索ボタン" style="margin-top:3px;"></div>
+				</form>
+			</div>
+
+			<div class="clr"></div>
+			
+		</div>
+	
+	</div>
+	
+	<div id="hd_space"></div>
+
+	<div id="hd_member_info" class="vpc"><div style="display:inline-block;" class="vpc"><span style="color:#AA0000;font-weight:bold;font-size:14px;">法人ログインが必要です</span>　<a href ="../member/login.htm" class="hm_meber_infohd" style="background:#FFEEEE;margin:0px 5px;color:#440000;border:solid 1px #DDD;">ログイン</a>&nbsp;<a href="../register/index.htm" class="hm_meber_infohd" style="background:#FFF;margin:0px 5px;color:#333;border:solid 1px #DDD;">新規登録</a>&nbsp;</div></div><div class="vmb" style="color:#AA0000;margin:5px 0px 15px 0px;"><a href ="../member/login.htm" class="hm_meber_infohd" style="background:#FFEEEE;margin-right:5px;color:#440000;border:solid 1px #DDD;padding:10px 10px;">法人ログイン</a>&nbsp;<a href="../register/index.htm" class="hm_meber_infohd" style="background:#FFF;color:#333;border:solid 1px #DDD;padding:10px 10px;">新規法人登録</a>&nbsp;</div>
+	
+		<div style="position:fixed;right:10px;top:5px;z-index:610;" class="c_vsbl02 flm-header-sp-hbg">
+		
+			
+			<button type="button" class="drawer drawer-toggle drawer-hamburger drawer-closer flm-header-sp-hbg" style="position:fixed;top:10px;right:10px;display:none;z-index:600">
+				<span class="sr-only">toggle navigation</span>
+				<span class="drawer-hamburger-icon"></span>
+				<div class="drawer-hamburger-icon-ttl">CLOSE</div><div class="drawer-hamburger-icon-ttl"></div>
+			</button>
+			
+			<div class="drawer drawer--right" style="margin-top:5px;">
+			 
+			<button type="button" class="drawer-toggle drawer-hamburger">
+				<span class="sr-only">toggle navigation</span>
+				<span class="drawer-hamburger-icon"></span>
+				<div class="drawer-hamburger-icon-ttl">MENU</div><div class="drawer-hamburger-icon-ttl"></div>
+			</button>
+		
+			
+			<nav class="drawer-nav" style="background:#FFF;" style="z-index:200;">
+				
+				<ul class="drawer-menu">
+					
+					
+					<li class="dl_ttl">入力リスト</li>
+
+					<li><a href="https://www.kameyama-candle.jp/bb/Information/info_function.htm" class="btn_ippan" style="margin:0px;">その他の機能</a>
+					</li>
+		
+					
+					<li><div onclick="window.open('https://www.kameyama-candle.jp/bb/shop/entry_favorite_list.htm', 'entry', 'width=860,height=600,scrollbars=yes,status=yes,resizable=yes'); return false;">お気に入り</div></li>
+					
+					<li class="dl_ttl">検索・カート・情報</li>
+					
+					<li><div onclick="window.open('https://www.kameyama-candle.jp/bb/shop/entry_item_lookup.htm','search','width=860,height=600,scrollbars=yes,status=yes,resizable=yes'); return false;">商品検索</div></li>
+					<li><a href="../shop/cart.htm">カートを見る</a></li>
+					<li><a href="../shop/cart.htm">レジへ進む</a></li>
+					<li><a href="https://www.kameyama-candle.jp/bb/member/">マイページ</a></li>
+					
+					<li class="dl_ttl">ご利用案内</li>
+					
+					<li><div onclick="location.href='https://www.kameyama-candle.jp/bb/Information/info_shipp.htm'">お支払方法／出荷日</div></li>
+					<li><a href="https://www.kameyama-candle.jp/bb/Information/inquiry.htm">お問い合わせ</a><div onclick="location.href='https://www.kameyama-candle.jp/bb/Information/inquiry.htm'"></div></li>
+
+					<li><a href="https://www.kameyama-candle.jp/bb/Information/secur.htm">プライバシーポリシー</a></li>
+					<li><a href="https://www.kameyama-candle.jp/bb/Information/bb_info.htm">特定商取引法の表記・会社概要</a></li>
+					
+				</ul>
+			</nav>
+		
+		</div>
+		
+	</div>
+
+	<div class="msgbox_type03">ご利用には会員のご登録が必要です。　ログイン後にすべてのコンテンツをご利用できます。</div>
+
+	<h1 class="title_line mbl_talignl" style="color:#674E38;font-size:14px;">カメヤマ キャンドル ハウス（candle house）の業務用・仕入れ専門　サイト</h1>
+
+	
+	<div class="boxmaximg" style="position:relative;text-align:center;">
+		<img src="../Images_01/cms/unlogin_pic/kcnet_top_2018ss2.png">
+		<img src="../Images_01/top/top201805_over.png" style="position: absolute;top:0px;left:0px;">
+	</div>
+	
+
+	
+	<div class="intro_title01">業務用取引のご登録</div>
+
+	
+	<div style="margin:40px 0px;">
+		<div id="modoru_bt" class="backnext_btn">
+			<input type="button" name="toroku1" value="登録申請をする（法人）" onclick="location.href='../register/';" class="intro_entbtn">
+		</div>
+	</div>
+	
+	
+	<div class="intro_title02" style="line-height:180%;margin-bottom:20px;">このようなお客様に<br>業務用価格でご提供</div>
+
+
+	<div style="text-align:center;">
+
+		<div class="intro_gyosyu">
+			<div>レストラン・飲食店 様</div>
+			洋菓子店、洋菓子製造業、カフェ・バー、ホテル、レストラン、料亭・観光地 
+		</div>
+	
+		<div class="intro_gyosyu">
+			<div>プロモーション事業者 様</div>
+			ＳＰ／ＯＥＭ、イベントプロモーション、キャンペーングッズ、来店プレゼント
+		</div>
+
+		<div class="intro_gyosyu">
+			<div>卸・販売店 様</div>
+			インテリア雑貨卸、雑貨・ホビーショップ、土産店、フラワーショップ 
+		</div>
+
+		<div class="intro_gyosyu">
+			<div>スクール・制作会社 様</div>
+			キャンドル教室、フラワーアレンジメント、オリジナル商品製作販売  
+		</div>
+
+		<div class="intro_gyosyu">
+			<div>ウエディング事業者 様</div>
+			結婚式場、ホテル・レストラン、生花店
+		</div>
+
+		<div class="intro_gyosyu">
+			<div>その他の事業者 様</div>
+			カタログ通販、引き出物、ギフト詰め合わせ、店頭ディスプレイ、自動車ディーラー、銀行・新聞社・保険会社等の粗品景品
+		</div>
+
+
+	</div>
+
+
+	<div class="intro_title02" style="line-height:180%;margin-bottom:20px;">業務用キャンドル　インテリア雑貨　仕入れ<br>KCnet</div>
+
+
+		<div style="text-align:center;">
+	
+		<img src="../Images_01/intro/intro_pic01.png"><img src="../Images_01/intro/intro_pic02.png">
+	
+	</div>
+
+
+	<div style="margin:40px 0px;">
+		<div id="modoru_bt" class="backnext_btn">
+			<input type="button" name="toroku1" value="登録申請をする（法人）" onclick="location.href='../register/';" class="intro_entbtn">
+		</div>
+	</div>
+
+
+	
+	
+	<div class="intro_title02" style="line-height:180%;margin-bottom:20px;">担当者から話を聞きたい<br>ショールームを見たい</div>
+	
+	
+	
+
+
+	<div class="ct">
+	
+	
+	<div class="ofcebox">
+		<h3 class="otitle">東京ヘッドオフィス</h3>
+		<div class="omsgbox">
+		〒107-0062<br>東京都港区南青山4-25-12<br>TEL：03-5656-1919<br>FAX：03-5656-1920
+		</div>
+	</div>
+	
+	<div class="ofcebox">
+		<h3 class="otitle">大阪オフィス</h3>
+		<div class="omsgbox">
+		〒531-0076<br>大阪府大阪市北区大淀中2-9-11<br>TEL：06-4798-9074<br>FAX：06-4798-9075
+		</div>
+	</div>
+
+	<div class="ofcebox">
+		<h3 class="otitle">名古屋オフィス</h3>
+		<div class="omsgbox">
+		〒451-0046<br>愛知県名古屋市西区牛島町2-5　TOMITA BLD.1F<br>TEL：052-586-9690<br>FAX：052-586-9641
+		</div>
+	</div>
+
+	<div class="ofcebox">
+		<h3 class="otitle">札幌オフィス</h3>
+		<div class="omsgbox">
+		〒060-0807<br>北海道札幌市北区北7条西4-4　札幌クレストビル401<br>TEL：011-706-1200<br>FAX：011-706-1201
+		</div>
+	</div>
+
+	<div class="ofcebox">
+		<h3 class="otitle">仙台・新潟オフィス</h3>
+		<div class="omsgbox">
+		コールセンター<br>TEL：052-586-0081<br>FAX：052-586-0057<br>受注業務はコールセンターで承ります。<br>また、営業業務は引き続き担当営業がご対応致します。
+		</div>
+	</div>
+
+	<div class="ofcebox">
+		<h3 class="otitle">広島オフィス</h3>
+		<div class="omsgbox">
+		コールセンター<br>TEL：052-586-0085<br>FAX：052-586-0057<br>受注業務はコールセンターで承ります。<br>また、営業業務は引き続き担当営業がご対応致します。
+		</div>
+	</div>
+
+	<div class="ofcebox">
+		<h3 class="otitle">福岡オフィス</h3>
+		<div class="omsgbox">
+		〒813-0034<br>福岡県福岡市東区多の津1-14-1　FRCビル717<br>TEL：092-624-7131<br>FAX：092-624-7132
+		</div>
+	</div>
+	
+	<div class="ofcebox"></div>
+	<div class="ofcebox"></div>
+	
+	</div>
+	
+	<div class="msgbox_type01" style="margin-top:30px;">
+	ショールームは法人のお客様向けのため、大変恐れ入りますが一般のお客様はご来場いただけません。
+	</div>
+
+
+
+
+	<div class="intro_title02" style="line-height:180%;margin-bottom:20px;letter-spacing:5px;">RANKING</div>
+
+
+	<div style="text-align:center;">
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="background-image:url('../Images_01/ranking/rank01.png');background-repeat:no-repeat;background-position:center center;">1</div>
+		
+		<a href="../shop/category_search_result.htm?sch=go&skey=SJ04805" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_J0480530.jpg" class="rank_img">香る線香</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">しっかり香る、お香タイプのフレグランス！1日1本なら約4ヶ月使えるたっぷりサイズです。</div>
+		
+	</div>
+
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="background-image:url('../Images_01/ranking/rank02.png');background-repeat:no-repeat;background-position:center center;">2</div>
+		
+		<a href="../shop/category_items_detail.htm?Item=779000100C" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_779000100C.jpg" class="rank_img">ティーライトティン１００個入</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">環境に考慮した植物原料パームオイル配合のマレーシア産のティーライトティン。ヘビーユーザーにおすすめの人気商品です。</div>
+		
+	</div>
+
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="background-image:url('../Images_01/ranking/rank03.png');background-repeat:no-repeat;background-position:center center;">3</div>
+		
+		<a href="../shop/category_search_result.htm?sch=go&skey=J04890" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_J0489020.jpg" class="rank_img">香る線香アソート４</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">人気の香る線香のアソートセット！ お気に入りの香りを探すのに最適な、4種類の香りが楽しめるアソートセットです。</div>
+		
+	</div>
+
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="">4</div>
+		
+		<a href="../shop/category_search_result.htm?sch=go&skey=J3610000" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_J3610000W.jpg" class="rank_img">キャンドルウォーマーランプミニ</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">火を使わずにアロマキャンドルが楽しめる「香る照明」。電球の熱でキャンドルを溶かして香りを楽しめます。</div>
+		
+	</div>
+
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="">5</div>
+		
+		<a href="../shop/category_search_result.htm?sch=go&skey=BA47805" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_A4780530.jpg" class="rank_img">香るキャンドル</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">アロマキャンドルとしてはもちろん、キャンドルウォーマーランプミニにもぴったりな香りを楽しむグラスインキャンドル。</div>
+		
+	</div>
+
+	
+	<div class="rank_flame">
+		
+		<div class="rank_num" style="">6</div>
+		
+		<a href="../shop/category_items_smnl.htm?cate_a=kind&cate_b=gelgems&cate_c=ggbag-s" class="rank_a"><img border="0" src="../../images_items/converted/Rank/kc_E0701071.jpg" class="rank_img">グミデコ　バッグＳ</a>
+		
+		<div class="clr"></div>
+		<div class="rank_cap">貼ってはがせるディスプレイグッズ。誰でも簡単に窓や鏡をかわいくデコレーションできます！</div>
+		
+	</div>
+
+	
+
+	<div class="rank_flame" style="height:5px;">　</div>
+	<div class="rank_flame" style="height:5px;">　</div>
+	
+	</div>
+
+
+	<div class="intro_title02" style="line-height:180%;margin-bottom:20px;letter-spacing:5px;">
+NEW!!
+</div>
+<!-- バナーの変更（<img～：【この部分】）とリンク先(href="【この部分】")の変更 　-->
+
+<style>
+.origin_pickbnnr {
+	display:inline-block;
+	margin:20px 40px 0px 40px;
+}
+.origin_pickbnnr img {
+	border:solid 1px #DDD;
+}
+
+@media screen and (max-width:700px) {
+
+	.origin_pickbnnr {
+		margin:20px 5px 0px 5px;
+	}
+
+}
+</style>
+
+<div style="text-align:center;margin-top:50px;">
+<!-- 以下のバナーは共通内容　-->
+<!-- 以下のバナーは共通内容　-->
+<div style="text-align:center;margin-top:50px;">
+	<div class="origin_pickbnnr"><a href="category_items_smnl.htm?cate_a=kind&cate_b=outdoor"><img src="../Images_01/cms/pickup_02/kc_outdoor_202606.jpg"></a></div>
+        <div class="origin_pickbnnr"><a href="category_search_result.htm?sch=go&skey=A48505"><img src="../Images_01/cms/pickup_02/kc_kaoru_a4_202606.jpg"></a></div>
+	<div class="origin_pickbnnr"><a href="category_items_catalogue.htm?cno=2026.02%20A030PP&cname=2026%2E02+A030PP&pgno=3&pgnoed=6&refindex=1"><img src="../Images_01/cms/pickup_02/kc_kaoru_202601.jpg"></a></div>
+	<div class="origin_pickbnnr"><a href="category_c.htm?cate_a=kind&cate_b=yankee-candle"><img src="../Images_01/cms/pickup_02/kc_yc_202606.jpg"></a></div>
+	<div class="origin_pickbnnr"><a href="category_items_smnl.htm?cate_a=kind&cate_b=gelgems&cate_c=ggbag-s"><img src="../Images_01/cms/pickup_02/kc_gg_202601.jpg"></a></div>
+	<div class="origin_pickbnnr"><a href="category_items_catalogue.htm?cname=2026.02%20A030PP#2026.02%20A030PP"><img src="../Images_01/cms/kcpickup_02/kc_kch_202601.jpg"></a></div>
+</div>
+
+
+
+</div><!--未使用--><div style="text-align:center;">
+<div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="clr"></div><div><div class="intro_title02" style="line-height:180%;margin-bottom:20px;letter-spacing:5px;">IMPORT BRAND</div></div><div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=yankee-candle">ヤンキーキャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=yankee-candle"><img src="../Images_01/cate/b/kind_top_yankee-candle.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=gelgems">グミデコ・ジェルジェム</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=gelgems"><img src="../Images_01/cate/b/kind_top_gelgems.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=luminara">ルミナラ　LUMINARA（LEDキャンドル）</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=luminara"><img src="../Images_01/cate/b/kind_top_luminara.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=enkinddle">エンキンドル（3D LEDキャンドル）</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=enkinddle"><img src="../Images_01/cate/b/kind_top_enkinddle.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=ledcandle-illumine">イルミネライト（LEDキャンドル）</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=ledcandle-illumine"><img src="../Images_01/cate/b/kind_top_ledcandle-illumine.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="clr"></div><div><img src="../Images_01/logo/kchlogo201808.png" style="margin:40px 0px;width:auto;"></div><div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=basic-candles">ベーシックキャンドル </a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=basic-candles"><img src="../Images_01/cate/b/kind_top_basic-candles.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=eco">エコ・キャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=eco"><img src="../Images_01/cate/b/kind_top_eco.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=liquid">オイルキャンドル（パラフィンオイル）</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=liquid"><img src="../Images_01/cate/b/kind_top_liquid.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=pool">フローティングキャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=pool"><img src="../Images_01/cate/b/kind_top_pool.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=led-irohaakari">いろはあかり</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=led-irohaakari"><img src="../Images_01/cate/b/kind_top_led-irohaakari.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=led-lantern">LEDランタン</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=led-lantern"><img src="../Images_01/cate/b/kind_top_led-lantern.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=oilcandle-bottle">オイルキャンドル用燭台</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=oilcandle-bottle"><img src="../Images_01/cate/b/kind_top_oilcandle-bottle.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=outdoor">アウトドアコレクション</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=outdoor"><img src="../Images_01/cate/b/kind_top_outdoor.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=painta-holic">ロール状のぬりえ　ペインタホリック (Painta holic)</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=painta-holic"><img src="../Images_01/cate/b/kind_top_painta-holic.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=paraffin-oil">パラフィンオイル・オイルランタン</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=paraffin-oil"><img src="../Images_01/cate/b/kind_top_paraffin-oil.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=warmer">コーヒーウォーマー</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=warmer"><img src="../Images_01/cate/b/kind_top_warmer.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=disney">ディズニー</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=disney"><img src="../Images_01/cate/b/kind_top_disney.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=candle-tool">プラズマアークライター／キャンドルツール</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=candle-tool"><img src="../Images_01/cate/b/kind_top_candle-tool.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=candlewarmer">【香る照明】キャンドルウォーマー</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=candlewarmer"><img src="../Images_01/cate/b/kind_top_candlewarmer.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=kaoru-candle">香るキャンドル／香る線香</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=kaoru-candle"><img src="../Images_01/cate/b/kind_top_kaoru-candle.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=sweets">スイーツキャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=sweets"><img src="../Images_01/cate/b/kind_top_sweets.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=holders">キャンドルホルダー</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=holders"><img src="../Images_01/cate/b/kind_top_holders.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=aroma-candles">アロマキャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=aroma-candles"><img src="../Images_01/cate/b/kind_top_aroma-candles.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=handmade_bb">手作りキャンドル材料</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=handmade_bb"><img src="../Images_01/cate/b/kind_top_handmade_bb.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=birthday">バースデー・ケーキ用キャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=birthday"><img src="../Images_01/cate/b/kind_top_birthday.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=bath">バス・お風呂</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=bath"><img src="../Images_01/cate/b/kind_top_bath.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=event">イベント用・屋外パーティ用キャンドル</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=event"><img src="../Images_01/cate/b/kind_top_event.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=hanafuzei">花ふぜいシリーズ</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=hanafuzei"><img src="../Images_01/cate/b/kind_top_hanafuzei.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=lantan">ランタン</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=lantan"><img src="../Images_01/cate/b/kind_top_lantan.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm">
+		<div class="lt tcate_ttl"><a HREF="../shop/category_c.htm?cate_a=kind&cate_b=catalog">カメヤマカタログ</a></div>
+		<div class="ct"><A HREF="../shop/category_c.htm?cate_a=kind&cate_b=catalog"><img src="../Images_01/cate/b/kind_top_catalog.jpg"></a></div>
+		
+	</div>
+	<div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div><div class="tcate_flm" style="padding:0px;height:5px;background:#FFF;"></div>
+</div>
+<div id="pinf_flame" style="display:block;">
+
+
+	<div id="pinf_gttl">ご対応可能なお支払い方法</div>
+	
+	
+	<div class="pinf_ttl">当社発行の請求書（ご指定締め日）</div>
+	<div>
+		<div class="pinf_cont">
+		当オンライン会員とは別に正規のお取引口座のある法人は、無条件に当社発行の請求書の送付となります。<br>次の「ＮＰ掛け払い」「クレジットカード」「代金引換便」はご利用いただけません。
+		</div>
+	</div>
+		
+
+	<div class="pinf_flame_sepalte">
+		<div class="pinf_ttl">クレジットカード支払い</div>
+		<div>
+			<div class="pinf_cont">
+			<img src="../Images_01/information/card_brands.png">
+			</div>
+		</div>
+	</div>
+	
+	<div class="pinf_flame_sepalte">
+		<div class="pinf_ttl">ＮＰ掛け払い（コンビニ・銀行振り込み）</div>
+		<div>
+			<div class="pinf_cont">
+			<a target="_blank" href="http://www.netprotections.com/kakebarai/"><img src="../Images_01/payment/np_kakebarai_bnr02.png"></a><br>
+			商品到着後、払込票兼請求書を別送でお届けしますので、最寄りの銀行、郵便局、コンビニ等でお支払いください。<br>「ＮＰ掛払い」は株式会社ネットプロテクションズのサービスです。
+			</div>
+		</div>
+	</div>
+
+	<div class="pinf_flame_sepalte">
+		<div class="pinf_ttl">代金引換便（現金・クレジットカード・デビットカード）</div>
+		<div>
+			<div class="pinf_cont">
+			<img src="../Images_01/payment/footer_yamato.png" style="margin-top:5px;max-width:360px;"><br>
+			<img src="../Images_01/payment/footer_sagawa.png" style="margin-top:5px;max-width:360px;"><br>
+			お荷物の到着時に､現金またはクレジットカードでお支払いいただきます。<br>配達ドライバーがカード決済用の端末を携帯しています。<br>荷物の到着時に直接カードで決済してください。
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="clr" style="margin-top:40px;"></div>
+	
+	<div id="pinf_gttl">送料／出荷日</div>
+
+	<div class="pinf_flame_sepalte">
+	
+		<div>
+			<div class="pinf_ttl">オーダー単位　契約金額以上で無料となります。</div><div class="pinf_cont">沖縄・離島への発送はご購入金額にかかわらず､別途中継料を頂いております。<br>ただしヤマト運輸をご指定の場合は離島料はかかりません。</div>
+		</div>
+	</div>
+	<div class="pinf_flame_sepalte">
+		<div class="pinf_ttl">出荷日カレンダー</div>
+	
+		<div class="inf_carend">
+
+		
+		
+		<div class="carenflm">
+		<table class="carend_con">
+			<tr><td colspan="7" class="carend_a">2026年　9月</td></tr>
+			<tr>
+				<td class="carend_01">日</td>
+				<td class="carend_01">月</td>
+				<td class="carend_01">火</td>
+				<td class="carend_01" style="width: 16px">水</td>
+				<td class="carend_01">木</td>
+				<td class="carend_01">金</td>
+				<td class="carend_02">土</td>
+			</tr>
+		<tr><td class='carend_03'>　</td><td class='carend_03'>　</td><td class='carend_06'>1</td><td class='carend_06'>2</td><td class='carend_06'>3</td><td class='carend_06'>4</td><td class='carend_04'>5</td></tr><tr><td class='carend_04'>6</td><td class='carend_06'>7</td><td class='carend_06'>8</td><td class='carend_06'>9</td><td class='carend_06'>10</td><td class='carend_06'>11</td><td class='carend_04'>12</td></tr><tr><td class='carend_04'>13</td><td class='carend_06'>14</td><td class='carend_06'>15</td><td class='carend_06'>16</td><td class='carend_06'>17</td><td class='carend_06'>18</td><td class='carend_04'>19</td></tr><tr><td class='carend_04'>20</td><td class='carend_04'>21</td><td class='carend_04'>22</td><td class='carend_04'>23</td><td class='carend_06'>24</td><td class='carend_06'>25</td><td class='carend_04'>26</td></tr><tr><td class='carend_04'>27</td><td class='carend_06'>28</td><td class='carend_06'>29</td><td class='carend_06'>30</td><td class='carend_03'>　</td><td class='carend_03'>　</td><td class='carend_03'>　</td>
+		</tr>
+		</table>
+		</div>
+		
+		
+		
+		<div class="carenflm">
+		<table class="carend_con">
+			<tr><td  align="center" colspan="7" class="carend_a">2026年　10月</td></tr>
+			<tr>
+				<td class="carend_01">日</td>
+				<td class="carend_01">月</td>
+				<td class="carend_01" style="width: 16px">火</td>
+				<td class="carend_01">水</td>
+				<td class="carend_01">木</td>
+				<td class="carend_01">金</td>
+				<td class="carend_02">土</td>
+			</tr>
+		<tr><td class='carend_03'>　</td><td class='carend_03'>　</td><td class='carend_03'>　</td><td class='carend_03'>　</td><td class='carend_06'>1</td><td class='carend_06'>2</td><td class='carend_04'>3</td></tr><tr><td class='carend_04'>4</td><td class='carend_06'>5</td><td class='carend_06'>6</td><td class='carend_06'>7</td><td class='carend_06'>8</td><td class='carend_06'>9</td><td class='carend_04'>10</td></tr><tr><td class='carend_04'>11</td><td class='carend_04'>12</td><td class='carend_06'>13</td><td class='carend_06'>14</td><td class='carend_06'>15</td><td class='carend_06'>16</td><td class='carend_04'>17</td></tr><tr><td class='carend_04'>18</td><td class='carend_06'>19</td><td class='carend_06'>20</td><td class='carend_06'>21</td><td class='carend_06'>22</td><td class='carend_06'>23</td><td class='carend_04'>24</td></tr><tr><td class='carend_04'>25</td><td class='carend_06'>26</td><td class='carend_06'>27</td><td class='carend_06'>28</td><td class='carend_06'>29</td><td class='carend_06'>30</td><td class='carend_04'>31</td>
+		</tr>
+		</table>
+		</div>
+
+		
+		<table summary="発送予定日" style="margin:20px auto;">
+		<tr>
+		<td style="padding:5px;"><div style="width:18px;height:18px;border:solid 1px #EEE;" class="carend_05"></div></td>
+		<td style="padding:5px;">発送予定日</td>
+		<td style="padding:5px;"><div style="width:18px;height:18px;border:solid 1px #EEE;" class="carend_04"></div></td>
+		<td style="padding:5px;">メール休業</td>
+		</tr>
+		</table>
+
+
+		<p style='margin:0px;color:#FF6600;text-align:center;'>出荷可能日はログイン後に表示</p>
+
+		</div>
+	</div>
+
+
+</div>
+
+
+</div>
+
+<div id="fd_flame">
+
+	<div id="fdcont">
+		<div id="fdleft">
+		<a href="https://www.kameyama-candle.jp/bb/Information/inquiry.htm">お問い合わせ</a>｜<a href="https://www.kameyama-candle.jp/bb/Information/secur.htm">プライバシーポリシー</a>｜<a href="https://www.kameyama-candle.jp/bb/Information/bb_info.htm">特定商取引法に関する表示</a>｜
+		</div>
+		<div id="fdright">
+		カメヤマ株式会社　キャンドルハウス事業部
+		</div>
+	</div>
+</div>
+
+<div style="width:100%;height:100px;" class="vmb"></div>
+
+
+
+
+</body>
+</html>

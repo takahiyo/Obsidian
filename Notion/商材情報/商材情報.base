@@ -1,0 +1,43 @@
+# 商材情報
+
+filters:
+  and:
+    - note["base"] == link("商材情報.base")
+properties:
+  file.name:
+    displayName: ページ
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  有効期限:
+    displayName: 有効期限
+  参考:
+    displayName: 参考
+  "ページ ":
+    displayName: "ページ "
+  参照情報:
+    displayName: 参照情報
+  最終更新日時:
+    displayName: 最終更新日時
+  タイトル:
+    displayName: タイトル
+  参照リンク:
+    displayName: 参照リンク
+  参照日:
+    displayName: 参照日
+  オーナー:
+    displayName: オーナー
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - ファイル&メディア
+      - 有効期限
+      - 参考
+      - "ページ "
+      - 参照情報
+      - 最終更新日時
+      - タイトル
+      - 参照リンク
+      - 参照日
+      - オーナー

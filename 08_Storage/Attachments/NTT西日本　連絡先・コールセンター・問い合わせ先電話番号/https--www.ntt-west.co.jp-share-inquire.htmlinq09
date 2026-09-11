@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="ja" class="u-smooth-scroll">
+<head>
+	<meta charset="utf-8">
+	<title>【NTT西日本】お問い合わせ一覧 - 通信・ICTサービス・ソリューション</title>
+	<link rel="canonical" href="https://www.ntt-west.co.jp/share/inquire.html">
+	<meta name="description" content="NTT西日本のサービスに関するお手続きや、設定・故障・料金などの各種お問い合わせ先をご案内しています。">
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="robots" content="index,follow">
+	<link rel="icon" href="/favicon.ico" sizes="32x32">
+	<link rel="icon" href="/icon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="stylesheet" href="/cmn3/css/foundation.css">
+	<link rel="stylesheet" href="/cmn3/css/layout.css?250218">
+	<link rel="stylesheet" href="/cmn3/css/object.css?221017">
+	<link rel="stylesheet" href="/cmn3/css/utility.css?221017">
+	<link rel="stylesheet" href="/cmn3/css/responsive.css">
+	<link rel="stylesheet" href="https://ce.mf.marsflag.com/latest/css/mf-search.css">
+	<link rel="stylesheet" href="/search/css/style.css?260324">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKSQHQM');</script>
+<!-- End Google Tag Manager -->
+
+	<link rel="stylesheet" href="css/modaal.min.css">
+	<link rel="stylesheet" href="css/nw_inquire.css?260629">
+</head>
+<body id="contact" class="cmn2 cmn3">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKSQHQM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a id="top"></a>
+<noscript>
+	<div class="no-scriptmessage">
+		<p>現在 JavaScriptがOFFに設定されています。すべての機能を使用するためには、JavaScriptの設定をONに変更してください。</p>
+	</div>
+</noscript>
+<div id="common-blockskip" tabindex="-1"><a href="#title-h1">このページの本文へ移動</a></div>
+<header class="l-header">
+	<div class="l-header__inner">
+		<p class="l-header-logo"><a class="l-header-logo__a" href="/"><img class="l-header-logo__img" src="/cmn3/img/logo_nttwest.svg" alt="NTT西日本" width="144" height="48"></a></p>
+		<button type="button" class="l-btn-burger" aria-label="メニューを開く" aria-expanded="false" aria-controls="l-header-nav"><span class="l-btn-burger__line"></span></button>
+<nav id="l-header-nav" class="l-header-nav" aria-hidden="true">
+	<ul class="l-header-menu l-header-menu--no-accordion">
+		<li class="l-header-menu__itm l-header-menu__itm--business">
+			<a class="l-header-menu__a" href="https://business.ntt-west.co.jp/" aria-expanded="false" aria-controls="hed-business" vlpageid="Gbiz">法人のお客さま</a>
+			<div id="hed-business" class="l-mega-menu" aria-hidden="true">
+				<div class="l-mega-menu__inn">
+					<div class="l-mega-menu__ttl">
+						<h2><a href="https://business.ntt-west.co.jp/" vlpageid="Gbiz" target="_blank">法人のお客さま</a></h2>
+						<p class="mt20"><a href="https://business.ntt-west.co.jp/support/mypage.html" vlpageid="Gbiz_mypage" class="o-btn o-btn--sm" target="_blank"><span class="u-fs14">ご契約内容の確認は</span><br>ビジネスマイページ</a></p>
+					</div>
+					<div class="l-mega-menu__con">
+						<ul class="l-mid-menu">
+							<li class="l-mid-menu__itm --main-menu">
+								<h3><a href="https://business.ntt-west.co.jp/service/" target="_blank" vlpageid="Gbiz_q13" style="color:#1A1311;">サービス一覧</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/network/fletsoffice/" target="_blank" vlpageid="Gbiz_o11">法人向けフレッツ光</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/bizphone/" target="_blank" vlpageid="Gbiz_o5">ビジネスフォン</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/ipphone/" target="_blank" vlpageid="Gbiz_o6">IP電話</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/security/" target="_blank" vlpageid="Gbiz_o3">情報セキュリティ</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/network/" target="_blank" vlpageid="Gbiz_o4">ネットワーク・Wi-Fi・VPN</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/product/" target="_blank" vlpageid="Gbiz_o8">情報通信機器</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/assist/" target="_blank" vlpageid="Gbiz_o1">業務支援サービス</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/clouddata/" target="_blank" vlpageid="Gbiz_o2">クラウド・データセンター</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/maintenance/" target="_blank" vlpageid="Gbiz_o7">サポート・アウトソーシング</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/contact-center/" target="_blank" vlpageid="Gbiz_o9">コンタクトセンター</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/other/" target="_blank" vlpageid="Gbiz_o11">その他</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm --main-menu">
+								<h3><a href="https://business.ntt-west.co.jp/solution/" target="_blank" vlpageid="Gbiz_s1" style="color:#1A1311;">課題別ソリューション一覧</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/kaigyou.html" target="_blank" vlpageid="Gbiz_s2">オフィスの開業・移転の相談をしたい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/smb_communication.html" target="_blank" vlpageid="Gbiz_s3">ネットワーク環境を見直したい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/smb_security.html" target="_blank" vlpageid="Gbiz_s4">オフィスのセキュリティ対策が心配</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/telework.html" target="_blank" vlpageid="Gbiz_s5">テレワーク・ビジネスチャットを導入したい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/smb_efficiency.html" target="_blank" vlpageid="Gbiz_s6">会社の業務を効率化したい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/bizphone/" target="_blank" vlpageid="Gbiz_s7">ビジネスフォンを導入したい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/service/assist/camera_toreru/" target="_blank" vlpageid="Gbiz_s8">オフィス・工場・店舗の防犯対策をしたい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/datacenter/" target="_blank" vlpageid="Gbiz_s9">会社の情報を安心して保管したい</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/solution/industry_content.html" target="_blank" vlpageid="Gbiz_s10">業種特有の悩みを解決したい</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm --main-menu">
+								<h3><a href="https://business.ntt-west.co.jp/industry/" target="_blank" vlpageid="Gbiz_q14" style="color:#1A1311;">業種別ソリューション一覧</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/public/" target="_blank" vlpageid="Gbiz_p1">公共・自治体</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/medical/" target="_blank" vlpageid="Gbiz_p9">医療・介護</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/construction/" target="_blank" vlpageid="Gbiz_p6">建設</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/manufacturing/" target="_blank" vlpageid="Gbiz_p3">製造</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/edu/" target="_blank" vlpageid="Gbiz_p10">学校・教育</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/distribution/" target="_blank" vlpageid="Gbiz_p7">流通・小売</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/service_industry/" target="_blank" vlpageid="Gbiz_p11">サービス業</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/infra/" target="_blank" vlpageid="Gbiz_p4">社会インフラ</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/real_estate/" target="_blank" vlpageid="Gbiz_p5">不動産</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/travel/" target="_blank" vlpageid="Gbiz_p2">宿泊・飲食</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/industry/agriculture/" target="_blank" vlpageid="Gbiz_p8">農林水産業</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3>関連サイト</h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/support/mypage.html" target="_blank" vlpageid="Gbiz_r1">ビジネスマイページ</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/event/" target="_blank" vlpageid="Gbiz_r1">イベント・セミナー</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/glossary/" target="_blank" vlpageid="Gbiz_r2">ICT用語集</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="l-mega-menu__close">閉じる</button>
+				</div>
+			</div>
+		</li>
+		<li class="l-header-menu__itm l-header-menu__itm--personal">
+			<a class="l-header-menu__a" href="/product/" aria-expanded="false" aria-controls="hed-personal" vlpageid="Gprd">個人のお客さま</a>
+			<div id="hed-personal" class="l-mega-menu" aria-hidden="true">
+				<div class="l-mega-menu__inn">
+					<div class="l-mega-menu__ttl">
+						<h2><a href="/product/" vlpageid="Gprd">個人のお客さま</a></h2>
+						<p class="mt20"><a href="/product/mypage/" vlpageid="Gprd_mypage" class="o-btn o-btn--sm" target="_blank"><span class="u-fs14">ご契約内容の確認は</span><br>マイページ</a></p>
+					</div>
+					<div class="l-mega-menu__con">
+						<ul class="l-mid-menu">
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor01" vlpageid="Gprd_b1">インターネットサービス</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/" target="_blank" vlpageid="Gprd_b2">フレッツ光</a>
+									</li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/collabo/" target="_blank" vlpageid="Gprd_b4">光コラボレーションモデル</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/opt/" target="_blank" vlpageid="Gprd_b3">フレッツ光オプションサービス</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/chienetta/" target="_blank" vlpageid="Gprd_f3">チエネッタ</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor02" vlpageid="Gprd_c1">電話サービス</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/hikaridenwa/" target="_blank" vlpageid="Gprd_c2">ひかり電話</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/denwa/" vlpageid="Gprd_c3">加入電話・INSネット</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor03" vlpageid="Gprd_d1">電報サービス</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://dmail.denpo-west.ne.jp/p/" target="_blank" vlpageid="Gprd_d2">D-MAIL</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://dmail.denpo-west.ne.jp/column/" target="_blank" vlpageid="Gprd_d3">電報コラム</a></li>
+								</ul>
+							</li>
+						</ul>
+						<ul class="l-mid-menu l-mid-menu">
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor04" vlpageid="Gprd_e1">各種お申し込み・お手続き</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor04" vlpageid="Gprd_e2">各サービスのお申し込み</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://cont-net.ntt-west.co.jp/info/login" target="_blank" vlpageid="Gprd_e7">契約内容のご確認</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor04" vlpageid="Gprd_e3">お引越し手続き</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor04" vlpageid="Gprd_e4">各種変更お申し込み</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor04" vlpageid="Gprd_e6">支払い手続き</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor04" vlpageid="Gprd_e5">その他のお手続き</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor05" vlpageid="Gprd_g1">サポート・お問い合わせ</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor05" vlpageid="Gprd_g1">よくあるご質問</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/#anchor05" vlpageid="Gprd_g2">設定・トラブルサポート</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html" vlpageid="Gprd_g3">お問い合わせ</a></li>
+								</ul>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/product/#anchor06" vlpageid="Gprd_f1">関連サイト</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/disa.html" vlpageid="Gprd_f5">緊急災害時サービス</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/ptd/" vlpageid="Gprd_f4">公衆電話インフォメーション</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="http://www.denwacho.ne.jp/" target="_blank" vlpageid="Gprd_f6">タウンページライブラリー</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/product/sagitaisaku/" vlpageid="Gprd_f7">特殊詐欺対策に向けた取り組み</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="l-mega-menu__close">閉じる</button>
+				</div>
+			</div>
+		</li>
+		<li class="l-header-menu__itm l-header-menu__itm--corporate">
+			<a class="l-header-menu__a" href="/corporate/" aria-expanded="false" aria-controls="hed-corporate" vlpageid="Gcop">企業情報</a>
+			<div id="hed-corporate" class="l-mega-menu" aria-hidden="true">
+				<div class="l-mega-menu__inn">
+					<div class="l-mega-menu__ttl">
+						<h2><a href="/corporate/" vlpageid="Gcop">企業情報</a></h2>
+					</div>
+					<div class="l-mega-menu__con">
+						<p class="l-sml-link"><a class="l-sml-link__a" href="/brand/" vlpageid="Gcop_b4">ブランドページ</a></p>
+						<ul class="l-mid-menu">
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/corporate/#about" vlpageid="Gcop_c1">NTT西日本について</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/about/profile.html" vlpageid="Gcop_c2">会社案内</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/branch/" vlpageid="Gcop_c3">支店情報</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><span class="l-sml-link__a">採用情報</span>
+										<ul>
+											<li class="u-dib mr10"><a href="/newgrad/" target="_blank" class="l-sml-link__a link-blank" vlpageid="Gcop_c8">新卒採用</a></li>
+											<li class="u-dib"><a href="/midcareer/" target="_blank" class="l-sml-link__a link-blank" vlpageid="Gcop_c9">経験者採用</a></li>
+										</ul>
+									</li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/info/zaimu/" vlpageid="Gcop_c5">財務情報</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/message/" vlpageid="Gcop_c7">社長メッセージ</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/identity/" vlpageid="Gcop_c10">CIの刷新について</a></li>
+								</ul>
+								<p class="l-sml-link l-sml-link--more"><a class="l-sml-link__a" href="/corporate/#about" vlpageid="Gcop_c6">もっと見る</a></p>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/corporate/#commitment" vlpageid="Gcop_d1">取り組み</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/sustainability/" vlpageid="Gcop_d2">サステナビリティ活動</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/ad/" vlpageid="Gcop_d7">メディアライブラリー</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/corporate/disa.html" target="_blank" vlpageid="Gcop_d4">NTT西日本の災害の備え<br class="l-old-nobr">・対策サイト</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/corporate/security/" vlpageid="Gcop_d8">お客さま情報の不正持ち出しを踏まえた情報セキュリティ強化について</a></li>
+								</ul>
+								<p class="l-sml-link l-sml-link--more"><a class="l-sml-link__a" href="/corporate/#commitment" vlpageid="Gcop_d6">もっと見る</a></p>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/corporate/#info" vlpageid="Gcop_e1">各種情報</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/open/" target="_blank" vlpageid="Gcop_e2">公開情報</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/info/databook/" target="_blank" vlpageid="Gcop_e3" style="font-feature-settings:'palt';">インフォメーション<br class="l-old-br">NTT西日本</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/tariff/" target="_blank" vlpageid="Gcop_e4">約款・技術情報</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/procure/" target="_blank" vlpageid="Gcop_e5">調達業務</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="https://group.ntt/jp/protection/partners_procure.html" target="_blank" vlpageid="Gcop_e7">調達に係るお取引先法人等に関する情報の取り扱い</a></li>
+								</ul>
+								<p class="l-sml-link l-sml-link--more"><a class="l-sml-link__a" href="/corporate/#info" vlpageid="Gcop_e6">もっと見る</a></p>
+							</li>
+							<li class="l-mid-menu__itm">
+								<h3><a class="l-mid-link" href="/corporate/#culture" vlpageid="Gcop_f1">文化・スポーツ活動</a></h3>
+								<ul class="l-sml-menu">
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/symbol/" target="_blank" vlpageid="Gcop_f2">シンボルチーム</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a link-blank" href="/event/tri/" target="_blank" vlpageid="Gcop_f3">トライアスロンへの<br>スポンサー活動</a></li>
+									<li class="l-sml-menu__itm l-sml-link"><a class="l-sml-link__a" href="/kyushu/moji/" vlpageid="Gcop_f4">門司電気通信レトロ館</a></li>
+								</ul>
+								<p class="l-sml-link l-sml-link--more"><a class="l-sml-link__a" href="/corporate/#culture" vlpageid="Gcop_f5">もっと見る</a></p>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="l-mega-menu__close">閉じる</button>
+				</div>
+			</div>
+		</li>
+		<li class="l-header-menu__itm l-header-menu__itm--contact">
+			<a class="l-header-menu__a" href="/share/inquire.html" aria-expanded="false" aria-controls="hed-contact" vlpageid="Ginq">お問い合わせ一覧</a>
+			<div id="hed-contact" class="l-mega-menu" aria-hidden="true">
+				<div class="l-mega-menu__inn">
+					<div class="l-mega-menu__ttl">
+						<h2><a href="/share/inquire.html" vlpageid="Ginq">お問い合わせ一覧</a></h2>
+					</div>
+					<div class="l-mega-menu__con">
+						<p class="l-mega-menu__sub">お問い合わせの前にご確認ください</p>
+						<ul class="grid grid-margin-10 grid-fill">
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/faq/" vlpageid="Ginq_b1">よくあるご質問</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="/trouble/" target="_blank" vlpageid="Ginq_b3">設定・トラブルサポートWeb 113</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://u-see-map.ntt-west.co.jp/" target="_blank" vlpageid="Ginq_b4">通信サービス状況（地図表示）</a></div>
+							</li>
+						</ul>
+						<p class="l-mega-menu__sub">お困りごとを解決できるお問い合わせ先をご案内します</p>
+						<ul class="grid grid-margin-10 grid-fill">
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire/navigation.html" vlpageid="Ginq_b5">お問い合わせナビゲーション</a></div>
+							</li>
+						</ul>
+						<hr class="l-mega-menu__separator">
+						<p class="l-mega-menu__sub">お問い合わせ内容</p>
+						<ul class="grid grid-margin-10 grid-fill">
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/inquiry/" target="_blank" vlpageid="Ginq_d1">インターネット（フレッツ、ひかり電話）</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="/denwa/support/contact/" target="_blank" vlpageid="Ginq_d2">電話サービス</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://www.customersupport.ntt-w.net/" target="_blank" vlpageid="Ginq_d3">故障・トラブル</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://equipment-report-nttwest.jp/safety_report_web/failure/" target="_blank" vlpageid="Ginq_d4">設備不良</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://flets-w.com/inq/finance/" target="_blank" vlpageid="Ginq_d5">利用料金・請求内容</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a link-blank" href="https://business.ntt-west.co.jp/support/" target="_blank" vlpageid="Ginq_d6">法人のお客さま</a></div>
+							</li>
+						</ul>
+						<hr class="l-mega-menu__separator">
+						<ul class="grid grid-margin-10 grid-fill">
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq09" vlpageid="Ginq_d7">情報機器について</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq10" vlpageid="Ginq_d8">通信設備工事の品質向上に関するご意見</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq11" vlpageid="Ginq_d9">勧誘停止登録ダイヤル</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq12" vlpageid="Ginq_d10">NTT西日本に関するご意見・ご要望</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq13" vlpageid="Ginq_d11">委託会社など一覧</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq14" vlpageid="Ginq_d12">設備系申請など一覧</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq15" vlpageid="Ginq_d13">耳や言葉が不自由な方へ</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link" style="letter-spacing: -0.7px;"><a class="l-sml-link__a" href="/share/inquire.html#inq16" vlpageid="Ginq_d14">契約者ご本人さまからお申し込みができない場合</a></div>
+							</li>
+							<li class="grid-cell -4of12">
+								<div class="l-sml-link"><a class="l-sml-link__a" href="/share/inquire.html#inq20" vlpageid="Ginq_d15">自然災害等で避難されたお客さまに対する電話料金等の取り扱いについて</a></div>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="l-mega-menu__close">閉じる</button>
+				</div>
+			</div>
+		</li>
+		<li class="l-header-menu__itm l-header-menu__itm--en">
+			<a class="l-header-menu__a" href="/english/" lang="en">English</a>
+		</li>
+	</ul>
+	<div class="l-search">
+		<div class="mf_finder_header l-search__mfx-sbox">
+			<mf-search-box
+				ajax-url="https://finder.api.mf.marsflag.com/api/v1/finder_service/documents/f03f83fa/search"
+				serp-url="/search/result.html"
+				submit-text=""
+				doctype-hidden
+				options-hidden
+				target-blank
+				imgsize-default="2"
+				placeholder="サイト内検索"
+				input-title="サイト内検索"
+			></mf-search-box>
+		</div>
+	</div>
+</nav>
+
+	</div>
+</header>
+<p id="content-start" class="vanish">ここから本文です。</p>
+<main class="l-main">
+	<div class="l-title-img">
+		<h1 class="l-title-img__h">お問い合わせ一覧</h1>
+		<p class="l-title-img__sub">NTT西日本のサービスに関するお手続きや、設定・故障・料金などの各種お問い合わせ先をご案内しています。</p>
+	</div>
+	<section class="l-sec--blue">
+		<div class="l-sec__inner pt30 pb30">
+			<h2 class="o-title-lv3 mt0">お問い合わせの前にご確認ください</h2>
+			<div class="grid grid-margin">
+				<div class="grid-cell -4of12 -6of12-md -12of12-sm">
+					<p class="align-center mt0 mb10">困った時は、まずはこちら</p>
+					<a class="o-btn o-btn--outline o-btn--block u-fs" href="/faq/" vlpageid="inq4_a1">よくあるご質問</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md -12of12-sm">
+					<p class="align-center mt0 mb10">電話等トラブル時の対応方法を確認できます</p>
+					<a class="o-btn o-btn--outline o-btn--block u-fs" href="/trouble/" target="_blank" vlpageid="inq4_a2">設定・トラブルサポートWeb 113</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md -12of12-sm">
+					<p class="align-center mt0 mb10">地域ごとのサービス提供状況を確認できます</p>
+					<a class="o-btn o-btn--outline o-btn--block u-fs" href="https://u-see-map.ntt-west.co.jp/" target="_blank" vlpageid="inq4_a3">通信サービス状況（地図表示）</a>
+				</div>
+			</div>
+			<h2 class="o-title-lv4 align-center"><span class="u-fs14">お困りごとの内容を選択していくことで</span><br>お問い合わせ先をご案内</h2>
+			<div class="grid grid-center mt20 mb20">
+				<div class="grid-cell -6of12 -12of12-md">
+					<div class="box-contact">
+						<a href="inquire/navigation.html" class="o-btn o-btn--orange o-btn--block u-fs js-btn-nav" vlpageid="inq4_a4">お問い合わせナビゲーションへ</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div class="fixed-bnr" hidden>
+		<div class="fixed-bnr__txt hidden-sm"><span class="u-fs14">お困りごとの内容を選択していくことで</span><br>お問い合わせ先をご案内</div>
+		<div class="fixed-bnr__txt visible-sm u-fs">お困りごとから最適なお問い合わせ先をご案内</div>
+		<a href="inquire/navigation.html" class="o-btn o-btn--orange o-btn--rounded u-fs" vlpageid="inq4_z1">お問い合わせナビゲーションへ</a>
+	</div>
+	<section class="l-sec">
+		<div class="l-sec__inner pt30 pb40">
+			<h2 class="o-title-lv2 mb30">お問い合わせ内容</h2>
+			<div class="grid grid-margin grid-fill mt30">
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="https://flets-w.com/inquiry/" class="o-comb-link" target="_blank" vlpageid="inq4_b1">
+						<div class="o-comb-link__header">
+							<img src="/cmn3/img/icon/ic_wireless.svg" alt="">
+							<div class="o-comb-link__ttl">インターネット<br>（フレッツ、ひかり電話）</div>
+						</div>
+						<p class="o-comb-link__txt">インターネットの新規申し込みなどのお問い合わせはこちらへ。</p>
+					</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="/denwa/support/contact/" class="o-comb-link" target="_blank" vlpageid="inq4_b2">
+						<div class="o-comb-link__header">
+							<img src="/cmn3/img/icon/ic_phone_call.svg" alt="">
+							<div class="o-comb-link__ttl">電話サービス</div>
+						</div>
+						<p class="o-comb-link__txt">電話の新設・移転などのご注文やお問い合わせの方はこちらへ。</p>
+					</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="https://www.customersupport.ntt-w.net/" class="o-comb-link" target="_blank" vlpageid="inq4_b3">
+						<div class="o-comb-link__header">
+							<img src="/cmn3/img/icon/ic_exclamation.svg" alt="">
+							<div class="o-comb-link__ttl">故障・トラブル</div>
+						</div>
+						<p class="o-comb-link__txt">インターネットや電話の故障・トラブルなどに関するお問い合わせはこちらへ。</p>
+					</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="https://equipment-report-nttwest.jp/safety_report_web/failure/" class="o-comb-link" target="_blank" vlpageid="inq4_b4">
+						<div class="o-comb-link__header">
+							<img src="img/icon_tools.svg" alt="">
+							<div class="o-comb-link__ttl">設備不良</div>
+						</div>
+						<p class="o-comb-link__txt">電話線の垂れ下がり、電柱の破損など不安全な設備を発見した場合はこちらへ。</p>
+					</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="https://flets-w.com/inq/finance/" class="o-comb-link" target="_blank" vlpageid="inq4_b5">
+						<div class="o-comb-link__header">
+							<img src="/cmn3/img/icon/ic_yen.svg" alt="">
+							<div class="o-comb-link__ttl">利用料金・請求内容</div>
+						</div>
+						<p class="o-comb-link__txt">NTT西日本の料金請求書、領収証・口座振替など料金についてのお問い合わせはこちらへ。</p>
+					</a>
+				</div>
+				<div class="grid-cell -4of12 -6of12-md  -12of12-sm">
+					<a href="https://business.ntt-west.co.jp/support/" class="o-comb-link" target="_blank" vlpageid="inq4_b6">
+						<div class="o-comb-link__header">
+							<img src="/cmn3/img/icon/ic_head_office02.svg" alt="">
+							<div class="o-comb-link__ttl">法人のお客さま</div>
+						</div>
+						<p class="o-comb-link__txt">法人向けサービス・ソリューション等に関するお問い合わせはこちらへ。</p>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="l-sec__inner--w900 pt0">
+			<ul class="o-pagenav grid grid-margin grid-fill">
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq09" class="link-inside">情報機器について</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq10" class="link-inside">通信設備工事の品質向上に関するご意見</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq11" class="link-inside">勧誘停止登録ダイヤル</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq12" class="link-inside">NTT西日本に関するご意見・ご要望</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq13" class="link-inside">委託会社など一覧</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq19" class="link-inside">情報機器特約店・販売委託店一覧</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq14" class="link-inside">設備系申請など一覧</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq15" class="link-inside">耳や言葉が不自由な方へ</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq16" class="link-inside">契約者ご本人さまからお申し込みができない場合</a>
+				</li>
+				<li class="o-pagenav__itm grid-cell -6of12 -12of12-md">
+					<a href="#inq20" class="link-inside align-left">自然災害等で避難されたお客さまに対する電話料金等の取り扱いについて</a>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq01">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">フレッツサービスやひかり電話など</h2>
+			<h3 class="o-title-lv3">サービス内容・各種お手続きについて</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a class="o-btn o-btn--block u-fs" href="https://flets-w.com/inquiry/" target="_blank" vlpageid="inq4_c1">お問い合わせ<br class="visible-sm">WEBページ</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-flets-service" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_c2">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-flets-service">
+							<div class="o-alert mt0 mb20">
+								<div class="o-alert__header">
+									<h2 class="o-alert__title"><img src="/cmn3/img/icon/ic_alert.svg" alt="重要なお知らせ" width="22" height="22" class="mr10">お問い合わせについて</h2>
+								</div>
+								<div class="o-alert__body u-fs">
+									現在、インターネット・お電話でのお問い合わせが大変混み合っております。<br>
+									ご迷惑をお掛けし誠に申し訳ございませんが、ご理解賜りますようお願い申し上げます。
+								</div>
+							</div>
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-116116</span>
+							</p>
+							<p>受付時間：午前9時～午後5時　土日・年末年始（12月29日～1月3日）を除く</p>
+							<ul class="note-list">
+								<li>※携帯電話からもご利用いただけます。</li>
+								<li>※電話番号をお確かめの上、お間違えのないようにお願いいたします。</li>
+								<li>※東日本エリアから発信の場合は「0800-2000116」へお願いいたします。</li>
+								<li>※ご相談いただいた内容の確認のため、折り返しお電話させていただく場合がございますので、発信者番号を非通知に設定されているお客さまは、電話番号の最初に「186」を追加していただきお電話ください。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<p class="align-center"><strong>WEBからのお手続きだと<span class="u-blue">工事費がお安く</span>なるケースがあります。</strong></p>
+			<div class="o-alert mt40">
+				<div class="o-alert__body">
+					<div class="o-media">
+						<img src="/cmn3/img/icon/ic_alert_red.svg" alt="重要なお知らせ" width="22" height="22">
+						<div class="o-media__body ml10">
+							<p class="u-red strong">光コラボレーション事業者さまが提供するサービスの内容、ご利用料金、ユーザーサポートなどの各種お問い合わせにつきましては、各光コラボレーション事業者さまの窓口へ直接お問い合わせください。</p>
+							<p><a href="https://flets-w.com/collabo/" class="o-link" target="_blank" vlpageid="inq4_c3">光コラボレーションをご検討・ご利用中のお客さまはこちら</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h3 class="o-title-lv3" id="inq03">故障について</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="https://www.customersupport.ntt-w.net/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_c4">お問い合わせ<br class="visible-sm">WEBページ</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-flets-kosyo" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_c5">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-flets-kosyo">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_tel_free.png" alt="フリーアクセス"></span>
+								<span>0120-248995</span>
+							</p>
+							<p>■ひかり電話、フレッツサービスの故障などについて<br>
+							受付時間：24時間受付（音声ガイダンスによる録音受付）</p>
+							<ul class="note-list">
+								<li>※オペレータ－が録音内容を確認後、順次電話またはSMS等でご対応させていただきます。<br>
+								（一部時間帯においては、オペレーターが直接受付を行う場合があります）</li>
+								<li>※緊急対応が必要な場合にはオペレーターがお受けいたしますので、音声ガイダンスに沿って対応ください。</li>
+								<li>※故障修理などの対応については午前9時～午後5時とさせていただきます。</li>
+								<li>※NTT東日本エリアからは0120-248842にて受付を実施しております。</li>
+							</ul>
+							<p>■フレッツ設定マニュアル・設定ガイド及び添付のCD-ROMについて<br>
+							■NTT西日本情報機器の取扱説明書に記載された内容について<br>
+							受付時間：午前9時～午後5時（音声ガイダンスによる録音受付）</p>
+							<ul class="note-list">
+								<li>※オペレータ－が録音内容を確認後、順次電話またはSMS等でご対応させていただきます。<br>
+								（一部時間帯においては、オペレーターが直接受付を行う場合があります）</li>
+								<li>※フリーアクセスはNTT西日本エリア（北陸・東海・関西・中国・四国・九州）以外からはご利用になれません。</li>
+								<li>※携帯電話・PHSからもご利用いただけます。</li>
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h3 class="o-title-lv3" id="inq08">開通工事について</h3>
+			<p class="align-center">フレッツ 光ネクスト開通工事（派遣工事）の「工事当日」の進捗状況に関するお問い合わせ。</p>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a class="o-btn o-btn--block u-fs" href="https://webcgi-west.jp/app/?type=otksxx" target="_blank" vlpageid="inq4_c6">お問い合わせ<br class="visible-sm">フォーム</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec" id="inq02">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">電話サービス</h2>
+			<h3 class="o-title-lv3">サービス内容・各種お手続きについて</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a class="o-btn o-btn--block u-fs" href="https://flets-w.com/inq/link_inq.php?sbt=to146001&acs=01" target="_blank" vlpageid="inq4_d1">お問い合わせ<br class="visible-sm">フォーム</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-denwa-service" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_d2">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-denwa-service">
+							<div class="o-alert mt0 mb20">
+								<div class="o-alert__header">
+									<h2 class="o-alert__title"><img src="/cmn3/img/icon/ic_alert.svg" alt="重要なお知らせ" width="22" height="22" class="mr10">お問い合わせについて</h2>
+								</div>
+								<div class="o-alert__body u-fs">
+									現在、インターネット・お電話でのお問い合わせが大変混み合っております。<br>
+									ご迷惑をお掛けし誠に申し訳ございませんが、ご理解賜りますようお願い申し上げます。
+								</div>
+							</div>
+							<div class="dial">
+								<p><span class="ic"><img src="/cmn2/img/cmn_tel_free.png" alt="フリーアクセス"></span>
+								<span>0800-2000116</span></p>
+							</div>
+							<p class="dial-min mt20">
+								<span class="ic"><img src="/cmn2/img/cmn_tel2.png" alt=""></span>
+								<span>局番なしの「116」</span>
+							</p>
+							<ul class="note-list align-center">
+								<li>※「116」は携帯電話からの発信でご利用になれません。</li>
+							</ul>
+							<p>受付時間：午前9時～午後5時　土日・年末年始（12月29日～1月3日）を除く</p>
+							<ul class="note-list">
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+								<li>※東日本エリアから発信の場合は「0800-2000116」へお願いいたします。</li>
+								<li>※<a href="/sustainability/wellbeing/contribution/welfare/fax/" class="o-link" target="_blank" vlpageid="inq4_d3">耳や言葉の不自由な方からの電話の移転、ご注文などのご相談、サービスのお問い合わせなどをファクスでお受けするサービス（無料）についてはこちらをご覧ください。</a></li>
+								<li>※ご相談いただいた内容の確認のため、折り返しお電話させていただく場合がございますので、発信者番号を非通知に設定されているお客さまは、電話番号の最初に「186」を追加していただきお電話ください。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h3 class="o-title-lv3">故障について</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="https://www.customersupport.ntt-w.net/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_d4">お問い合わせ<br class="visible-sm">WEBページ</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-denwa-kosyo" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_d5">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-denwa-kosyo">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_tel2.png" alt=""></span>
+								<span>局番なしの「113」</span>
+							</p>
+							<div class="dial-min mt20">
+								<p style="font-size:70%;">ひかり電話・携帯電話・PHSからは</p>
+								<p><span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-444113</span></p>
+							</div>
+							<p>受付時間：24時間（音声ガイダンスによる録音受付）</p>
+							<ul class="note-list">
+								<li>※オペレータ－が録音内容を確認後、順次電話またはSMS等でご対応させていただきます（一部時間帯においては、オペレーターが直接受付を行う場合があります）。</li>
+								<li>※緊急対応が必要な場合にはオペレーターがお受けいたしますので、音声ガイダンスに沿って対応ください。</li>
+								<li>※故障修理などの対応については午前9時～午後5時とさせていただきます。</li>
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+								<li>※<a class="o-link" href="/sustainability/wellbeing/contribution/welfare/fax/" target="_blank" vlpageid="inq4_d6">耳や言葉の不自由な方からの電話の故障のご相談、お問い合わせなどをファクスでお受けするサービス（無料）についてはこちらをご覧ください。</a></li>
+								<li>※垂れ下がっている電話線等を見かけましたら、インターネットでも情報を受け付けています。<br>
+								<a class="o-link" href="https://equipment-report-nttwest.jp/safety_report_web/failure/" target="_blank" vlpageid="inq4_d7">詳しくはこちらをご覧ください。</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h3 class="o-title-lv3" id="inq07">設備不良に関する報告・お問い合わせ</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="https://equipment-report-nttwest.jp/safety_report_web/failure/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_d8">報告・お問い合わせWEBページ</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-setsubi" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_d9">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-setsubi">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_tel2.png" alt=""></span>
+								<span>局番なしの「113」</span>
+							</p>
+							<div class="dial-min">
+								<p style="font-size:70%;">ひかり電話・携帯電話・PHSからは</p>
+								<p><span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-444113</span></p>
+							</div>
+							<p>受付時間：24時間（音声ガイダンスによる録音受付）</p>
+							<ul class="note-list">
+								<li>※オペレータ－が録音内容を確認後、順次呼び返しにて対応いたします（一部時間帯においては、オペレーターが直接受付を行う場合があります）。</li>
+								<li>※緊急対応が必要な場合にはオペレーターがお受けいたしますので、音声ガイダンスに沿って対応ください。</li>
+								<li>※故障修理などの対応については午前9時～午後5時とさせていただきます。</li>
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+								<li>※<a class="o-link" href="/sustainability/wellbeing/contribution/welfare/fax/" target="_blank" vlpageid="inq4_d10">耳や言葉の不自由な方からの電話の故障のご相談、お問い合わせなどをファクスでお受けするサービス（無料）についてはこちらをご覧ください。</a></li>
+								<li>※垂れ下がっている電話線等を見かけましたら、インターネットでも情報を受け付けています。<br>
+								<a class="o-link" href="https://equipment-report-nttwest.jp/safety_report_web/failure/" target="_blank" vlpageid="inq4_d11">詳しくはこちらをご覧ください。</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq17">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2 u-fs34">ビジネス向け商品・サービスの導入・活用に関するご相談</h2>
+			<h3 class="o-title-lv3">中堅・中小規模企業のお客さま</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a class="o-btn o-btn--block u-fs" href="https://lp.ntt-west.co.jp/smb_fsc_form_reg.html" target="_blank" vlpageid="inq4_f1">お問い合わせ<br class="visible-sm">フォーム</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-ict-telework" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_f2">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-ict-telework">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-765000</span>
+							</p>
+							<p>受付時間：午前9時～午後5時<br>（土曜・日曜・祝日・年末年始（12/29～1/3）を除く）</p>
+							<ul class="note-list">
+								<li>※電話番号をお確かめの上、お間違えのないようにお願いいたします。</li>
+								<li>※新型コロナウイルス感染拡大防止のため、営業時間を短縮させていただく場合があります。ご了承ください。</li>
+								<li>※ご相談いただいた内容の確認のため、折り返しお電話させていただく場合がございますので、発信者番号を非通知に設定されているお客さまは、電話番号の最初に「186」を追加していただきお電話ください。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h3 class="o-title-lv3" id="inq18">店舗・個人事業主のお客さま</h3>
+			<div class="grid grid-margin-10 grid-fill grid-btn">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a class="o-btn o-btn--block u-fs" href="https://lp.ntt-west.co.jp/smb_prime_form_reg.html?pdt=soho" target="_blank" vlpageid="inq4_f3">お問い合わせ<br class="visible-sm">フォーム</a>
+					</div>
+				</div>
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-ict-desk" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_f4">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-ict-desk">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-765000</span>
+							</p>
+							<p>受付時間：午前9時～午後5時<br>（土曜・日曜・祝日・年末年始（12/29～1/3）を除く）</p>
+							<ul class="note-list">
+								<li>※電話番号をお確かめの上、お間違えのないようにお願いいたします。</li>
+								<li>※新型コロナウイルス感染拡大防止のため、営業時間を短縮させていただく場合があります。ご了承ください。</li>
+								<li>※ご相談いただいた内容の確認のため、折り返しお電話させていただく場合がございますので、発信者番号を非通知に設定されているお客さまは、電話番号の最初に「186」を追加していただきお電話ください。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec" id="inq09">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">情報機器について</h2>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="/kiki/support/inquiry/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_g1">お問い合わせ<br class="visible-sm">WEBページ</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq10">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">通信設備工事の品質向上に関するご意見</h2>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-hinshitsu" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_h1">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-hinshitsu">
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_tel_free.png" alt="フリーアクセス"></span>
+								<span>0120-928449</span>
+							</p>
+							<p>受付時間：午前9時～午後5時<br>
+							休業日：土曜、日曜、祝日、年末年始（12/29～1/3）</p>
+							<ul class="note-list">
+								<li>※より一層お客さまに安心していただける工事に努めるために、工事前後の挨拶や電話工事中の安全面等に関するお客さまのご意見・ご要望等を頂戴する窓口です。</li>
+								<li>※フリーアクセスはNTT西日本エリア（北陸・東海・関西・中国・四国・九州）以外からはご利用になれません。</li>
+								<li>※携帯電話・PHSからもご利用いただけます。</li>
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+								<li>※<a href="#inq14" class="o-link modaal-close" title="ページ内アンカーへのリンク" vlpageid="inq4_h2">電柱の移設に関するお問合せ先はこちら <img src="/cmn3/img/icon/ic_arrow_down.svg" width="17" alt=""></a></li>
+								<li>※<a href="#inq02" class="o-link modaal-close" title="ページ内アンカーへのリンク" vlpageid="inq4_h3">電話の新設・移転等に関するお問い合わせこちら <img src="/cmn3/img/icon/ic_arrow_up.svg" width="17" alt=""></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec" id="inq11">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">勧誘停止登録ダイヤル</h2>
+			<p>NTT西日本が提供しているサービス（フレッツ光など）について、勧誘の停止登録受付を実施しています。</p>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-kannyu" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_i1">お問い合わせ<br class="visible-sm">電話番号</a>
+						<div class="modal" id="modal-kannyu">
+							<h3 class="contact-subject align-center strong mb10">お客様相談センタ（勧誘停止登録ダイヤル）</h3>
+							<p>NTT西日本が提供しているサービス（フレッツ光など）について、勧誘の停止登録受付を実施しています。</p>
+							<p class="dial">
+								<span class="ic"><img src="/cmn2/img/cmn_freedial.svg" alt="フリーダイヤル"></span>
+								<span>0120-019390</span>
+							</p>
+							<p>受付時間：午前9時～午後5時<br>
+							休業日：土曜、日曜、祝日、年末年始（12/29～1/3）</p>
+							<ul class="note-list">
+								<li>※携帯電話・PHSからもご利用いただけます。</li>
+								<li>※電話番号をお確かめのうえ、お間違えのないようお願いいたします。</li>
+							</ul>
+							<p class="mt20 u-fs15">＜留意事項＞</p>
+							<ul class="o-list --no-gap u-fs15 mt0">
+								<li>勧誘停止手続きが完了するまで、お時間をいただく場合がございます。</li>
+								<li>事業者の変更（番号ポータビリティ）や停止登録された電話番号が変更となった場合は、再度登録申請が必要です。</li>
+								<li>勧誘を停止するにあたり、停止登録頂いた電話番号及び住所・氏名等お客さま情報を弊社代理店等へ提供いたしますので、予めご了承願います。</li>
+								<li><em class="note-red">光コラボレーション事業者さまの勧誘停止登録につきましては、恐れ入りますが各光コラボレーション事業者さまの窓口へ直接ご連絡していただくようお願いいたします。</em></li>
+								<li>ご相談いただいた内容の確認のため、折り返しお電話させていただく場合がございますので、発信者番号を非通知に設定されているお客さまは、電話番号の最初に「186」を追加していただきお電話ください。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq12">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">NTT西日本に関するご意見・ご要望</h2>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="/soudanc/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_j3">お客様相談センタ<br class="visible-sm">ページへ</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec" id="inq13">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">委託会社など一覧</h2>
+			<ul class="grid grid-margin grid-btn">
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs o-tag--pdf" href="pdf/flets_itaku.pdf" target="_blank" vlpageid="inq4_k1">フレッツ光販売委託会社一覧</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs o-tag--pdf" href="pdf/business_itaku.pdf" target="_blank" vlpageid="inq4_k3">ビジネス系販売業務委託会社一覧</a></li>
+			</ul>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq19">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">情報機器特約店・販売委託店一覧</h2>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="https://www2.hanbaiten.cpe.isp.ntt-west.co.jp/" class="o-btn o-btn--block u-fs" target="_blank" vlpageid="inq4_p1">NTT西日本特約店<br class="visible-sm">ホームページへ</a>
+					</div>
+				</div>
+			</div>
+			<div class="o-alert mt30">
+				<div class="o-alert__body">
+					<div class="o-media">
+						<img src="/cmn3/img/icon/ic_alert_red.svg" alt="重要なお知らせ" width="22" height="22">
+						<div class="o-media__body ml10">
+							<p class="u-red strong">「NTT西日本」「NTT西日本特約店」等を騙った販売行為にご注意ください。</p>
+							<p class="mt0"><a href="https://www2.hanbaiten.cpe.isp.ntt-west.co.jp/cyuui/" class="o-link" target="_blank" vlpageid="inq4_p2">注意喚起情報はこちら</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec" id="inq14">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">設備系申請など一覧</h2>
+			<ul class="grid grid-margin grid-fill grid-btn">
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="/tenga/" vlpageid="inq4_l1">各種添架申請</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="setsubi/bougo.html" vlpageid="inq4_l2">架空ケーブル等への防護措置に係る費用負担改定</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="setsubi/hikikomi.html" vlpageid="inq4_l3">ビル引込みのお申し込み</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="https://setsubiiten-web-west.gvm-jp.groupis-ex.ntt/"  class="o-link" target="_blank" vlpageid="inq4_l4">電柱・ケーブルの移設のお申し込み</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="setsubi/kouji.html" vlpageid="inq4_l5">道路工事等に伴う地下埋設物調査に関する申請</a></li>
+				<li class="grid-cell -6of12"><a class="o-btn o-btn--outline o-btn--block u-fs14" href="setsubi/tekkyo.html" vlpageid="inq4_l6">電話線などの取り外し工事・撤去について</a></li>
+			</ul>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq15">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">耳や言葉が不自由な方へ</h2>
+			<p>NTT西日本では、耳や言葉の不自由な方からの電話の故障のご相談、お問い合わせなど、ファクスでお受けするサービスを提供しております。 サービスによって、ご利用手順やファクスの送付先番号、受付時間などが異なりますので、詳しくは各サービスのサイトからご確認ください。</p>
+			<ul class="grid grid-margin grid-fill mt30">
+				<li class="grid-cell -4of12 -12of12-md">
+					<a href="/sustainability/wellbeing/contribution/welfare/fax/index.html#f01" class="o-comb-link" vlpageid="inq4_m1">
+						<div class="o-comb-link__con ml0">
+							<div class="o-comb-link__ttl u-blue u-fs14 mt0">NTTふれあいファクス</div>
+							<p class="o-comb-link__txt mt15 pr10 u-fs13">耳や言葉の不自由な方から電話の移転、ご注文、故障などのご相談、サービスのお問い合わせなどをファクスでお受けするサービスです。</p>
+						</div>
+					</a>
+				</li>
+				<li class="grid-cell -4of12 -12of12-md">
+					<a href="/sustainability/wellbeing/contribution/welfare/fax/index.html#f02" class="o-comb-link" vlpageid="inq4_m2">
+						<div class="o-comb-link__con ml0">
+							<div class="o-comb-link__ttl u-blue u-fs14 mt0">NTTファクス104</div>
+							<p class="o-comb-link__txt mt15 pr10 u-fs13">耳や言葉の不自由な方からの「104」への電話番号やファクス番号のお問い合わせを、ファクスでお受けするサービスです。</p>
+						</div>
+					</a>
+				</li>
+				<li class="grid-cell -4of12 -12of12-md">
+					<a href="/sustainability/wellbeing/contribution/welfare/fax/index.html#f03" class="o-comb-link" vlpageid="inq4_m3">
+						<div class="o-comb-link__con ml0">
+							<div class="o-comb-link__ttl u-blue u-fs14 mt0">NTTファクス115</div>
+							<p class="o-comb-link__txt mt15 pr10 u-fs13">耳や言葉の不自由な方など、電話で電報サービスが利用できない方々を対象としたファクスを利用した電報の申し込み受付をするサービスです。</p>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</section>
+	<section class="l-sec" id="inq16">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2"><span class="u-dib">契約者ご本人さまからお申し込みができない場合</span><span class="u-dib">（委任状のご請求）</span></h2>
+			<p style="letter-spacing: -0.5px;">NTT西日本では、原則契約者ご本人さまからのお申し込みとしておりますが、所定の申込書で代理人による申し込みが可能です。<br>
+			※本委任状以外の様式で委任を承ることは出来かねますのでご了承願います。</p>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="#modal-inin" class="o-btn o-btn--outline o-btn--block u-fs js-modal" title="モーダルウィンドウで開く" vlpageid="inq4_o1">委任状はこちら</a>
+						<div class="modal" id="modal-inin">
+							<h3 class="o-title-lv3 mt0" style="font-size: 125%;">契約者ご本人さまからお申し込みができない場合（委任状のご請求）</h3>
+							<p>NTT西日本では、原則契約者ご本人さまからのお申し込みとしておりますが、以下、所定の申込書で代理人による申し込みが可能です。</p>
+							<p class="strong u-red mt20">【注意事項】<br>
+							契約者ご本人（委任者）と代理人（受任者）との間において、委任行為に伴う金銭面でのトラブルが多く発生しています。本委任行為に伴い、NTT西日本に対する、代行手数料やサポート費用などが発生することはございません。委任を行う際にご不明な点などございましたら、NTT西日本（0800-2000-116、局番なしの116 ※「116」は携帯電話からの発信でご利用になれません）までお問い合わせください。</p>
+							<ul class="note-list">
+								<li>※本委任状以外の様式で委任を承ることは出来かねますのでご了承願います。</li>
+							</ul>
+							<p class="mt20 strong"><a class="o-link" href="pdf/inin.pdf" target="_blank" vlpageid="inq4_o2">委任状のダウンロードはこちらから<span class="o-tag--pdf"></span></a><br>
+							※複数回線あり、委任状1枚に電話番号等記入できない場合は<a class="o-link" href="pdf/inin2.pdf" target="_blank" vlpageid="inq4_o3">【別紙】複数回線用<span class="o-tag--pdf"></span></a>も合わせてダウンロードしてください。</p>
+							<p>送付先：委任状をご記入後、必要書類をご準備のうえ、以下にお問い合わせ願います。</p>
+							<p>■0800-2000116<br>
+							局番なしの「116」※「116」は携帯電話からの発信でご利用になれません<br>
+							受付時間：午前9時～午後5時　土日・年末年始（12月29日～1月3日）を除く</p>
+							<ul class="note-list">
+								<li>※電話番号をお確かめのうえ、お間違いのないようお願いいたします。</li>
+								<li>※東日本エリアから発信の場合は「0800-2000116」へお願いいたします。</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec--blue" id="inq20">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">自然災害等で避難されたお客さまに対する電話料金等の取り扱いについて</h2>
+			<p>大雨や地震など、各種災害により、被災および避難されたお客さまの電話料金等の取り扱いについてご案内いたします。</p>
+			<div class="grid grid-center mt20">
+				<div class="grid-cell -6of12">
+					<div class="box-contact">
+						<a href="genmen.html" class="o-btn o-btn--outline o-btn--block u-fs">詳しくはこちら</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="l-sec">
+		<div class="l-sec__inner--w900">
+			<h2 class="o-title-lv2">その他のお問い合わせ</h2>
+			<div class="o-frame">
+				<h2 class="strong u-fs">電気通信事業者協会相談窓口（TCA相談窓口）</h2>
+				<p class="u-fs13">当社が加盟する一般社団法人電気通信事業者協会では、通信サービス全般に関する様々なご相談やお問い合わせ、業界に対するご意見・ご要望を受け付ける相談窓口を運営しています。<br>
+				詳しくは、電気通信事業者協会のホームページ（<a href="http://www.tca.or.jp/consult/" title="電気通信事業者協会のホームページを別タブで開く" class="o-link" target="_blank" vlpageid="inq4_n3">http://www.tca.or.jp/consult/</a>）をご参照ください。</p>
+			</div>
+		</div>
+	</section>
+</main>
+<div class="l-topicpath">
+	<div class="l-topicpath__inner">
+		<ul class="l-topicpath-list">
+			<li class="l-topicpath-list__itm"><a href="/">NTT西日本公式トップ</a></li>
+			<li class="l-topicpath-list__itm">お問い合わせ一覧</li>
+		</ul>
+	</div>
+</div>
+<footer class="l-footer">
+	<div class="l-footer__inner">
+		<p id="pagetop" class="l-pagetop"><a id="pagetop-link" href="#top"><img src="/cmn3/img/icon/ic_pagetop.svg" alt="ページの先頭へ" width="49" height="49"></a></p>
+		<ul class="l-footer-nav">
+			<li class="l-footer-nav__itm"><a href="/faq/">よくあるご質問</a></li>
+			<li class="l-footer-nav__itm"><a href="/share/sitemap.html">サイトマップ</a></li>
+			<li class="l-footer-nav__itm"><a href="/share/aboutsite.html">このサイトについて</a></li>
+			<li class="l-footer-nav__itm"><a href="/share/optout.html">情報の外部送信について</a></li>
+			<li class="l-footer-nav__itm"><a href="/share/privacy.html">プライバシーポリシー</a></li>
+			<li class="l-footer-nav__itm"><a href="/info/support/accessibility.html">ウェブアクセシビリティポリシー</a></li>
+			<li class="l-footer-nav__itm"><a href="/share/tmark.html">商標・著作権</a></li>
+		</ul>
+		<p class="l-footer-copy">&copy; 1999 NTT西日本株式会社</p>
+	</div>
+</footer>
+
+<script charset="utf-8" src="/cmn3/js/core.js"></script>
+<script charset="utf-8" src="/cmn3/js/common.js?260324"></script>
+<script charset="utf-8" src="https://ce.mf.marsflag.com/latest/js/mf-search.js"></script>
+
+<script charset="utf-8" src="/cmn2/js/modaal.min.js"></script>
+<script>
+!function($) {
+	$('.js-modal').modaal({
+		close_aria_label: '閉じる（エスケープキーで閉じます）',
+		before_open: function() {
+			$('html').addClass('modaal-noscroll');
+		},
+		after_close: function() {
+			$('html').removeClass('modaal-noscroll');
+		}
+	});
+}($jq183);
+
+const btnNav = document.querySelector('.js-btn-nav');
+const fixedBnr = document.querySelector('.fixed-bnr');
+
+const observer = new IntersectionObserver(([entry]) => {
+	fixedBnr.hidden = entry.isIntersecting;
+});
+
+observer.observe(btnNav);
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+# New database
+
+filters:
+  and:
+    - note["base"] == link("New database.base")
+properties:
+  file.name:
+    displayName: SSID
+  AP名:
+    displayName: AP名
+  備考:
+    displayName: 備考
+  パスワード:
+    displayName: パスワード
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - AP名
+      - 備考
+      - パスワード

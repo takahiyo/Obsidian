@@ -1,0 +1,23 @@
+filters:
+  and:
+    - note["base"] == link("項番・ユーザー設定データベース.base")
+properties:
+  file.name:
+    displayName: 項番
+  ユーザー設定:
+    displayName: ユーザー設定
+  機種:
+    displayName: 機種
+  設定特番:
+    displayName: 設定特番
+  項目:
+    displayName: 項目
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - ユーザー設定
+      - 機種
+      - 設定特番
+      - 項目

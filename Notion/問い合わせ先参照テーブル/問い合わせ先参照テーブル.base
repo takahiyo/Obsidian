@@ -1,0 +1,29 @@
+filters:
+  and:
+    - note["base"] == link("問い合わせ先参照テーブル.base")
+properties:
+  file.name:
+    displayName: 名前
+  備考:
+    displayName: 備考
+  限定:
+    displayName: 限定
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  メール:
+    displayName: メール
+  連絡先:
+    displayName: 連絡先
+  Wantedly People:
+    displayName: Wantedly People
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 備考
+      - 限定
+      - ファイル&メディア
+      - メール
+      - 連絡先
+      - Wantedly People

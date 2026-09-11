@@ -43,7 +43,7 @@ Prefix a wikilink with <code>!</code>:
 ~~~markdown
 ![[Note Name]]
 ![[Note Name#Heading]]
-![[image.png|300]]
+![[image.webp|300]]
 ![[document.pdf#page=3]]
 ~~~
 

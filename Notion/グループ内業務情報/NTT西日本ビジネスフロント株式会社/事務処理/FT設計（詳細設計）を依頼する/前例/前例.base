@@ -1,0 +1,19 @@
+# 前例
+
+filters:
+  and:
+    - note["base"] == link("前例.base")
+properties:
+  file.name:
+    displayName: 案件名
+  テキスト:
+    displayName: テキスト
+  関係者:
+    displayName: 関係者
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - テキスト
+      - 関係者

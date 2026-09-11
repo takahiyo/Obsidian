@@ -1,0 +1,119 @@
+**Title**: Python Script for Network Configuration - CUI/GUI Implementation Summary
+
+**Context**:
+This report summarizes the development process of a Python script to configure network adapters, focusing on creating both CUI (Command Line Interface) and GUI (Graphical User Interface) modes, along with the challenges encountered during EXE conversion using PyInstaller.
+
+**Objective**:
+Create a Python script capable of handling network configuration tasks (e.g., switching between DHCP and static IP). The script should support both CUI and GUI modes and be convertible to an EXE file for distribution without dependency on Python.
+
+**Final Solution (Successful Code)**:
+- The Python script includes both `main_cui()` and `main_gui()` functions.
+- The script detects if it is running as a standard Python script or as an EXE file, enabling the appropriate mode.
+- GUI functionality uses the `tkinter` library, while CUI mode uses standard Python input/output.
+- PyInstaller is used to convert the script into an EXE file for standalone execution.
+
+**Key Python Code**:
+```python
+import sys
+import os
+import ctypes
+import wmi
+import tkinter as tk
+from tkinter import simpledialog, messagebox
+
+def is_admin():
+    try:
+        return ctypes.windll.shell32.IsUserAnAdmin()
+    except:
+        return False
+
+def get_all_network_adapters():
+    c = wmi.WMI()
+    adapters = []
+    for nic in c.Win32_NetworkAdapter():
+        if nic.NetConnectionID:
+            adapters.append({'Name': nic.NetConnectionID, 'Index': nic.InterfaceIndex})
+    return adapters
+
+def set_dhcp(adapter_index):
+    c = wmi.WMI()
+    nic_configs = c.Win32_NetworkAdapterConfiguration(InterfaceIndex=adapter_index)
+    for nic in nic_configs:
+        return_value = nic.EnableDHCP()
+        if return_value[0] == 0 or return_value[0] == 1:
+            messagebox.showinfo("結果", f"{nic.Description} の DHCP 設定が完了しました。")
+        else:
+            messagebox.showerror("エラー", f"DHCP の設定に失敗しました。エラーコード: {return_value[0]}")
+
+def set_static_ip(adapter_index, ip_list):
+    c = wmi.WMI()
+    nic_configs = c.Win32_NetworkAdapterConfiguration(InterfaceIndex=adapter_index)
+    for nic in nic_configs:
+        nic.EnableDHCP()
+        nic.SetDNSServerSearchOrder()
+        ip_addresses = [ip_info['ip'] for ip_info in ip_list]
+        subnet_masks = [ip_info['mask'] for ip_info in ip_list]
+        return_value = nic.EnableStatic(IPAddress=ip_addresses, SubnetMask=subnet_masks)
+        if return_value[0] == 0 or return_value[0] == 1:
+            messagebox.showinfo("結果", f"{nic.Description} に固定 IP アドレスを設定しました。")
+        else:
+            messagebox.showerror("エラー", f"IP アドレスの設定に失敗しました。エラーコード: {return_value[0]}")
+
+def main_cui():
+    # ... CUI Mode Implementation ...
+
+def main_gui():
+    root = tk.Tk()
+    root.withdraw()
+    adapters = get_all_network_adapters()
+    # ... GUI Mode Implementation ...
+
+if __name__ == "__main__":
+    if not is_admin():
+        messagebox.showerror("エラー", "このスクリプトを管理者として実行してください。")
+        sys.exit(1)
+    if getattr(sys, 'frozen', False):
+        main_gui()
+    elif len(sys.argv) > 1 and sys.argv[1] == "--gui":
+        main_gui()
+    else:
+        main_cui()
+```
+
+**Key Challenges & Solutions**:
+1. **RuntimeError: lost sys.stdin**
+   - **Error Reason**: When converting the script to EXE with PyInstaller using `--noconsole`, the `input()` function cannot find `sys.stdin`.
+   - **Solution**: Introduced `tkinter` GUI dialogs for user input in GUI mode to replace `input()`. Used `simpledialog.askinteger()` and `messagebox` for input/output handling in a windowed environment.
+
+2. **Switching Between CUI and GUI**
+   - **Implementation Requirement**: Support both command line and graphical modes using the same codebase.
+   - **Solution**: Added logic to determine the execution mode. If run as an EXE (`getattr(sys, 'frozen', False)`), it defaults to GUI. Otherwise, use the command line argument (`--gui`) to switch between CUI and GUI.
+
+3. **PyInstaller Configuration**
+   - **Issue**: Need to create a user-friendly EXE without requiring Python installation.
+   - **Solution**: Used PyInstaller with `--onefile` to create a standalone EXE and `--noconsole` to suppress the console for GUI mode.
+   - **Command**: `pyinstaller --onefile --noconsole networkchange.py`
+
+**PyInstaller EXE Conversion Instructions**:
+- **Install PyInstaller**: `pip install pyinstaller`
+- **Conversion Command**: Use the following command to generate the EXE:
+  ```
+  pyinstaller --onefile --noconsole networkchange.py
+  ```
+  - `--onefile`: Packages everything into a single executable.
+  - `--noconsole`: Ensures no console window appears when running the EXE in GUI mode.
+
+**Testing Summary**:
+- **CUI Mode**: Run via Python interpreter directly without arguments.
+  - Example: `python networkchange.py`
+- **GUI Mode**: Use the `--gui` argument or run the EXE file.
+  - Example (Python): `python networkchange.py --gui`
+  - Example (EXE): Double-click the EXE file generated by PyInstaller.
+
+**Recommendations for Future Implementation**:
+- **Enhanced User Experience**: Consider adding error checks to confirm network settings have been applied successfully.
+- **Logging**: Implement logging to record changes made to network configurations for troubleshooting.
+- **Cross-Platform Considerations**: This script is currently Windows-specific due to the use of `wmi`. Future versions could consider cross-platform compatibility.
+
+**Conclusion**:
+This development focused on creating a versatile Python script for network configuration that can operate both in command-line and graphical modes. Key challenges such as EXE conversion and managing input mechanisms were successfully addressed, resulting in a functional and user-friendly solution. This process can serve as a template for similar requirements in the future, where dual-mode interfaces and standalone executables are needed.

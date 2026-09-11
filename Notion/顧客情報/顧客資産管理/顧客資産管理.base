@@ -1,0 +1,47 @@
+filters:
+  and:
+    - note["base"] == link("顧客資産管理.base")
+properties:
+  file.name:
+    displayName: 名前
+  Ch:
+    displayName: Ch
+  URL:
+    displayName: URL
+  補足情報:
+    displayName: 補足情報
+  💼 顧客管理:
+    displayName: 💼 顧客管理
+  納品日:
+    displayName: 納品日
+  主商材:
+    displayName: 主商材
+  オプション商材:
+    displayName: オプション商材
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  種別:
+    displayName: 種別
+  受注CA:
+    displayName: 受注CA
+  No:
+    displayName: No
+  保守企業:
+    displayName: 保守企業
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Ch
+      - URL
+      - 補足情報
+      - 💼 顧客管理
+      - 納品日
+      - 主商材
+      - オプション商材
+      - ファイル&メディア
+      - 種別
+      - 受注CA
+      - No
+      - 保守企業

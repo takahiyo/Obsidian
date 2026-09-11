@@ -16,3 +16,9 @@
 .DS_Store
 Thumbs.db
 .obsidian/plugins/remotely-save/
+*秘密鍵*
+*secret*key*
+*.pem
+*.key
+service-account*.json
+*serviceAccount*.json

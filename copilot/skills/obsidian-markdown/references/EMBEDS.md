@@ -5,9 +5,9 @@
 ![[Note Name#Heading]]
 ![[Note Name#^block-id]]
 
-![[image.png]]
-![[image.png|640x480]]
-![[image.png|300]]
+![[image.webp]]
+![[image.webp|640x480]]
+![[image.webp|300]]
 
 ![[audio.mp3]]
 ![[video.mp4]]

@@ -1,0 +1,16 @@
+# 契約・規約
+
+filters:
+  and:
+    - note["base"] == link("契約・規約.base")
+properties:
+  file.name:
+    displayName: 名前
+  タグ:
+    displayName: タグ
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - タグ

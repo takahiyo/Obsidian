@@ -1,0 +1,25 @@
+# New database
+
+filters:
+  and:
+    - note["base"] == link("New database.base")
+properties:
+  file.name:
+    displayName: 名前
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  補足:
+    displayName: 補足
+  タグ:
+    displayName: タグ
+  URL:
+    displayName: URL
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - ファイル&メディア
+      - 補足
+      - タグ
+      - URL

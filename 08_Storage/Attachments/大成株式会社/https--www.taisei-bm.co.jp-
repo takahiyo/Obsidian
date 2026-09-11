@@ -1,0 +1,1162 @@
+
+<!-- WP内のhead情報 -->
+<!doctype html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="大成株式会社">
+    <meta name="generator" content="All in One SEO (AIOSEO) 4.2.6.1 " />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:title" content="大成株式会社｜ビル管理・ビルメンテナンス・ファシリティマネジメント" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="大成株式会社｜ビル管理・ビルメンテナンス・ファシリティマネジメント" />
+    <meta name="twitter:description" content="大成株式会社はビルオーナーの最適なパートナーとして、清掃・設備管理・警備などのビル管理・ビルメンテナンスを中心に、プロパティマネジメントや改修工事など総合ビルサービスを提供しています。" />
+
+    <!-- font -->
+    <script type="text/javascript" src="//typesquare.com/3/tsst/script/ja/typesquare.js?6541ccaafd5049a1a7b3140bac1e02e5" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://use.typekit.net/ytp7bmy.css">
+
+    <!-- favicon -->
+    <link rel="icon" href="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/icn/favicon.ico">
+    <link rel="apple-touch-icon" href="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/icn/favicon.ico">
+
+    <!-- css -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- javascript -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.3/ScrollTrigger.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.19/bundled/lenis.min.js"></script>
+    <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js" defer></script>
+
+    <title>大成株式会社｜ビル管理・ビルメンテナンス・ファシリティマネジメント</title>
+<meta name='robots' content='max-image-preview:large' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='sng-stylesheet-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/style.css?version=3.9.5' media='all' />
+<link rel='stylesheet' id='sng-option-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/entry-option.css?version=3.9.5' media='all' />
+<link rel='stylesheet' id='sng-old-css-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/style-old.css?version=3.9.5' media='all' />
+<link rel='stylesheet' id='sango_theme_gutenberg-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/library/gutenberg/dist/build/style-blocks.css?version=3.9.5' media='all' />
+<style id="sango_theme_gutenberg-style-inline-css">
+:root{--sgb-main-color:#009c84;--sgb-pastel-color:#f2f9f8;--sgb-accent-color:#5aa93d;--sgb-widget-title-color:#009EF3;--sgb-widget-title-bg-color:#b4e0fa;--sgb-bg-color:#eaedf2;--wp--preset--color--sango-main:var(--sgb-main-color);--wp--preset--color--sango-pastel:var(--sgb-pastel-color);--wp--preset--color--sango-accent:var(--sgb-accent-color)}
+/*# sourceURL=sango_theme_gutenberg-style-inline-css */
+</style>
+<link rel='stylesheet' id='sng-googlefonts-css' href='https://fonts.googleapis.com/css?family=Quicksand%3A500%2C700&#038;display=swap' media='all' />
+<link rel='stylesheet' id='sng-fontawesome-css' href='https://use.fontawesome.com/releases/v6.1.1/css/all.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.taisei-bm.co.jp/wp-includes/css/dist/block-library/style.min.css?ver=7.1' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--sango-main: var(--sgb-main-color);--wp--preset--color--sango-pastel: var(--sgb-pastel-color);--wp--preset--color--sango-accent: var(--sgb-accent-color);--wp--preset--color--sango-blue: #009EF3;--wp--preset--color--sango-orange: #ffb36b;--wp--preset--color--sango-red: #f88080;--wp--preset--color--sango-green: #90d581;--wp--preset--color--sango-black: #333;--wp--preset--color--sango-gray: gray;--wp--preset--color--sango-silver: whitesmoke;--wp--preset--color--sango-light-blue: #b4e0fa;--wp--preset--color--sango-light-red: #ffebeb;--wp--preset--color--sango-light-orange: #fff9e6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--default: "Helvetica", "Arial", "Hiragino Kaku Gothic ProN", "Hiragino Sans", YuGothic, "Yu Gothic", "メイリオ", Meiryo, sans-serif;--wp--preset--font-family--notosans: "Noto Sans JP", var(--wp--preset--font-family--default);--wp--preset--font-family--mplusrounded: "M PLUS Rounded 1c", var(--wp--preset--font-family--default);--wp--preset--font-family--dfont: "Quicksand", var(--wp--preset--font-family--default);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);--wp--custom--wrap--width: 92%;--wp--custom--wrap--default-width: 800px;--wp--custom--wrap--content-width: 1180px;--wp--custom--wrap--max-width: var(--wp--custom--wrap--content-width);--wp--custom--wrap--side: 30%;--wp--custom--wrap--gap: 2em;--wp--custom--wrap--mobile--padding: 15px;--wp--custom--shadow--large: 0 15px 30px -7px rgba(0, 12, 66, 0.15 );--wp--custom--shadow--large-hover: 0 40px 50px -15px rgba(0, 12, 66, 0.2 );--wp--custom--shadow--medium: 0 6px 13px -3px rgba(0, 12, 66, 0.1), 0 0px 1px rgba(0,30,100, 0.1 );--wp--custom--shadow--medium-hover: 0 12px 45px -9px rgb(0 0 0 / 23%);--wp--custom--shadow--solid: 0 1px 2px 0 rgba(24, 44, 84, 0.1), 0 1px 3px 1px rgba(24, 44, 84, 0.1);--wp--custom--shadow--solid-hover: 0 2px 4px 0 rgba(24, 44, 84, 0.1), 0 2px 8px 0 rgba(24, 44, 84, 0.1);--wp--custom--shadow--small: 0 2px 4px #4385bb12;--wp--custom--rounded--medium: 12px;--wp--custom--rounded--small: 6px;--wp--custom--widget--padding-horizontal: 18px;--wp--custom--widget--padding-vertical: 6px;--wp--custom--widget--icon-margin: 6px;--wp--custom--widget--gap: 2.5em;--wp--custom--entry--gap: 1.5rem;--wp--custom--entry--gap-mobile: 1rem;--wp--custom--entry--border-color: #eaedf2;--wp--custom--animation--fade-in: fadeIn 0.7s ease 0s 1 normal;--wp--custom--animation--header: fadeHeader 1s ease 0s 1 normal;--wp--custom--transition--default: 0.3s ease-in-out;--wp--custom--totop--opacity: 0.6;--wp--custom--totop--right: 18px;--wp--custom--totop--bottom: 20px;--wp--custom--totop--mobile--right: 15px;--wp--custom--totop--mobile--bottom: 10px;--wp--custom--toc--button--opacity: 0.6;--wp--custom--footer--column-gap: 40px;}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 900px;--wp--style--global--wide-size: 980px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.5rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1.5rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.5rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.5rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.5rem;}:root :where(.is-layout-grid){gap: 1.5rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{font-family: var(--sgb-font-family);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-sango-main-color{color: var(--wp--preset--color--sango-main) !important;}.has-sango-pastel-color{color: var(--wp--preset--color--sango-pastel) !important;}.has-sango-accent-color{color: var(--wp--preset--color--sango-accent) !important;}.has-sango-blue-color{color: var(--wp--preset--color--sango-blue) !important;}.has-sango-orange-color{color: var(--wp--preset--color--sango-orange) !important;}.has-sango-red-color{color: var(--wp--preset--color--sango-red) !important;}.has-sango-green-color{color: var(--wp--preset--color--sango-green) !important;}.has-sango-black-color{color: var(--wp--preset--color--sango-black) !important;}.has-sango-gray-color{color: var(--wp--preset--color--sango-gray) !important;}.has-sango-silver-color{color: var(--wp--preset--color--sango-silver) !important;}.has-sango-light-blue-color{color: var(--wp--preset--color--sango-light-blue) !important;}.has-sango-light-red-color{color: var(--wp--preset--color--sango-light-red) !important;}.has-sango-light-orange-color{color: var(--wp--preset--color--sango-light-orange) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-sango-main-background-color{background-color: var(--wp--preset--color--sango-main) !important;}.has-sango-pastel-background-color{background-color: var(--wp--preset--color--sango-pastel) !important;}.has-sango-accent-background-color{background-color: var(--wp--preset--color--sango-accent) !important;}.has-sango-blue-background-color{background-color: var(--wp--preset--color--sango-blue) !important;}.has-sango-orange-background-color{background-color: var(--wp--preset--color--sango-orange) !important;}.has-sango-red-background-color{background-color: var(--wp--preset--color--sango-red) !important;}.has-sango-green-background-color{background-color: var(--wp--preset--color--sango-green) !important;}.has-sango-black-background-color{background-color: var(--wp--preset--color--sango-black) !important;}.has-sango-gray-background-color{background-color: var(--wp--preset--color--sango-gray) !important;}.has-sango-silver-background-color{background-color: var(--wp--preset--color--sango-silver) !important;}.has-sango-light-blue-background-color{background-color: var(--wp--preset--color--sango-light-blue) !important;}.has-sango-light-red-background-color{background-color: var(--wp--preset--color--sango-light-red) !important;}.has-sango-light-orange-background-color{background-color: var(--wp--preset--color--sango-light-orange) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-sango-main-border-color{border-color: var(--wp--preset--color--sango-main) !important;}.has-sango-pastel-border-color{border-color: var(--wp--preset--color--sango-pastel) !important;}.has-sango-accent-border-color{border-color: var(--wp--preset--color--sango-accent) !important;}.has-sango-blue-border-color{border-color: var(--wp--preset--color--sango-blue) !important;}.has-sango-orange-border-color{border-color: var(--wp--preset--color--sango-orange) !important;}.has-sango-red-border-color{border-color: var(--wp--preset--color--sango-red) !important;}.has-sango-green-border-color{border-color: var(--wp--preset--color--sango-green) !important;}.has-sango-black-border-color{border-color: var(--wp--preset--color--sango-black) !important;}.has-sango-gray-border-color{border-color: var(--wp--preset--color--sango-gray) !important;}.has-sango-silver-border-color{border-color: var(--wp--preset--color--sango-silver) !important;}.has-sango-light-blue-border-color{border-color: var(--wp--preset--color--sango-light-blue) !important;}.has-sango-light-red-border-color{border-color: var(--wp--preset--color--sango-light-red) !important;}.has-sango-light-orange-border-color{border-color: var(--wp--preset--color--sango-light-orange) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-default-font-family{font-family: var(--wp--preset--font-family--default) !important;}.has-notosans-font-family{font-family: var(--wp--preset--font-family--notosans) !important;}.has-mplusrounded-font-family{font-family: var(--wp--preset--font-family--mplusrounded) !important;}.has-dfont-font-family{font-family: var(--wp--preset--font-family--dfont) !important;}
+:root :where(.wp-block-button .wp-block-button__link){background-color: var(--wp--preset--color--sango-main);border-radius: var(--wp--custom--rounded--medium);color: #fff;font-size: 18px;font-weight: 600;padding-top: 0.4em;padding-right: 1.3em;padding-bottom: 0.4em;padding-left: 1.3em;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.taisei-bm.co.jp/wp-content/plugins/contact-form-7/includes/css/styles.css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css' href='https://www.taisei-bm.co.jp/wp-content/plugins/search-filter/style.css' media='all' />
+<link rel='stylesheet' id='wpcf7-redirect-script-frontend-css' href='https://www.taisei-bm.co.jp/wp-content/plugins/wpcf7-redirect/build/assets/frontend-script.css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/style.css' media='all' />
+<link rel='stylesheet' id='reset-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/css/reset.css' media='all' />
+<link rel='stylesheet' id='custom-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/css/style.css?1788758455' media='all' />
+<link rel='stylesheet' id='gutenberg-block-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/library/gutenberg/dist/build/style-blocks.css' media='all' />
+<link rel='stylesheet' id='admin-style-css' href='https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/library/admin.css' media='all' />
+<script id="jquery-core-js" src="https://www.taisei-bm.co.jp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.taisei-bm.co.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="custom-common-js" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/js/common.js?1788758455"></script>
+<script id="custom-animation-js" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/js/animation.js"></script>
+
+<!-- Site Kit によって追加された Google タグ（gtag.js）スニペット -->
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-T9L6HXL" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.taisei-bm.co.jp"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-T9L6HXL");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://www.taisei-bm.co.jp/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.taisei-bm.co.jp/xmlrpc.php?rsd" />
+<meta name="generator" content="Site Kit by Google 1.186.0" /><meta name="description" content="大成株式会社はビルオーナーの最適なパートナーとして、清掃・設備管理・警備などのビル管理・ビルメンテナンスを中心に、プロパティマネジメントや改修工事など総合ビルサービスを提供しています。" /><meta property="og:title" content="大成株式会社｜ビル管理・ビルメンテナンス・ファシリティマネジメント" />
+<meta property="og:description" content="大成株式会社はビルオーナーの最適なパートナーとして、清掃・設備管理・警備などのビル管理・ビルメンテナンスを中心に、プロパティマネジメントや改修工事など総合ビルサービスを提供しています。" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.taisei-bm.co.jp/" />
+<meta property="og:image" content="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/ogp.webp" />
+<meta name="thumbnail" content="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/ogp.webp" />
+<meta property="og:site_name" content="大成株式会社｜ビル管理・ビルメンテナンス・ファシリティマネジメント" />
+<meta name="twitter:card" content="summary_large_image" />
+<style id="wp-custom-css">
+.grecaptcha-badge { visibility: hidden; }
+</style>
+<style> a{color:#009c84}.header, .drawer__title{background-color:#009EF3}#logo a{color:#FFF}.desktop-nav li a , .mobile-nav li a, #drawer__open, .header-search__open, .drawer__title{color:#FFF}.drawer__title__close span, .drawer__title__close span:before{background:#FFF}.desktop-nav li:after{background:#FFF}.mobile-nav .current-menu-item{border-bottom-color:#FFF}.widgettitle, .sidebar .wp-block-group h2, .drawer .wp-block-group h2{color:#009EF3;background-color:#b4e0fa}#footer-menu a, .copyright{color:#FFF}#footer-menu{background-color:#009EF3}.footer{background-color:#e0e4eb}.footer, .footer a, .footer .widget ul li a{color:#3c3c3c}body{font-size:100%}@media only screen and (min-width:751px){body{font-size:107%}}@media only screen and (min-width:1030px){body{font-size:107%}}.totop{background:#009EF3}.header-info a{color:#FFF;background:linear-gradient(95deg, #738bff, #85e3ec)}.fixed-menu ul{background:#FFF}.fixed-menu a{color:#a2a7ab}.fixed-menu .current-menu-item a, .fixed-menu ul li a.active{color:#009EF3}.post-tab{background:#FFF}.post-tab > div{color:#a7a7a7}body{--sgb-font-family:var(--wp--preset--font-family--default)}#fixed_sidebar{top:0px}:target{scroll-margin-top:0px}.Threads:before{background-image:url("https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/library/images/threads.svg")}.profile-sns li .Threads:before{background-image:url("https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/library/images/threads-outline.svg")}.X:before{background-image:url("https://www.taisei-bm.co.jp/wp-content/themes/sango-theme/library/images/x-circle.svg")}</style>    <meta name="google-site-verification" content="Vl3oKGAxIwDMnKj2XrySGULTGguTcd0H5SwApyZKNTc">
+    <meta name="google-site-verification" content="cd5aKCHhveJocjO3Aafu2woPQYnc3Pw-nrBA1jwEQ7I">
+	<script src="https://www.google.com/recaptcha/api.js?render=6LeOd9QqAAAAAJiyD3xGV0INHg37Ty19o3QNHWiV"></script>
+</head>
+
+<body class="home blog wp-theme-sango-theme wp-child-theme-sango-theme-child l-body fa5"><header class="l-header l-header--root">
+    <div class="l-header__inner l-header__inner--root">
+        <h1 class="l-header__logo l-header__logo--root">
+            <a href="/">
+                <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo.webp?1788758455" alt="大成株式会社のロゴ" width="391.75" height="63">
+            </a>
+        </h1>
+        <nav class="l-header__nav-pc l-header__nav-pc--root disp_pc">
+            <div class="l-header__nav-pc-top">
+                
+				<form action="" method="post" class="searchandfilter">
+					<div><ul><li><input type="text" name="ofsearch" placeholder="キーワード" value=""></li><li><input type="hidden" id="_searchandfilter_nonce" name="_searchandfilter_nonce" value="8196961fe3" /><input type="hidden" name="_wp_http_referer" value="/" /><input type="hidden" name="ofsubmitted" value="1"><input type="submit" value="検索"></li></ul></div></form>                <a class="l-header__nav-pc-top-eg" href="/english">English</a>
+                <a class="l-header__nav-pc-top-contact" href="/contact">お問い合わせ</a>
+                <a class="l-header__nav-pc-top-document" href="/download">資料ダウンロード</a>
+            </div>
+            <div class="l-header__nav-pc-list">
+                <a class="l-header__nav-pc-item" href="/vision">ビジョン</a>
+                <button class="l-header__nav-pc-item js-acd-btn-header">事業紹介
+                    <ul class="l-header__submenu-pc">
+                        <li>
+                            <a href="/facility-management">ファシリティマネジメント</a>
+                            <ul class="l-header__submenu-pc-second">
+                                <li><a href="/facility-management/engineering">設備管理業務</a></li>
+                                <li><a href="/facility-management/clean">清掃業務</a></li>
+                                <li><a href="/facility-management/security">警備業務</a></li>
+                                <li><a href="/facility-management/hotel">ホテル清掃業務</a></li>
+                                <li><a href="/facility-management/information">受付業務</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/real_estate">不動産事業</a>
+                            <ul class="l-header__submenu-pc-second">
+                                <li><a href="/real_estate/investment/">不動産投資・開発</a></li>
+                                <li><a href="/real_estate/leasing/">売買仲介・テナントリーシング</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/construction">建築リニューアル</a></li>
+                        <li><a href="/overseas">海外事業</a></li>
+                    </ul>
+                </button>
+                <div class="l-header__nav-pc-item js-acd-btn-header">
+                    <a href="/tseries">サービス・製品</a>
+                    <ul class="l-header__submenu-pc">
+                        <li><a href="/ugots">ugo TSシリーズ</a></li>
+                        <li><a href="/ugo-mini">ugo mini</a></li>
+                        <li><a href="/t-garden">T-GARDEN</a></li>
+                        <li><a href="/view-t">T-View</a></li>
+                        <li><a href="/t-mist">T-MIST</a></li>
+                        <li><a href="/t-bubble">T-Bubble</a></li>
+                        <li><a href="/simplicity">Simplicity®</a></li>
+                    </ul>
+                </div>
+                <div class="l-header__nav-pc-item js-acd-btn-header">
+                    <a class="l-header__nav-pc-item" href="/corporate">企業情報</a>
+                    <ul class="l-header__submenu-pc">
+                        <li><a href="/vision">ビジョン</a></li>
+                        <li><a href="/corporate/message">トップメッセージ</a></li>
+                        <li><a href="/corporate/profile">会社概要</a></li>
+                        <li><a href="/corporate/history">沿革</a></li>
+                        <li><a href="/officer">役員・組織図</a></li>
+                        <li><a href="/group">各拠点・関連会社</a></li>
+                    </ul>
+                </div>
+                <div class="l-header__nav-pc-item js-acd-btn-header">
+                    <a class="l-header__nav-pc-item" href="/sustainability">サスティナビリティ</a>
+                    <ul class="l-header__submenu-pc">
+                        <li><a href="/sdgs">私たちのSDGs宣言</a></li>
+                        <li><a href="/governance">コーポレートガバナンス体制</a></li>
+                        <li><a href="/compliance">コンプライアンス体制</a></li>
+                        <li><a href="/training">人材育成</a></li>
+                        <li><a href="/sustainability/health_management">健康経営</a></li>
+                        <li><a href="/sustainability/ghg">温室効果ガス排出量の削減</a></li>
+                    </ul>
+                </div>
+                <a class="l-header__nav-pc-item" href="/topics">ニュース</a>
+                <a class="l-header__nav-pc-item" href="https://www.taisei-bm.co.jp/recruit/">採用情報</a>
+            </div>
+        </nav>
+        <div class="hamburger js-hamburger disp_sp">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</header>
+
+<nav class="l-header__nav-sp l-header__nav-sp--root">
+    <a class="l-header__nav-sp-top-eg" href="/english">English</a>
+    <div class="l-header__nav-sp-top">
+        <a class="l-header__nav-sp-top-contact" href="/contact">お問い合わせ</a>
+        <a class="l-header__nav-sp-top-document" href="/download">資料ダウンロード</a>
+    </div>
+    <div class="l-header__nav-sp-list">
+        <a class="l-header__nav-sp-item" href="/vision">ビジョン</a>
+        <button class="l-header__nav-sp-item l-header__nav-sp-item-acd-btn js-acd-btn">事業紹介</button>
+        <div class="js-acd-content">
+            <nav class="l-header__nav-sp-item-inner">
+                <a class="l-header__nav-sp-item-inner-content" href="/facility-management">ファシリティマネジメント</a>
+                <a class="l-header__nav-sp-item-inner-content" href="/real_estate">不動産事業</a>
+                <a class="l-header__nav-sp-item-inner-content" href="/construction">建築リニューアル</a>
+                <a class="l-header__nav-sp-item-inner-content" href="/overseas">海外事業</a>
+            </nav>
+        </div>
+        <a class="l-header__nav-sp-item" href="/tseries">サービス・製品</a>
+        <a class="l-header__nav-sp-item" href="/corporate">企業情報</a>
+        <a class="l-header__nav-sp-item" href="/sustainability">サスティナビリティ</a>
+        <a class="l-header__nav-sp-item" href="/topics">ニュース</a>
+        <a class="l-header__nav-sp-item" href="https://www.taisei-bm.co.jp/recruit/">採用情報</a>
+    </div>
+    
+				<form action="" method="post" class="searchandfilter">
+					<div><ul><li><input type="text" name="ofsearch" placeholder="キーワード" value=""></li><li><input type="hidden" id="_searchandfilter_nonce" name="_searchandfilter_nonce" value="8196961fe3" /><input type="hidden" name="_wp_http_referer" value="/" /><input type="hidden" name="ofsubmitted" value="1"><input type="submit" value="検索"></li></ul></div></form></nav>
+
+
+<main class="l-main l-main--root p-front-page">
+    <article class="p-top">
+        <section class="p-top__fv">
+            <ul class="p-top__fv-list">
+                <li class="js-slider1__item">
+                    <div class="js-slider1__item-zoomFade">
+                        <div class="js-slider1__bg">
+                            <picture>
+                                <source media="(max-width: 750px)" srcset="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_bg_pc.webp">
+                                <img class="js-slider1__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_bg_pc.webp" alt="slider1背景">
+                            </picture>
+                            <div class="js-slider1__bg-zoomIn">
+                                <img class="js-slider1__bg-mid" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_mid_pc.webp" alt="slider1街">
+                                <img class="js-slider1__bg-near" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_near_pc.webp" alt="slider1街">
+                                <img class="js-slider1__bg-ribon1" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_ribon1_pc.webp" alt="街の画像">
+                                <img class="js-slider1__bg-ribon2" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_01_ribon2_pc.webp" alt="街の画像">
+                            </div>
+                        </div>
+                        <div class="js-slider1__content">
+                            <div class="js-slider1__content-read">
+                                <img class="js-slider1__content-logo" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/logo_catch.webp" alt="街の画像">
+                                <p class="js-slider1__content-ttl">
+                                    じゆうな発想で<br>サービスをデザインし、<br>新しい価値を創造する
+                                </p>
+                                <div class="js-slider1__content-scrollDown">SCROLL</div>
+                            </div>
+                            <div class="c-topNews">
+                                                                    <ul class="c-topNews__list">
+                                        <h2 class="c-title">
+                                            <span class="c-title__eg">NEWS PICK UP</span>
+                                            <span class="c-title__jp">ニュースピックアップ</span>
+                                        </h2>
+
+                                                                                    <li class="c-topNews__item">
+                                                <a href="https://www.taisei-bm.co.jp/topics/news20269001/" class="c-topNews__link">
+                                                    <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/news_all-purpose.webp" alt="組織変更および委嘱業務変更のお知らせ">
+                                                    <!-- <p class="c-topNews__ttl">組織変更および委嘱業務変更のお知らせ</p> -->
+                                                </a>
+                                            </li>
+                                                                                    <li class="c-topNews__item">
+                                                <a href="https://www.taisei-bm.co.jp/topics/%e5%81%a5%e5%ba%b7%e7%b5%8c%e5%96%b6%e5%84%aa%e8%89%af%e6%b3%95%e4%ba%ba2026%e3%81%ab%e9%81%b8%e5%ae%9a%e3%80%82%e7%a4%be%e5%93%a1%e4%b8%80%e4%ba%ba%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%ae%e3%80%8c/" class="c-topNews__link">
+                                                    <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2026/07/banner.webp" alt="健康経営優良法人2026に選定。社員一人ひとりの「健やかな働き方」が、大成のサービスをつくる">
+                                                    <!-- <p class="c-topNews__ttl">健康経営優良法人2026に選定。社員一人ひとりの「健やかな働き方」が、大成のサービスをつくる</p> -->
+                                                </a>
+                                            </li>
+                                                                                    <li class="c-topNews__item">
+                                                <a href="https://www.taisei-bm.co.jp/topics/uniform-2/" class="c-topNews__link">
+                                                    <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2026/06/8e40e22d3a19960efb44a5b0aedb1759.webp" alt="大成株式会社、清掃および ホテル客室清掃ユニフォームを一新">
+                                                    <!-- <p class="c-topNews__ttl">大成株式会社、清掃および ホテル客室清掃ユニフォームを一新</p> -->
+                                                </a>
+                                            </li>
+                                                                                    <li class="c-topNews__item">
+                                                <a href="https://www.taisei-bm.co.jp/topics/%e7%b4%845500%e5%90%8d%e3%81%ae%e4%bb%b2%e9%96%93%e3%81%8c%e3%80%81%e3%82%82%e3%81%a3%e3%81%a8%e5%83%8d%e3%81%8d%e3%81%8c%e3%81%84%e3%81%ae%e3%81%82%e3%82%8b%e8%81%b7%e5%a0%b4%e3%81%b8%e3%80%82/" class="c-topNews__link">
+                                                    <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2026/04/MVV.webp" alt="約5,500名の仲間が、もっと働きがいのある職場へ。">
+                                                    <!-- <p class="c-topNews__ttl">約5,500名の仲間が、もっと働きがいのある職場へ。</p> -->
+                                                </a>
+                                            </li>
+                                                                                    <li class="c-topNews__item">
+                                                <a href="https://www.taisei-bm.co.jp/topics/gaemi-2/" class="c-topNews__link">
+                                                    <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2026/03/8e40e22d3a19960efb44a5b0aedb1759-1.webp" alt="「ザ ロイヤルパークホテル 東京羽田」にて 自律走行配送ロボット「ROBOTIS GAEMI（ケミ）」の正式導入">
+                                                    <!-- <p class="c-topNews__ttl">「ザ ロイヤルパークホテル 東京羽田」にて 自律走行配送ロボット「ROBOTIS GAEMI（ケミ）」の正式導入</p> -->
+                                                </a>
+                                            </li>
+                                        
+                                        <li class="c-topNews__item">
+                                            <a href="https://taisei-sdgs.com/" class="c-topNews__link" target="_blank">
+                                                <img class="c-topNews__img" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_news_actionSDGs.webp" alt="ACTION!SDGs">
+                                            </a>
+                                        </li>
+
+                                        <a class="c-btn arrow" href="/topics">ニュース一覧</a>
+                                    </ul>
+                                                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <div class="js-slider2__item-outer">
+                    <li class="js-slider5__item">
+                        <div class="js-slider5__bg">
+                            <div class="js-slider5__bg-zoomIn1">
+                                <div class="js-slider5__bg-zoomIn2">
+                                    <img class="js-slider5__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_05_bg_pc.webp" alt="街の画像">
+                                    <img class="js-slider5__bg-base" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_05_base_pc.webp" alt="街の画像">
+                                    <img class="js-slider5__bg-ribon" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_05_ribon_pc.webp" alt="街の画像">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="js-slider5__content">
+                            <div class="js-slider5__content-logo">
+
+                            </div>
+                            <div class="js-slider5__content-box js-slider__content-box">
+                                <p class="js-slider5__content-ttl">
+                                    不動産事業
+                                </p>
+                                <p class="js-slider5__content-txt">
+                                    商業・事業用不動産を対象とした「投資」・「開発」・「流通」から、オーナー様に代わって建物の運営・管理・経営を行うプロパティマネジメントまで、事業者様の多様なニーズに合わせた不動産活用の支援を行っております。
+                                </p>
+                                <p class="js-slider5__content-link">
+                                    <strong><a href="/real_estate">＞ 不動産事業</a></strong><br>
+                                    <a class="disp_pc" href="/investment">＞ 不動産投資・開発</a>　<a class="disp_pc" href="/leasing">＞ 売買仲介・テナントリーシング</a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="js-slider4__item">
+                        <div class="js-slider4__bg">
+                            <img class="js-slider2__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_bg_pc.webp" alt="街の画像">
+                            <div class="js-slider4__bg-zoomFadeIn">
+                                <div class="js-slider4__bg-zoomFadeOut">
+                                    <div class="js-slider4__bg-zoomIn1">
+                                        <div class="js-slider4__bg-zoomIn2">
+                                            <img class="js-slider4__bg-in" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_04_bg_pc.webp" alt="街の画像">
+                                            <!-- <img class="js-slider4__bg-up" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_04_up_pc.webp" alt="街の画像"> -->
+                                            <img class="js-slider4__bg-ugo" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_04_ugo_pc.webp" alt="街の画像">
+                                            <img class="js-slider4__bg-ribon1" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_04_ribon1_pc.webp" alt="街の画像">
+                                            <img class="js-slider4__bg-ribon2" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_04_ribon2_pc.webp" alt="街の画像">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="js-slider4__content">
+                            <div class="js-slider4__content-logo">
+
+                            </div>
+                            <div class="js-slider4__content-box js-slider__content-box">
+                                <p class="js-slider4__content-ttl">
+                                    ファシリティマネジメント
+                                </p>
+                                <p class="js-slider4__content-txt">
+                                    施設のエネルギー管理や安全管理、メンテナンスからリニューアル工事までお客様の求めるサービスをワンストップでご提供いたします。
+                                </p>
+                                <p class="js-slider4__content-link">
+                                    <strong><a href="/facility-management">＞ ファシリティマネジメント</a></strong><br>
+                                    <a class="disp_pc" href="/engineering">＞ 設備管理</a>　<a class="disp_pc" href="/clean">＞ 清掃</a>　
+                                    <a class="disp_pc" href="/security">＞ 警備</a>　<a class="disp_pc" href="/hotel">＞ ホテル清掃</a>　<a class="disp_pc" href="/information">＞ 受付</a>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="js-slider2__item">
+                        <div class="js-slider2__bg">
+                            <div class="js-slider2__bg-zoomFade">
+
+                                <div class="js-slider2__bg-zoomIn">
+                                    <div class="js-slider2__bg-zoomOut">
+                                        <img class="js-slider2__bg-base" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_base_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-right" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_right_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-up4" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_4x_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-up20" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_20x_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-ribon1" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_ribon1_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-ribon2" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_ribon2_pc.webp" alt="街の画像">
+                                        <img class="js-slider2__bg-blur" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_02_blur.webp" alt="街の画像">
+                                        <div class="js-slider2__bg-cover"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="js-slider2__content">
+                            <div class="js-slider2__content-fade">
+                                <img class="js-slider2__content-logo" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/logo_catch.webp" alt="街の画像">
+                                <p class="js-slider2__content-ttl">
+                                    じゆうな発想で<br class="br-sp">サービスをデザインし、<br>新しい価値を創造する
+                                </p>
+                                <p class="js-slider2__content-txt js-slider2__content-txt1">
+                                    私たちは、じゆうな発想が未来を切り拓く鍵だと<br class="br-sp">信じています。<br>
+                                    オフィスから賑わう商業施設、学校や病院、ホテル<br class="br-sp">まで、<br class="br-pc">
+                                    あらゆる施設を笑顔で満ちあふれる快適な空<br class="br-sp">間に変えることに挑戦し続けています。
+                                </p>
+                                <p class="js-slider2__content-txt js-slider2__content-txt2">
+                                    「サービスをデザインする」とは、<br>
+                                    革新的なサービスを創造し、お客様に新しい価値を<br class="br-sp">提供すること。<br class="br-pc">
+                                    これにより、社会全体に“喜びと感<br class="br-sp">動”をもたらします。
+                                </p>
+                                <p class="js-slider2__content-txt js-slider2__content-txt3 green">
+                                    変化するニーズに柔軟に対応し、<br class="br-sp">常に進化し続けることで、<br>
+                                    お客様に信頼されるパートナーを目指しています。
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </div>
+
+                <div class="js-slider6__item-outer">
+                    <!-- <div class="js-slider6__item-anchor"></div> -->
+                    <li class="js-slider6__item">
+                        <div class="js-slider6__bg">
+                            <div class="js-slider6__bg-inner">
+                                <img class="js-slider6__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_06_bg_pc.webp" alt="街の画像">
+                                <img class="js-slider6__bg-mid" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_06_mid_pc.webp" alt="街の画像">
+                                <img class="js-slider7__bg-center" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_center_pc.webp" alt="街の画像">
+                                <img class="js-slider6__bg-near" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_06_near_pc.webp" alt="街の画像">
+                                <img class="js-slider6__bg-ribon" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_06_ribon_pc.webp" alt="街の画像">
+                                <div class="js-slider6__bg-alpha"></div>
+                                <div class="js-slider6__bg-blur"></div>
+                            </div>
+                        </div>
+                        <div class="js-slider6__content">
+                            <div class="js-slider6__content-logo">
+
+                            </div>
+                            <div class="js-slider6__content-box js-slider__content-box">
+                                <p class="js-slider6__content-ttl">
+                                    建築リニューアル
+                                </p>
+                                <p class="js-slider6__content-txt">
+                                    お客様の建物資産管理において、建物寿命の延長と資産価値の向上は重要なテーマです。当社の建築事業は、施設管理ノウハウと最新の動向を活かし、リニューアル工事を中心に最適な提案を行います。
+                                </p>
+                                <p class="js-slider6__content-link">
+                                    <strong><a href="/construction">＞ 建築リニューアル</a></strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="js-slider7__item">
+                        <div class="js-slider7__bg">
+                            <!--
+                            <img class="js-slider7__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_bg_pc.webp" alt="街の画像">
+                            <img class="js-slider7__bg-left" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_left_pc.webp" alt="街の画像">
+                            <img class="js-slider7__bg-center" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_center_pc.webp" alt="街の画像">
+                            <img class="js-slider7__bg-right" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_right_pc.webp" alt="街の画像">
+                            <img class="js-slider7__bg-ribon" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_07_ribon_pc.webp" alt="街の画像"> -->
+                        </div>
+                        <div class="js-slider7__content">
+                            <div class="js-slider7__content-logo">
+
+                            </div>
+                            <div class="js-slider7__content-box js-slider__content-box">
+                                <p class="js-slider7__content-ttl">
+                                    海外事業
+                                </p>
+                                <p class="js-slider7__content-txt">
+                                    国内で培った高度なメンテナンスノウハウを活かし、上海、香港、シンガポールで質の高い施設管理サービスを提供しています。海外のお客様にも信頼されるパートナーを目指しています。
+                                </p>
+                                <p class="js-slider7__content-link">
+                                    <strong><a href="/overseas">＞ 海外事業</a></strong><br>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </div>
+
+                <li class="js-slider8__item">
+                    <div class="js-slider8__bg">
+                        <img class="js-slider8__bg-sky" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_bg_pc.webp" alt="街の画像">
+                        <div class="js-slider8__bg-inner">
+                            <img class="js-slider8__bg-base" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_base_pc.webp" alt="街の画像">
+                            <img class="js-slider8__bg-center" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_center_pc.webp" alt="街の画像">
+                            <img class="js-slider8__bg-ribonA" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_ribonA_pc.webp" alt="街の画像">
+                            <img class="js-slider8__bg-ribonB" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_ribonB_pc.webp" alt="街の画像">
+                            <img class="js-slider8__bg-ribonC" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_08_ribonC_pc.webp" alt="街の画像">
+                            </picture>
+                        </div>
+                    </div>
+                    <div class="js-slider8__content">
+                        <div class="js-slider8__content-logo">
+
+                        </div>
+                        <div class="js-slider8__content-box js-slider__content-box">
+                            <p class="js-slider8__content-ttl">
+                                サービス・製品
+                            </p>
+                            <p class="js-slider8__content-txt">
+                                当社の製品・ソリューションは、ファシリティマネジメントを革新するために開発されたラインナップです。効率的かつ高度な施設管理を実現し、顧客に新たな価値を提供します。
+                            </p>
+                            <p class="js-slider8__content-link">
+                                <strong><a href="/tseries">＞ サービス・製品</a></strong><br>
+                                <a class="disp_pc" href="/ugots">＞ ugo TSシリーズ</a>　<a class="disp_pc" href="/ugo-mini">＞ ugo mini</a>　<a class="disp_pc" href="/t-garden">＞ T-GARDEN</a>　<br><a class="disp_pc" href="/view-t">＞ T-View</a>　<a class="disp_pc" href="/t-mist">＞ T-MIST</a>　<a class="disp_pc" href="/t-bubble">＞ T-Bubble</a>　<a class="disp_pc" href="/simplicity">＞ Simplicity®</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="js-slider8__content-anchor"></div>
+                    <div class="js-slider8__content-anchorEnd"></div>
+                </li>
+
+                <li class="js-slider3__item">
+                    <div class="js-slider3__bg">
+
+                    </div>
+                    <div class="js-slider3__content">
+                        <div class="js-slider3__content-logo">
+                            <img class="js-slider3__content-logo-img" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/logo_catch.webp" alt="街の画像">
+                            <p class="js-slider3__content-logo-ttl">事業紹介／サービス・製品</p>
+                        </div>
+                        <div class="js-slider3__content-box">
+                            <p class="js-slider5__content-txt">
+
+                            </p>
+                        </div>
+                    </div>
+                </li>
+
+                <div class="js-slider__scroll">
+                    <div class="js-slider__scroll-inner">
+                        <ul class="js-slider__scroll-list">
+                            <li class="js-slider__scroll-item is-active"><span></span></li>
+                            <li class="js-slider__scroll-item"><span></span></li>
+                            <li class="js-slider__scroll-item"><span></span></li>
+                            <li class="js-slider__scroll-item"><span></span></li>
+                            <li class="js-slider__scroll-item"><span></span></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="js-slider__shutter">
+
+                    <div class="js-slider__shutter-ribon3Outer">
+                        <div class="js-slider__shutter-ribon3Move">
+                            <img class="js-slider__shutter-ribon3" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_shutterA_pc.webp" alt="">
+                        </div>
+                    </div>
+
+                    <div class="js-slider__shutter-ribon4Outer">
+                        <div class="js-slider__shutter-ribon4Move">
+                            <img class="js-slider__shutter-ribon4" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_shutterB_pc.webp" alt="">
+                        </div>
+                    </div>
+
+                    <div class="js-slider__shutter-ribon1Outer">
+                        <div class="js-slider__shutter-ribon1Move">
+                            <img class="js-slider__shutter-ribon1" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_shutter1_pc.webp" alt="">
+                        </div>
+                    </div>
+
+                    <div class="js-slider__shutter-ribon2Outer">
+                        <div class="js-slider__shutter-ribon2Move">
+                            <img class="js-slider__shutter-ribon2" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/fv_slider_shutter2_pc.webp" alt="">
+                        </div>
+                    </div>
+
+                    <div class="js-slider__shutter-sp">
+                        <div class="js-slider__shutter-spInner"></div>
+                    </div>
+
+                    <div class="js-slider6__item-anchor"></div>
+                </div>
+            </ul>
+        </section>
+
+        <section class="p-top__solution">
+            <section class="c-bg--solution">
+    <div class="c-solution">
+        <h2 class="c-title" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+            <span class="c-title__eg">SOLUTION</span>
+            <span class="c-title__jp">大成の課題解決事例</span>
+        </h2>
+        <div class="c-about__txt" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+            <p>ビルに関することなら何でもご相談ください。<br>
+                オーナー様のニーズに応える最適解を<br class="br-sp">ご提案させていただきます。</p>
+        </div>
+                    <div id="slider-solution" class="c-solution__list splide">
+                <div class="splide__track">
+                    <ul class="splide__list">
+                                                    <li class="c-solution__item splide__slide">
+                                <a class="c-solutionCase__link" href="https://www.taisei-bm.co.jp/warcs/">
+                                    <div class="c-solution__imgArea">
+                                        <img class="c-solution__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/warcs.webp" alt="管理員非常駐型ビル">
+                                    </div>
+                                    <p class="c-solution__txt">満足度向上を実現！Warcsが提供する無人ビル管理</p>
+                                    <p class="c-solution__ttl">管理員非常駐型ビル</p>
+                                </a>
+                            </li>
+                                                    <li class="c-solution__item splide__slide">
+                                <a class="c-solutionCase__link" href="https://www.taisei-bm.co.jp/shinagawa/">
+                                    <div class="c-solution__imgArea">
+                                        <img class="c-solution__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/solution-shinagawa.webp" alt="品川シーズンテラス">
+                                    </div>
+                                    <p class="c-solution__txt">アバター警備ロボット「ugo」の導入により 業務の効率化による人手不足の解決</p>
+                                    <p class="c-solution__ttl">品川シーズンテラス</p>
+                                </a>
+                            </li>
+                                                    <li class="c-solution__item splide__slide">
+                                <a class="c-solutionCase__link" href="https://www.taisei-bm.co.jp/nakanosakaue/">
+                                    <div class="c-solution__imgArea">
+                                        <img class="c-solution__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/solution-nakano.webp" alt="中野坂上サンブライトツイン">
+                                    </div>
+                                    <p class="c-solution__txt">ファシリティマネジメントにおける課題と解決策</p>
+                                    <p class="c-solution__ttl">中野坂上サンブライトツイン</p>
+                                </a>
+                            </li>
+                                                    <li class="c-solution__item splide__slide">
+                                <a class="c-solutionCase__link" href="https://www.taisei-bm.co.jp/gghouse/">
+                                    <div class="c-solution__imgArea">
+                                        <img class="c-solution__img" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/solution-gghouse.webp" alt="GGHOUSE">
+                                    </div>
+                                    <p class="c-solution__txt">オーナー様のビルの運営・管理を一括サポート</p>
+                                    <p class="c-solution__ttl">GGHOUSE</p>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+                <div class="splide__arrows">
+                    <button class="splide__arrow splide__arrow--prev button prev"></button>
+                    <button class="splide__arrow splide__arrow--next button next"></button>
+                </div>
+            </div>
+                <a class="c-btn arrow" href="https://www.taisei-bm.co.jp/solution">詳しく見る</a>
+    </div>
+</section>        </section>
+        <section class="c-bg--green">
+  <div class="c-achievements p-top__achievements ">
+    <div class="c-achievements__inner">
+              <h2 class="c-title" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+          <span class="c-title__eg">ACHIEVEMENTS</span>
+          <span class="c-title__jp">大成の管理実績</span>
+        </h2>
+        <p class="c-about__txt" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+          大成グループの管理物件数は1,000件以上<br class="br-pc">
+          ファシリティマネジメントを国内外で展開しています。<br class="br-sp">様々な管理物件の一部をご紹介します。
+        </p>
+            
+    <div id="slider-achievements" class="c-achievements__slider splide">
+        <div class="splide__track">
+            <ul class="c-achievements__list splide__list">
+                                    <li class="splide__slide">
+                        <div class="c-achievements__slide-container">
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/abenoharukasu.webp" alt="あべのハルカス">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/abenoharukasu.webp" alt="あべのハルカス">
+                                    </div>
+                                    <p class="c-achievements__ttl">あべのハルカス</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/81750da40f4e0fdcf2487d5bc944e0d2.webp" alt="虎ノ門ヒルズ">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/81750da40f4e0fdcf2487d5bc944e0d2.webp" alt="虎ノ門ヒルズ">
+                                    </div>
+                                    <p class="c-achievements__ttl">虎ノ門ヒルズ</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/2353d4579802a55fb6120100d5f4c462.png" alt="丸の内ビルディング">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/2353d4579802a55fb6120100d5f4c462.png" alt="丸の内ビルディング">
+                                    </div>
+                                    <p class="c-achievements__ttl">丸の内ビルディング</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/shinagawast.webp" alt="品川シーズンテラス">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/shinagawast.webp" alt="品川シーズンテラス">
+                                    </div>
+                                    <p class="c-achievements__ttl">品川シーズンテラス</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/dainagoya.webp" alt="大名古屋ビルヂング">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/dainagoya.webp" alt="大名古屋ビルヂング">
+                                    </div>
+                                    <p class="c-achievements__ttl">大名古屋ビルヂング</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/midland-square.webp" alt="ミッドランドスクエア">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/midland-square.webp" alt="ミッドランドスクエア">
+                                    </div>
+                                    <p class="c-achievements__ttl">ミッドランドスクエア</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/actcityhamamatsu.webp" alt="アクトシティ浜松">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/actcityhamamatsu.webp" alt="アクトシティ浜松">
+                                    </div>
+                                    <p class="c-achievements__ttl">アクトシティ浜松</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/sendaitrusttower.webp" alt="仙台トラストタワー">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/sendaitrusttower.webp" alt="仙台トラストタワー">
+                                    </div>
+                                    <p class="c-achievements__ttl">仙台トラストタワー</p>
+                                </div>
+                                                                                </div>
+                    </li>
+                                    <li class="splide__slide">
+                        <div class="c-achievements__slide-container">
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/urbannetnagoya.webp" alt="アーバンネット名古屋ネクスタビル">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/11/urbannetnagoya.webp" alt="アーバンネット名古屋ネクスタビル">
+                                    </div>
+                                    <p class="c-achievements__ttl">アーバンネット名古屋ネクスタビル</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/okuma.webp" alt="オークマ本社工場">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/okuma.webp" alt="オークマ本社工場">
+                                    </div>
+                                    <p class="c-achievements__ttl">オークマ本社工場</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/onoyakuhinkougyou.webp" alt="小野薬品工業水無瀬研究所">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/onoyakuhinkougyou.webp" alt="小野薬品工業水無瀬研究所">
+                                    </div>
+                                    <p class="c-achievements__ttl">小野薬品工業水無瀬研究所</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/ginzasix.webp" alt="GINZA SIX">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/09/ginzasix.webp" alt="GINZA SIX">
+                                    </div>
+                                    <p class="c-achievements__ttl">GINZA SIX</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/centralpark.webp" alt="セントラルパーク">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/centralpark.webp" alt="セントラルパーク">
+                                    </div>
+                                    <p class="c-achievements__ttl">セントラルパーク</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/yunimall.webp" alt="ユニモール">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/yunimall.webp" alt="ユニモール">
+                                    </div>
+                                    <p class="c-achievements__ttl">ユニモール</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/Waseda-University.webp" alt="早稲田大学 早稲田キャンパス">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/Waseda-University.webp" alt="早稲田大学 早稲田キャンパス">
+                                    </div>
+                                    <p class="c-achievements__ttl">早稲田大学 早稲田キャンパス</p>
+                                </div>
+                                                            <div class="c-achievements__item">
+                                    <div class="c-achievements__imgBox">
+                                        <img class="c-achievements__img01" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/TeikyoUniversity.webp" alt="帝京大学医学部附属病院">
+                                        <img class="c-achievements__img02" src="https://www.taisei-bm.co.jp/wp-content/uploads/2024/10/TeikyoUniversity.webp" alt="帝京大学医学部附属病院">
+                                    </div>
+                                    <p class="c-achievements__ttl">帝京大学医学部附属病院</p>
+                                </div>
+                                                                                </div>
+                    </li>
+                            </ul>
+        </div>
+        <div class="splide__arrows">
+            <button class="splide__arrow splide__arrow--prev button prev"></button>
+            <button class="splide__arrow splide__arrow--next button next"></button>
+        </div>
+    </div>
+
+          <a class="c-btn arrow" href="https://www.taisei-bm.co.jp/achievement">詳しく見る</a>
+    </div>
+  </div>
+</section>
+        <section class="p-top__company">
+            <div class="p-top__company-ttl" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <h2 class="c-title">
+                    <span class="c-title__eg">COMPANY</span>
+                    <span class="c-title__jp">企業情報</span>
+                </h2>
+                <div class="p-top__company-ttl-link">
+                    <strong><a href="/corporate">＞ 企業情報</a></strong><br>
+                    <a href="/vision">＞ ビジョン</a>　<a href="/corporate/message/">＞ トップメッセージ</a>　<a href="/profile">＞ 会社概要</a>　<a href="/corporate/history">＞ 沿革</a><br>
+                    <a href="/officer">＞ 役員・組織図</a>　<a href="/group">＞ 各拠点・関連会社</a>
+                </div>
+            </div>
+            <div class="p-top__company-list" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <a class="p-top__company-item vision" href="/vision">ビジョン</a>
+                <a class="p-top__company-item message" href="/corporate/message/">トップメッセージ</a>
+                <a class="p-top__company-item profile" href="/profile">会社概要</a>
+            </div>
+        </section>
+
+        <section class="p-top__sustainability">
+            <div class="p-top__sustainability-ttl" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <h2 class="c-title">
+                    <span class="c-title__eg">SUSTAINABILITY</span>
+                    <span class="c-title__jp">サスティナビリティ</span>
+                </h2>
+                <div class="p-top__sustainability-ttl-link">
+                    <strong><a href="/sustainability">＞ サスティナビリティ</a></strong><br>
+                    <a href="/sdgs">＞ 私たちのSDGs宣言</a><a href="/governance">＞ コーポレートガバナンス体制</a><br>
+                    <a href="/sustainability/stakeholder/">＞ マルチステークホルダー方針</a><a href="/compliance">＞ コンプライアンス体制</a><br>
+                    <a href="/diversity">＞ ダイバーシティへの取り組み</a><a href="/training">＞ 人材育成</a><a href="/sustainability/health_management">＞ 健康経営</a><br>
+                    <a href="/sustainability/ghg">＞ 温室効果ガス排出量の削減</a>
+                </div>
+            </div>
+            <div class="p-top__sustainability-list" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <a class="p-top__sustainability-item sdgs" href="/sdgs">私たちのSDGs宣言</a>
+                <a class="p-top__sustainability-item diversity" href="/diversity">ダイバーシティへの取り組み</a>
+                <a class="p-top__sustainability-item training" href="/training">人材育成</a>
+                <a class="p-top__sustainability-item action" href="https://taisei-sdgs.com/" target="_blank"><img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/logo_action_sdgs.svg" alt="ACTION!SDGs"></a>
+            </div>
+        </section>
+
+        <section class="p-top__recruit c-bg--white">
+            <h2 class="c-title" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <span class="c-title__eg">RECRUIT</span>
+                <span class="c-title__jp">採用</span>
+            </h2>
+            <div class="p-top__recruit-list" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+                <a class="p-top__recruit-item" href="/recruit">
+                    <img class="p-top__recruit-item-img" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/recruit_regular.webp" alt="採用サイト">
+                    <p class="p-top__recruit-item-ttl">採用サイト</p>
+                </a>
+                <a class="p-top__recruit-item" href="https://job-gear.net/taisei/" target="_blank">
+                    <img class="p-top__recruit-item-img" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/recruit_part.webp" alt="パート・アルバイト">
+                    <p class="p-top__recruit-item-ttl">パート・アルバイト</p>
+                </a>
+            </div>
+            <div class="p-top__recruit-bottom">
+                <picture>
+                    <source media="(max-width: 750px)" srcset="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/recruit_bottom_sp.webp">
+                    <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/top/recruit_bottom.webp" alt="あなたのチャレンジを大成で">
+                </picture>
+                <p class="p-top__recruit-bottom-txt">あなたのチャレンジを大成で</p>
+                <p class="p-top__recruit-bottom-txt">一緒に未来を形作ろう</p>
+            </div>
+        </section>
+
+        
+<section class="c-bg c-bg--green">
+    <div class="c-contact" data-aos="fade-up" data-aos-offset="45" data-aos-duration="500">
+        <h2 class="c-title">
+            <span class="c-title__eg">CONTACT</span>
+            <span class="c-title__jp">お問い合わせ・資料ダウンロード</span>
+        </h2>
+        <div class="c-contact__list">
+            <a class="c-contact__item c-contact__item--green" href="/contact">
+                <h3 class="c-contact__ttl">お問い合わせ</h3>
+                <span class="c-contact__forSp">
+                    <img class="c-contact__figure--qa" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/figure_contact.svg" alt="お問い合わせ">
+                    <p class="c-contact__txt">お仕事のご相談や<br class="br-sp">その他お問い合わせはこちら</p>
+                </span>
+            </a>
+            <a class="c-contact__item c-contact__item--lightgreen" href="/download">
+                <h3 class="c-contact__ttl">資料ダウンロード</h3>
+                <span class="c-contact__forSp">
+                    <img class="c-contact__figure--doc" src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/figure_document.svg" alt="資料ダウンロード">
+                    <p class="c-contact__txt">大成のサービス・製品に関する<br class="br-sp">資料はこちら</p>
+                </span>
+            </a>
+        </div>
+    </div>
+</section>    </article>
+</main>
+</body>
+
+<footer class="wp-footer">
+    <!------- ▼pc ------->
+<footer class="l-pc-footer l-pc-footer--root disp_pc">
+    <div class="l-pc-footer__left l-pc-footer__left--root">
+        <a class="l-pc-footer__logo l-pc-footer__logo--root" href="/">
+            <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_ftr.svg?1788758455" alt="大成株式会社">
+        </a>
+        <ul class="l-pc-footer__address l-pc-footer__address--root">
+            <li>
+                <h3>名古屋本社</h3>
+                <address>
+                    〒460-0008<br>
+                    名古屋市中区栄3-31-12
+                </address>
+            </li>
+            <li>
+                <h3>東京本社</h3>
+                <address>
+                    〒102-8578<br>
+                    東京都千代田区紀尾井町4-1<br>
+                    ニューオータニガーデンコート27階
+                </address>
+            </li>
+        </ul>
+    </div>
+
+    <div class="l-pc-footer__right l-pc-footer__right--root">
+        <nav class="l-pc-footer__nav-top l-pc-footer__nav-top--root">
+            <a class="l-pc-footer__nav-top-eg" href="/english">English</a>
+            <a class="l-pc-footer__nav-top-contact" href="/contact">お問い合わせ</a>
+            <a class="l-pc-footer__nav-top-document" href="/download">資料ダウンロード</a>
+        </nav>
+        <nav class="l-pc-footer__nav-middle l-pc-footer__nav-middle--root">
+            <div class="l-pc-footer__nav-section">
+                <p class="l-pc-footer__nav-item l-pc-footer__nav-item--root">事業紹介</p>
+                <ul class="l-pc-footer__nav-item-list">
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/facility-management">ファシリティマネジメント</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/real_estate">不動産事業</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/construction">建築リニューアル</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/overseas">海外事業</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="l-pc-footer__nav-section">
+                <p class="l-pc-footer__nav-item l-pc-footer__nav-item--root">サービス・製品</p>
+                <ul class="l-pc-footer__nav-item-list">
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/ugots">ugo TSシリーズ</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/ugo-mini">ugo mini</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/t-garden">T-GARDEN</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/view-t">T-View</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/t-mist">T-MIST</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/t-bubble">T-Bubble</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/simplicity">Simplicity®</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="l-pc-footer__nav-section">
+                <p class="l-pc-footer__nav-item l-pc-footer__nav-item--root">企業情報</p>
+                <ul class="l-pc-footer__nav-item-list">
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/vision">ビジョン</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/corporate/message">トップメッセージ</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/corporate/profile">会社概要</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/corporate/history">沿革</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/officer">役員・組織図</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/group">各拠点・関連会社</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="l-pc-footer__nav-section">
+                <p class="l-pc-footer__nav-item l-pc-footer__nav-item--root">サスティナビリティ</p>
+                <ul class="l-pc-footer__nav-item-list">
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/sdgs">私たちのSDGs宣言</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="https://taisei-sdgs.com/" target="_blank">ACTION SDGs</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/governance">コーポレートガバナンス体制</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/sustainability/stakeholder/">マルチステークホルダー方針</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/compliance">コンプライアンス体制</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/diversity">ダイバーシティへの取り組み</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/training">人材育成</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/sustainability/health_management">健康経営</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="/sustainability/ghg">温室効果ガス排出量の削減</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="l-pc-footer__nav-section">
+                <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/topics">ニュース</a>
+            </div>
+            <div class="l-pc-footer__nav-section">
+                <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/recruit">採用情報</a>
+                <ul class="l-pc-footer__nav-item-list">
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="https://www.taisei-bm.co.jp/recruit/officeworker/">総合職・エリア総合職</a>
+                    </li>
+                    <li>
+                        <a class="l-pc-footer__nav-item-detail" href="https://www.taisei-bm.co.jp/recruit/profession/">専門総合職</a>
+                    </li>
+                </ul>
+                <!-- <ul class="l-pc-footer__nav-item-list">
+                    <a class="l-pc-footer__nav-item-detail" href="/recruit">採用サイト</a>
+                    <a class="l-pc-footer__nav-item-detail" href="https://job-gear.net/taisei/" target="_blank">パート・アルバイト</a>
+                </ul> -->
+            </div>
+        </nav>
+        <nav class="l-pc-footer__nav-sns l-pc-footer__nav-sns--root">
+            <a class="l-pc-footer__nav-sns-logo l-pc-footer__logo--root" href="https://www.linkedin.com/company/taisei/" target="_blank">
+                <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_linkedin.svg?1788758455" alt="LinkedInロゴ">
+            </a>
+            <a class="l-pc-footer__nav-sns-logo l-pc-footer__logo--sub" href="https://www.youtube.com/@taisei_bm" target="_blank">
+                <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_youtube.svg?1788758455" alt="Youtubeロゴ">
+            </a>
+        </nav>
+        <nav class="l-pc-footer__nav-bottom l-pc-footer__nav-bottom--root">
+            <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/privacy">個人情報の取り扱いについて</a>
+            <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/privacy_staff">当社従業員等の個人情報保護方針について</a>
+        </nav>
+        <nav class="l-pc-footer__nav-bottom l-pc-footer__nav-bottom--root">
+            <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/margin">労働者派遣事業を行う事業所ごとの情報提供について</a>
+            <a class="l-pc-footer__nav-item l-pc-footer__nav-item--root" href="/shokugyo_shokai">有料職業紹介事業に関する情報開示について</a>
+        </nav>
+    </div>
+</footer>
+
+<!------- ▼sp ------->
+<footer class="l-sp-footer l-sp-footer--root disp_sp">
+    <div>
+        <nav class="l-sp-footer__nav-top l-sp-footer__nav-top--root">
+            <div class="l-sp-footer__nav-top-eg">
+                <a href="/english">English</a>
+            </div>
+            <div class="l-sp-footer__nav-top-btn">
+                <a class="l-sp-footer__nav-top-contact" href="/contact">お問い合わせ</a>
+                <a class="l-sp-footer__nav-top-document" href="/download">資料ダウンロード</a>
+            </div>
+        </nav>
+    </div>
+    <div class="l-sp-footer__middle l-sp-footer__middle--root">
+        <a class="l-sp-footer__logo l-sp-footer__logo--root" href="/">
+            <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_ftr.svg?1788758455" alt="大成株式会社">
+        </a>
+        <ul class="l-sp-footer__address l-sp-footer__address--root">
+            <li>
+                <h3>名古屋本社</h3>
+                <address>
+                    〒460-0008<br>
+                    名古屋市中区栄3-31-12
+                </address>
+            </li>
+            <li>
+                <h3>東京本社</h3>
+                <address>
+                    〒102-8578<br>
+                    東京都千代田区紀尾井町4-1<br>
+                    ニューオータニガーデンコート27階
+                </address>
+            </li>
+        </ul>
+    </div>
+
+    <div class="l-sp-footer__right l-sp-footer__right--root">
+        <nav class="l-sp-footer__nav">
+            <button class="l-sp-footer__nav-item l-sp-footer__nav__acd-btn js-acd-btn">事業紹介</button>
+            <div class="js-acd-content">
+                <nav class="l-sp-footer__nav__acd-nav">
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/facility-management">ファシリティマネジメント</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/real_estate">不動産事業</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/construction">建築リニューアル</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/overseas">海外事業</a>
+                </nav>
+            </div>
+
+            <button class="l-sp-footer__nav-item l-sp-footer__nav__acd-btn js-acd-btn">サービス・製品</button>
+            <div class="js-acd-content">
+                <nav class="l-sp-footer__nav__acd-nav">
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/ugots">ugo TSシリーズ</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/ugo-mini">ugo mini</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/t-garden">T-GARDEN</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/view-t">T-View</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/t-mist">T-MIST</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/t-bubble">T-Bubble</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/simplicity">Simplicity®</a>
+                </nav>
+            </div>
+
+            <button class="l-sp-footer__nav-item l-sp-footer__nav__acd-btn js-acd-btn">企業情報</button>
+            <div class="js-acd-content">
+                <nav class="l-sp-footer__nav__acd-nav">
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/vision">ビジョン</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/corporate/message">トップメッセージ</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/corporate/profile">会社概要</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/corporate/history">沿革</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/officer">役員・組織図</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/group">各拠点・関連会社</a>
+                </nav>
+            </div>
+
+            <button class="l-sp-footer__nav-item l-sp-footer__nav__acd-btn js-acd-btn">サスティナビリティ</button>
+            <div class="js-acd-content">
+                <nav class="l-sp-footer__nav__acd-nav">
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/sdgs">私たちのSDGs宣言</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="https://taisei-sdgs.com/" target="_blank">ACTION SDGs</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/governance">コーポレートガバナンス体制</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/sustainability/stakeholder/">マルチステークホルダー方針</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/compliance">コンプライアンス体制</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/training">人材育成</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/sustainability/health_management">健康経営</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/ghg">温室効果ガス排出量の削減</a>
+                </nav>
+            </div>
+
+            <a class="l-sp-footer__nav-item" href="/topics">ニュース</a>
+            <a class="l-sp-footer__nav-item" href="/recruit">採用情報</a>
+            <!-- <button class="l-sp-footer__nav-item l-sp-footer__nav__acd-btn js-acd-btn">採用情報</button>
+            <div class="js-acd-content">
+                <nav class="l-sp-footer__nav__acd-nav">
+                    <a class="l-sp-footer__nav__acd-nav-item" href="/recruit">採用サイト</a>
+                    <a class="l-sp-footer__nav__acd-nav-item" href="https://job-gear.net/taisei/" target="_blank">パート・アルバイト</a>
+                </nav>
+            </div> -->
+        </nav>
+
+        <nav class="l-sp-footer__nav-bottom">
+            <div class="l-sp-footer__nav-bottom-logo-wrapper">
+                <a class="l-sp-footer__nav-bottom-logo" href="https://www.linkedin.com/company/taisei/" target="_blank">
+                    <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_linkedin.webp?1788758455" alt="LinkedInロゴ">
+                </a>
+                <a class="l-sp-footer__nav-bottom-logo" href="https://www.youtube.com/@taisei_bm" target="_blank">
+                    <img src="https://www.taisei-bm.co.jp/wp-content/themes/sango-theme-child/assets/images/common/logo_youtube.svg?1788758455" alt="Youtubeロゴ">
+                </a>
+            </div>
+            <a class="l-sp-footer__nav-bottom-link" href="/privacy">個人情報の取り扱いについて</a>
+            <a class="l-sp-footer__nav-bottom-link" href="/privacy_staff">当社従業員等の個人情報保護方針について</a>
+            <a class="l-sp-footer__nav-bottom-link" href="/margin">労働者派遣事業を行う事業所ごとの情報提供について</a>
+            <a class="l-sp-footer__nav-bottom-link" href="/shokugyo_shokai">有料職業紹介事業に関する情報開示について</a>
+        </nav>
+    </div>
+</footer>
+    
+    <p class="wp-footer__copy">Copyright TAISEI All Rights Reserved.</p>
+</footer>
+<script>
+  function onClick(e) {
+    e.preventDefault();
+    grecaptcha.enterprise.ready(async () => {
+      const token = await grecaptcha.enterprise.execute('6LeOd9QqAAAAAJiyD3xGV0INHg37Ty19o3QNHWiV', {action: 'LOGIN'});
+    });
+  }
+</script>
+</body>
+
+</html>

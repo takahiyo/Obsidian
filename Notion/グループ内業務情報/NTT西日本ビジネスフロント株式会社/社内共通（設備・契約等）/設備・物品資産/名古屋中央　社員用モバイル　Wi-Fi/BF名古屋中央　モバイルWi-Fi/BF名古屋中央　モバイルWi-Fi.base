@@ -1,0 +1,22 @@
+# BF名古屋中央　モバイルWi-Fi
+
+filters:
+  and:
+    - note["base"] == link("BF名古屋中央　モバイルWi-Fi.base")
+properties:
+  file.name:
+    displayName: 名前
+  SSID:
+    displayName: SSID
+  QRコード:
+    displayName: QRコード
+  本体裏面:
+    displayName: 本体裏面
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - SSID
+      - QRコード
+      - 本体裏面

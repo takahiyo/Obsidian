@@ -1,0 +1,19 @@
+# 対応履歴 (1)
+
+filters:
+  and:
+    - note["base"] == link("対応履歴 (1).base")
+properties:
+  file.name:
+    displayName: 要約
+  内容:
+    displayName: 内容
+  日付:
+    displayName: 日付
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 内容
+      - 日付

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-language" content="ja">
+    <meta name="robots" content="noindex">
+    <meta name="csrfToken" content="GM7OvO6+oMwjp3KmW359qTz5tHQjWzK04X14UYdpRvRTnpPNgXhLA/iMPm+9EJLRa/IjzrT4vG3ek/wewp0Znlf3PM1TMw/CCZ/WERttBtLTGUBnslAjwWSq8KuxSC5hnboIV4wm9OZcl0b3hs7aXw==">    <title>
+        トビラフォン Biz 光回線用:
+        Users    </title>
+    <link href="/favicon.ico?1787671957" type="image/x-icon" rel="icon"><link href="/favicon.ico?1787671957" type="image/x-icon" rel="shortcut icon">
+    
+	<link rel="stylesheet" href="/css/bootstrap.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/bootstrap-datetimepicker.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/font/bootstrap-icons.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/font/bootstrap-icon-sizes.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/mediaelementplayer.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/bootstrap-toggle.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/bootstrap-select.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/icomoon-style.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/daterangepicker.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/fullcalendar.min.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/toastify.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/myapp.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+	<link rel="stylesheet" href="/css/csp.css?1787671957" nonce="UUbrV+CAeFXEtSAusikLYdrY"/>
+    
+	<script src="/js/vendor/jquery-3.6.1.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/gridstack.all.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/jquery.add-input-area.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/jquery-ui.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/jquery.ui.touch-punch.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/moment-with-locales.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/moment-ja.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/bootstrap-datetimepicker.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/mediaelement-and-player.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/js.cookie-2.2.0.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/daterangepicker.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/jquery.validate.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/fullcalendar.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/fullcalendar-lang-ja.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/csp.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+
+    
+	<script src="/js/popper.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/bootstrap.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/bootstrap-select.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+
+                <script nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ">        var canRegisterCalllogUserFromPopup = false    </script></head>
+<body>
+<div class="container-fluid p-0">
+    <nav class="navbar navbar-default navbar-fixed-top mb-4 bg-white cell-border-b">
+        <div class="navbar-brand brand-height ps-3">
+            <p class="small">
+                <a class="navbar-brand-link" href="/users/login">
+                    <img alt="Brand" src="/img/tobilaphon_forBusiness_title.png" class="height-35">
+                </a>
+            </p>
+        </div>
+    </nav>
+    <div class='col-md-6 offset-md-3'>
+                    </div>
+    <div class='col-md-4 offset-md-4 mt-4'>
+        <div class="card border-primary">
+            <div class="card-header card-header-primary">ログイン</div>
+            <div class="card-body py-2">
+                <form method="post" accept-charset="utf-8" role="form" action="/users/login"><div class="cake-core-hidden"><input type="hidden" name="_csrfToken" autocomplete="off" value="GM7OvO6+oMwjp3KmW359qTz5tHQjWzK04X14UYdpRvRTnpPNgXhLA/iMPm+9EJLRa/IjzrT4vG3ek/wewp0Znlf3PM1TMw/CCZ/WERttBtLTGUBnslAjwWSq8KuxSC5hnboIV4wm9OZcl0b3hs7aXw=="></div>                <div class="mb-3">
+                    <label class="label mb-2 mt-1 fw-bold">ユーザ ID</label>
+                    <div class="mb-3 form-group text"><input type="text" name="login_name" id="login-name" class="form-control"></div>                </div>
+                <div class="mb-3">
+                    <label class="label mb-2 fw-bold">パスワード</label>
+                    <div class="mb-3 form-group password"><input type="password" name="user_password" id="user-password" class="form-control" value=""></div>                </div>
+                <div class="mb-3">
+                    <div class="mb-3 form-group form-check checkbox"><input type="hidden" name="remember_me" value="0"><input type="checkbox" name="remember_me" value="1" class="border-dark form-check-input" id="remember-me"><label class="form-check-label" for="remember-me">ログイン状態を保持する</label></div>                </div>
+
+                <div class="text-center">
+                    <button class="btn-primary btn-submit mb-2 btn" type="submit">ログイン</button>                </div>
+                </form>            </div>
+        </div>
+        <div class="mt-3">
+            <a href="/password-reminder/forgot">ユーザID・パスワードを忘れた場合</a>        </div>
+
+    </div>
+</div>
+
+	<script src="/js/bootstrap-toggle.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/vendor/toastify.min.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/myapp.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/sse-push.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+	<script src="/js/sse-main.js?1787671958" nonce="Rf2RVfGtYCVYuuXQU4gTLfqQ"></script>
+
+</body>
+</html>

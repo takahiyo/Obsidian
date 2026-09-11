@@ -1,0 +1,66 @@
+# タスク
+
+filters:
+  and:
+    - note["base"] == link("タスク.base")
+formulas:
+  💼 顧客管理: note["プロジェクト"].map(value.asFile().properties["顧客管理"])
+  サブタスク: note["親タスク"].map(value.asFile().properties["タスク名"])
+properties:
+  file.name:
+    displayName: タスク名
+  重要度:
+    displayName: 重要度
+  親アイテム:
+    displayName: 親アイテム
+  サブアイテム:
+    displayName: サブアイテム
+  緊急度:
+    displayName: 緊急度
+  次のタスクにより保留中：:
+    displayName: 次のタスクにより保留中：
+  補足:
+    displayName: 補足
+  次のタスクを保留中：:
+    displayName: 次のタスクを保留中：
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  タグ:
+    displayName: タグ
+  担当者:
+    displayName: 担当者
+  ステータス:
+    displayName: ステータス
+  期限:
+    displayName: 期限
+  優先度:
+    displayName: 優先度
+  要約:
+    displayName: 要約
+  親タスク:
+    displayName: 親タスク
+  プロジェクト:
+    displayName: プロジェクト
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 重要度
+      - 親アイテム
+      - サブアイテム
+      - 緊急度
+      - 次のタスクにより保留中：
+      - 補足
+      - 次のタスクを保留中：
+      - ファイル&メディア
+      - タグ
+      - 担当者
+      - ステータス
+      - 期限
+      - 優先度
+      - 要約
+      - 親タスク
+      - プロジェクト
+      - formula.💼 顧客管理
+      - formula.サブタスク

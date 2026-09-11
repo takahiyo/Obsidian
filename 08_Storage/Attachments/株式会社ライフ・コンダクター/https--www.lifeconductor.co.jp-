@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="ja">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-style-type" content="text/css">
+	<meta http-equiv="content-script-type" content="text/javascript">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+	<meta name="Description" content="私たち株式会社ライフ・コンダクターは「All you need」を合言葉に、すべてのお客様が必要としている商品・情報・スキルなどをご提供してまいります。。">
+	<meta name="Keywords" content="株式会社ライフ・コンダクター,ライフ・コンダクター,保険,生命保険,損害保険,ビジネスマナー,婚活,就活,カービジネス">
+	<title>株式会社ライフ・コンダクター</title>
+	<link rel="stylesheet" type="text/css" href="https://www.lifeconductor.co.jp/themes/default/assets/css/common.css">
+	<link rel="stylesheet" type="text/css" href="https://www.lifeconductor.co.jp/themes/default/assets/css/index.css">
+	<script type="text/javascript" src="https://www.lifeconductor.co.jp/themes/default/assets/js/common.js"></script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'G-NPKHW141PY']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+
+<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<div id="container">
+		<div id="header">
+			<h1>株式会社ライフ・コンダクター</h1>
+			<div id="fontsize">
+				<p>文字サイズの変更</p>
+				<a class="s">小</a>
+				<a class="m">中</a>
+				<a class="l">大</a>
+			</div>
+			<div class="main_img">
+				<img width="900" height="240" src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/key_visual.jpg" alt="key_visual" />			</div>
+			<ul id="main_menu">
+				<li class="hoken">
+					<a href="https://www.lifeconductor.co.jp/hoken/index.html">保険</a>				</li>
+				<li class="business">
+					<a href="https://www.lifeconductor.co.jp/business/index.html">ビジネスマナー・就活・婚活</a>				</li>
+				<li class="car">
+					<a href="https://www.lifeconductor.co.jp/car_business/index.html">カービジネス</a>				</li>
+				<li class="voice">
+					<a href="https://www.lifeconductor.co.jp/voice/index.html">お客様の声</a>				</li>
+				<li class="office">
+					<a href="https://www.lifeconductor.co.jp/office/index.html">会社概要</a>				</li>
+				<li class="contact">
+					<a href="https://www.lifeconductor.co.jp/contact/index.html">お問い合わせ</a>				</li>
+			</ul>
+		</div>
+		<div id="main" class="clearfix">
+			<div class="left_area">
+				<a href="http://www.business-plus.net/interview/1206/352206.shtml" target="_blank">
+					<img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/top_bnr01.jpg" alt="top_bnr01" />				</a>
+				<div id="hoken" class="clearfix">
+					<h2>保険</h2>
+					<div class="item songai clearfix">
+						<h3>損害保険</h3>
+						<ul>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html#01">自動車保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html#02">火災保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html#03">地震保険</a></li>
+						</ul>
+						<ul>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html#03">海外・国内旅行保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html">傷害保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/songai.html#04">企業を取り巻くリスクへの保険</a></li>
+						</ul>
+						<a href="https://www.lifeconductor.co.jp/hoken/songai.html" class="other">その他を見る</a>
+					</div>
+					<div class="item seimei clearfix">
+						<h3>生命保険</h3>
+						<ul>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei2">医療保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei1">がん保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei3">死亡保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei4">個人年金保険</a></li>
+						</ul>
+						<ul>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei5">学資保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#seimei6">介護保険</a></li>
+							<li><a href="https://www.lifeconductor.co.jp/hoken/index.html#kigyou">企業向け長期定期保険</a></li>
+						</ul>
+						<a href="https://www.lifeconductor.co.jp/hoken/index.html" class="other">その他を見る</a>
+					</div>
+				</div>
+				<div id="business">
+					<h2>ビジネスマナー・就活・婚活</h2>
+					<div id="scroll" class="clearfix">
+						<div class="left_button">&lt;</div>
+						<img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/sclor01.jpg" alt="sclor01" />						<img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/sclor02.jpg" alt="sclor02" />						<div class="right_button">&gt;</div>
+					</div>
+				</div>
+				<div id="info">
+					<h2>お知らせ</h2>
+					<div class="inner">
+						<dl>
+													<dt>2014年8月11日</dt>
+							<dd class="cate1"><a href="https://www.lifeconductor.co.jp/posts/detail/8.html">夏期休業のご案内</a></dd>
+													<dt>2014年4月1日</dt>
+							<dd class="cate1"><a href="https://www.lifeconductor.co.jp/posts/detail/7.html">消費税率改定に伴う価格表示について</a></dd>
+													<dt>2013年10月3日</dt>
+							<dd class="cate4"><a href="https://www.lifeconductor.co.jp/posts/detail/6.html">生命保険ページ、リニューアル中</a></dd>
+													<dt>2013年5月26日</dt>
+							<dd class="cate6"><a href="https://www.lifeconductor.co.jp/posts/detail/5.html">ジャガー Fタイプ 予約受付開始</a></dd>
+													<dt>2013年1月31日</dt>
+							<dd class="cate5"><a href="https://www.lifeconductor.co.jp/posts/detail/4.html">異業種交流会　2/22(金)21:00より</a></dd>
+												</dl>
+					</div>
+					<a class="tolist" href="https://www.lifeconductor.co.jp/info/index.html">お知らせ一覧</a>				</div>
+			</div>
+			<div class="right_area">
+				<div id="banner">
+					<a href="https://www.lifeconductor.co.jp/partner.html"><img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/bnr_top01.jpg" alt="bnr_top01" /></a>					<a href="https://www.lifeconductor.co.jp/contact/index.html"><img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/bnr_top02.jpg" alt="bnr_top02" /></a>					<img src="https://www.lifeconductor.co.jp/themes/default/assets/img/index/bnr_top03.jpg" alt="bnr_top03" />				</div>
+				<div class="fb-like-box" data-href="http://www.facebook.com/lifeconductor" data-width="256" data-height="400" data-show-faces="true" data-stream="false" data-header="true"></div>
+			</div>
+		</div>
+		<div class="footer_wrap">
+			<div id="footer">
+				<div class="address">
+					〒453-0016 愛知県名古屋市中村区竹橋町9-7　TEL：052-414-4414
+				</div>
+				<ul class="footer_menu">
+					<li>ご利用条件</li>
+					<li>プライバシーポリシー</li>
+					<li>このサイトについて</li>
+					<li>サイトマップ</li>
+				</ul>
+				<div class="copyright">Copyright (c) 2012 Life Conductor All Rights　Reserved.</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

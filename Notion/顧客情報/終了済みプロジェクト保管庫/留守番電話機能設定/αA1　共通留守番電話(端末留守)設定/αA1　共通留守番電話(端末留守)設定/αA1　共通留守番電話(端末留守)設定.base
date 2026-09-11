@@ -1,0 +1,28 @@
+# αA1　共通留守番電話(端末留守)設定
+
+filters:
+  and:
+    - note["base"] == link("αA1　共通留守番電話(端末留守)設定.base")
+formulas:
+  名称: note["💽 項番"].map(value.asFile().properties["項目"])
+properties:
+  file.name:
+    displayName: 名前
+  必須:
+    displayName: 必須
+  設定指示:
+    displayName: 設定指示
+  特記事項:
+    displayName: 特記事項
+  💽 項番:
+    displayName: 💽 項番
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 必須
+      - 設定指示
+      - 特記事項
+      - 💽 項番
+      - formula.名称

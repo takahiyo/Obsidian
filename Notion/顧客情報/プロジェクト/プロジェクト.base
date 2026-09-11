@@ -1,0 +1,61 @@
+# プロジェクト
+
+filters:
+  and:
+    - note["base"] == link("プロジェクト.base")
+properties:
+  file.name:
+    displayName: プロジェクト名
+  サブアイテム:
+    displayName: サブアイテム
+  補足:
+    displayName: 補足
+  親アイテム:
+    displayName: 親アイテム
+  次のタスクを保留中：:
+    displayName: 次のタスクを保留中：
+  顧客管理:
+    displayName: 顧客管理
+  次のタスクにより保留中：:
+    displayName: 次のタスクにより保留中：
+  関係者:
+    displayName: 関係者
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  URL:
+    displayName: URL
+  オーナー:
+    displayName: オーナー
+  営業段階:
+    displayName: 営業段階
+  タグ:
+    displayName: タグ
+  次の行動予定日:
+    displayName: 次の行動予定日
+  タスク:
+    displayName: タスク
+  次のプロジェクトを保留中：:
+    displayName: 次のプロジェクトを保留中：
+  次のプロジェクトにより保留中：:
+    displayName: 次のプロジェクトにより保留中：
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - サブアイテム
+      - 補足
+      - 親アイテム
+      - 次のタスクを保留中：
+      - 顧客管理
+      - 次のタスクにより保留中：
+      - 関係者
+      - ファイル&メディア
+      - URL
+      - オーナー
+      - 営業段階
+      - タグ
+      - 次の行動予定日
+      - タスク
+      - 次のプロジェクトを保留中：
+      - 次のプロジェクトにより保留中：

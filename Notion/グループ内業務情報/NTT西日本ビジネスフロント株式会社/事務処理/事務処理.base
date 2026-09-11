@@ -1,0 +1,22 @@
+# 事務処理
+
+filters:
+  and:
+    - note["base"] == link("事務処理.base")
+properties:
+  file.name:
+    displayName: 名前
+  タグ:
+    displayName: タグ
+  更新されました:
+    displayName: 更新されました
+  作成日時:
+    displayName: 作成日時
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - タグ
+      - 更新されました
+      - 作成日時

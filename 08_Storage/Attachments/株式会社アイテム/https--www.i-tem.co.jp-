@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<script
+			src="https://code.jquery.com/jquery-3.7.1.min.js"
+			integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+			crossorigin="anonymous"
+		></script>
+		<!-- Google Tag Manager -->
+		<script>
+			(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-5LJCT82');
+		</script>
+		<!-- End Google Tag Manager -->
+		
+		<link href="./_app/immutable/assets/footer-700572a9.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/import-38feffcf.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/_page-ad7825f7.css" rel="stylesheet"><title>株式会社アイテム</title>
+		<meta name="keywords" content="株式会社アイテム,ICT, 情報通信" data-svelte="svelte-l73pgk">
+		<meta name="description" content="株式会社アイテムのコーポレートサイト、トップページ。株式会社アイテムは、あらゆる情報通信に目を向け、社会や企業が必要としているコトやモノを創出する取り組みを行い、超スマート社会によって生み出される恩恵を、誰もがひとしく受けることができる社会の実現に貢献して参ります。" data-svelte="svelte-l73pgk">
+
+		<meta property="og:url" content="https://www.i-tem.co.jp" data-svelte="svelte-l73pgk">
+		<meta property="og:type" content="website" data-svelte="svelte-l73pgk">
+		<meta property="og:title" content="株式会社アイテム" data-svelte="svelte-l73pgk">
+		<meta property="og:description" content="株式会社アイテムのコーポレートサイト、トップページ。株式会社アイテムは、あらゆる情報通信に目を向け、超スマート社会によって生み出される恩恵を、誰もがひとしく受けることができる社会の実現に貢献して参ります。" data-svelte="svelte-l73pgk">
+		<meta property="og:site_name" content="株式会社アイテム" data-svelte="svelte-l73pgk">
+		<meta property="og:image" content="/images/top-snsImage.jpg" data-svelte="svelte-l73pgk">
+		<meta name="twitter:card" content="summary_large_image" data-svelte="svelte-l73pgk">
+
+		<link rel="canonical" href="https://www.i-tem.co.jp/" data-svelte="svelte-l73pgk">
+	</head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript
+			><iframe
+				src="https://www.googletagmanager.com/ns.html?id=GTM-5LJCT82"
+				height="0"
+				width="0"
+				style="display: none; visibility: hidden"
+			></iframe
+		></noscript>
+
+		<!-- End Google Tag Manager (noscript) -->
+		
+
+
+
+
+
+
+
+
+<header class="top-header"><div class="header-global"><div class="header-logo"><a href="/"><img src="/common/images/logo.png" alt="item corporation"></a></div>
+	<nav class="global-nav-pc"><ul class="global-nav-pcList"><li><a href="/company/" class="global-navLink">会社情報</a>
+				
+				<div class="megaMenu"><div class="megaMenu-category"><div class="megaMenu-categoryBody"><div class="megaMenu-categoryName"><p>Company<span>会社情報</span></p></div>
+							<div class="megaMenu-categoryBtn"><a href="/company/" class="btn-def ppl small">view more</a></div></div></div>
+					<div class="megaMenu-list"><ul><li class="company-megaMenuSum1"><a href="/company/aboutus/">私たちについて</a></li>
+							<li class="company-megaMenuSum2"><a href="/company/profile/">会社概要</a></li>
+							<li class="company-megaMenuSum3"><a href="/company/history/">沿革</a></li>
+							<li class="company-megaMenuSum4"><a href="/csr/">CSR基本方針</a></li></ul></div></div>
+				</li>
+
+			<li><a href="/business/" class="global-navLink">事業内容</a>
+				
+				<div class="megaMenu"><div class="megaMenu-category"><div class="megaMenu-categoryBody"><div class="megaMenu-categoryName"><p>Business<span>事業内容</span></p></div>
+							<div class="megaMenu-categoryBtn"><a href="/business/" class="btn-def ppl small">view more</a></div></div></div>
+					<div class="megaMenu-list"><ul><li class="business-megaMenuSum1"><a href="/ict-solution/">ICTソリューション</a></li>
+							<li class="business-megaMenuSum2"><a href="/ict-engineering/">ICTエンジニアリング</a></li>
+							<li class="business-megaMenuSum3"><a href="/callcenter/">コンタクトセンター</a></li>
+							<li class="business-megaMenuSum4"><a href="/energy/">太陽光発電ソリューション</a></li>
+							<li class="business-megaMenuSum5"><a href="/drone-solution/">ドローンソリューション</a></li></ul></div></div>
+				</li>
+			<li><a data-sveltekit-reload href="/recruit/" class="global-navLink" target="_blank">採用情報</a></li>
+			<li><a href="/inquiry/" class="global-navLink nav-contact"><i class="fa-regular fa-envelope"></i></a></li></ul></nav>
+	
+
+	
+	<div class="header-hb"></div>
+	<div class="global-nav-spWrap"><nav class="global-nav-sp"><dl class="txt-def"><dt class="nav-spList">会社情報
+				</dt><dd><ul><li><a href="/company/">会社情報トップ</a></li>
+						<li><a href="/company/aboutus/">私たちについて</a></li>
+						<li><a href="/company/profile/">会社概要</a></li>
+						<li><a href="/company/history/">沿革</a></li>
+						<li><a href="/csr/">CSR基本方針</a></li></ul>
+				</dd><dt class="nav-spList">事業内容
+				</dt><dd><ul><li><a href="/business/">事業内容トップ</a></li>
+						<li><a href="/ict-solution/">ICTソリューション</a></li>
+						<li><a href="/ict-engineering/">ICTエンジニアリング</a></li>
+						<li><a href="/callcenter/">コンタクトセンター</a></li>
+						<li><a href="/energy/">太陽光発電ソリューション</a></li>
+						<li><a href="/drone-solution/">ドローンソリューション</a></li></ul></dd></dl>
+			<div class="recruit-spLink"><a data-sveltekit-reload href="/recruit/" target="_blank">採用情報</a></div>
+			<a href="/inquiry/" class="link-inquiryBox">お問い合わせ</a></nav>
+		<div class="nav-overlay"></div></div>
+	</div>
+
+
+
+	<div class="top-header-inner"><div class="top-header-catch"><h1><img src="/images/top-catch.png" alt="Human-in-the-Loop Designer ~人とITの共創をデザインする企業~"></h1></div>
+		<div class="swiper" style="width: 100%; height: 100%;">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><div class="slide-img1"></div>
+				<div class="top-header-body"><p class="top-header-read">「繋ぐコト」<br class="spBr"><br class="br-ch">「生み出すコト」<span>で</span><br class="spBr"><br class="tabBr">
+						<span class="read-ind-sp">支えるICT<span>の</span>未来</span></p>
+					<a href="/company/aboutus/" class="btn-def alha top-headerBtn">read more</a></div></div>
+			<div class="swiper-slide"><div class="slide-img2"></div>
+				<div class="top-header-body"><p class="top-header-read">あらゆるICTに<br class="spBr">目を向け、<br class="tabBr">企業と社会に<br class="spBr">ソリューションを。
+					</p>
+					<a href="/ict-solution/" class="btn-def alha top-headerBtn">read more</a></div></div>
+			<div class="swiper-slide"><div class="slide-img3"></div>
+				<div class="top-header-body"><p class="top-header-read">すべての人に<br class="tabBr">スマートな<br class="spBr">社会を。<br class="tabBr">夢を見続ける<br class="spBr">ICTサービスメーカー。
+					</p>
+					<a href="/business/" class="btn-def alha top-headerBtn">read more</a></div></div>
+			<div class="swiper-slide"><div class="slide-img4"></div>
+				<div class="top-header-body"><p class="top-header-read">次の世代へつなげるICT。<br>誰もがひとしく豊かな<br class="spBr">社会を。
+					</p>
+					<a href="/sdgs/" class="btn-def alha top-headerBtn">read more</a></div></div>
+			<div class="swiper-pagination"></div>
+    </div>
+  
+  
+  
+  </div></div>
+
+	
+	<div class="page-nav"><ul><li><span>1.ICTの未来</span></li>
+			<li><span>2.ICTソリューション</span></li>
+			<li><span>3.想いをカタチに</span></li>
+			<li><span>4.持続可能な社会の実現</span></li></ul></div>
+
+	
+	<div class="page-nav-sp"><ul><li></li>
+			<li></li>
+			<li></li>
+			<li></li></ul></div>
+	</header>
+
+<main>
+	<section class="sec mbMM"><div class="sec-inner"><div class="ttl-h2 res-mbSS"><h2>NEWS</h2>
+				<p>ニュース</p></div>
+
+			
+
+			<a href="/news/" class="btn-def ppl btn-placeCR">read more</a></div>
+		
+
+		
+		</section>
+	
+
+	
+	
+
+	
+	
+
+	
+	<section class="sec res-mbL"><div class="sec-inner"><div class="ttl-h2 res-mbSS"><h2 class="upCase">service</h2>
+				<p>サービス紹介</p></div>
+
+			<ul class="service-list"></ul></div></section>
+	
+
+	
+	<section class="sec res-mbLL"><div class="csr-body">
+			
+			</div>
+		</section>
+	
+
+	
+	
+	</main>
+
+<footer><div class="footer-inner svelte-veitm1"><div class="footer-header svelte-veitm1"><img src="/common/images/item_logo.svg" alt="株式会社アイテム　ロゴ" class="svelte-veitm1"></div>
+		<div class="footer-nav"><div class="footer-navPrimary"><dl><dt class="foot-pcList"><a href="/company/">会社情報</a></dt><dt class="foot-spList">会社情報
+					</dt><dd><ul><li class="category-topLink"><a href="/company/">会社情報トップ</a></li>
+							<li><a href="/company/aboutus/">私たちについて</a></li>
+							<li><a href="/company/profile/">会社概要</a></li>
+							<li><a href="/company/history/">沿革</a></li>
+							<li><a href="/csr/">CSR基本方針</a></li></ul></dd></dl>
+
+				<dl><dt class="foot-pcList"><a href="/business/">事業内容</a></dt><dt class="foot-spList">事業内容
+					</dt><dd><ul><li class="category-topLink"><a href="/business/">事業内容トップ</a></li>
+							<li><a href="/ict-solution/">ICTソリューション</a></li>
+							<li><a href="/ict-engineering/">ICTエンジニアリング</a></li>
+							<li><a href="/callcenter/">コンタクトセンター</a></li>
+							<li><a href="/energy/">太陽光発電ソリューション</a></li>
+							<li><a href="/drone-solution/">ドローンソリューション</a></li></ul></dd></dl>
+
+				<dl class="footer-recruitPC"><dt><a data-sveltekit-reload href="/recruit/" target="_blank">採用情報</a></dt></dl>
+				<div class="footer-recruitSP"><a data-sveltekit-reload href="/recruit/" target="_blank">採用情報</a></div>
+
+				<div class="footer-inquirySP"><a href="/inquiry/">お問い合わせ</a></div></div>
+			
+			<div class="footer-navSecondary"><ul><li><a href="/news/">ニュース</a></li>
+					<li class="link-pc"><a href="/inquiry/">お問い合わせ</a></li>
+					<li><a href="/sitemap/">サイトマップ</a></li>
+					<li><a href="/sdgs/">SDGsの取り組み</a></li></ul>
+
+				<div class="footer-navSecondaryList"><ul><li><a href="/csr/compliance-policy/">コンプライアンス基本方針</a></li>
+						<li><a href="/csr/privacy/">個人情報保護方針</a></li></ul>
+					<ul><li><a href="/csr/security-policy/">情報セキュリティ方針</a></li>
+						<li><a href="/csr/environmental/">環境方針</a></li></ul>
+					<ul><li><a href="/csr/roadsafety-policy/">道路交通安全方針</a></li>
+						<li><a href="/csr/osh/">労働安全衛生方針</a></li></ul>
+					<ul><li><a href="/csr/antisocial-policy/">反社会的勢力に対する基本方針</a></li>
+						<li><a href="/csr/customerharassment-policy">カスタマーハラスメントに対する基本方針</a></li></ul></div></div>
+			</div></div>
+	
+	<div class="footer-mark"><ul><li><a href="https://privacymark.jp/" target="_blank"><img src="/common/images/footer-mark1.png" alt=""></a></li>
+			<li><img src="/common/images/footer-mark2.png" alt=""></li></ul></div>
+	<address>©2022 ITEM CORPORATION All rights reserved.</address>
+	
+	<div class="pagetop"><img src="/common/images/ico-pagetop.svg" alt="ページトップへ"></div>
+</footer>
+
+
+		<script type="module" data-sveltekit-hydrate="1iu9s2n">
+			import { start } from "./_app/immutable/start-188ffb1f.js";
+
+			start({
+				env: {},
+				hydrate: {
+					status: 200,
+					error: null,
+					node_ids: [0, 2, 11],
+					params: {},
+					routeId: "(app)",
+					data: (function(a){return [a,a,a]}(null)),
+					form: null
+				},
+				paths: {"base":"","assets":""},
+				target: document.querySelector('[data-sveltekit-hydrate="1iu9s2n"]').parentNode,
+				trailing_slash: "never"
+			});
+		</script>
+	
+	</body>
+</html>

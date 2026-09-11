@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name=”robots” content=”noindex”>
+
+<title>株式会社ZEAL.G・P</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css"/>-->
+
+<!-- Font Google -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave&display=swap" rel="stylesheet">
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15430929-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-15430929-1');
+</script>
+
+
+</head>
+
+<body>
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg">
+  <div class="container"> <a class="navbar-brand navbar-logo" href="#"> <img src="images/logo.png" alt="logo" class="logo-1"> </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="fas fa-bars"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"> <a class="nav-link" href="#" data-scroll-nav="0">ホーム</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#sec01" data-scroll-nav="1">理念</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#sec02" data-scroll-nav="2">事業紹介</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#sec03" data-scroll-nav="3">会社情報</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#sec04" data-scroll-nav="4">問合せ</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- End Navbar --> 
+
+<!-- Banner Image -->
+
+<div class="banner text-center" data-scroll-index='0'>
+  <div class="banner-overlay">
+    <div class="container">
+      <h1 class="text-capitalize">PRIDE of Leading Company</h1>
+    </div>
+  </div>
+</div>
+
+<!-- End Banner Image --> 
+
+<!-- About -->
+
+<div class="about-us section-padding" id="sec01" data-scroll-index='1'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 section-title text-center">
+        <h3>理念</h3>
+        <h4>ビジョン</h4>
+        <p>業界を牽引し、社会に価値提供できるリーダー創出企業となる。
+          私たちはリユース業界のリーディングカンパニーとして、世界にリユースの
+          価値を発信・提供していきます。
+          そして1人1人が働く意義を見出し、社会貢献を行うリーダーとして活躍する
+          企業を、世界中から必要とさせる企業を目指しています。
+        </p>
+        <span class="section-title-line"></span>
+      </div>
+      <div class="col-md-6 mb-50">
+        <div class="section-info">
+          <div class="sub-title-paragraph">
+            <h4>ミッション</h4>
+            <p>リユースの力で世界の発展を支援し、
+              世界と共に成長する。
+          
+              私たちZEAL G・Pは、日本で不要になった商用車を海外へと橋渡しすることで、
+              消費社会の無駄を整理しながら世界中の国や地域に貢献しています。
+              リユースビジネスを世界のトレンドにすべく、日々活動しています。
+          
+              将来、世界経済の中心はアジア・アフリカの途上国へと移行すると
+              言われています。
+              多くの人口を抱えるためです。たくさんの人々の生活と産業、教育を支えるのはインフラです。
+              私たちは商用車のリユースを通じて途上国の発展を支える重要な役割を担っているのです。
+            </p>
+          </div>
+        </div>
+
+      </div>
+      <div class="col-md-6 mb-50">
+        <div class="section-img"> <img src="images/ind_mission_1.jpg" alt="" class="img-responsive"/></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- End About --> 
+
+<!-- Services -->
+<div class="services section-padding bg-grey" id="sec02" data-scroll-index='2'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 section-title text-center">
+        <h3>事業紹介</h3>
+        <p>ZEAL.G・Pの主な事業</p>
+        <span class="section-title-line"></span> 
+      </div>
+      <!-- <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">      
+        <div class="img1">
+          <div class="txt">
+            <h2 class="h2wraper">フランチャイズ</h2>
+            <p>
+              トラック買取専門店「トラックファイブ」
+              のフランチャイズ本部の運営を行っております。
+              加盟店を募集しておりますので、ご気軽にご相談ください。 
+            </p>
+          </div>
+        </div>
+      </div> -->
+      <div class="col-lg-12 col-md-6 col-sm-12 col-xs-12 mb-30">
+        <div class="img2">
+          <div class="txt">
+            <h2 class="h2wraper">回送事業</h2>
+            <p>
+            自走が不可能な車両はもちろん、重機・建機、ラフタークレーンなどの回送業務を請け負います。
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 mb-30">
+        <div class="img3">
+          <div class="txt">
+            <h2 class="h2wraper">IT Marketing</h2>
+            <p>
+              -PLANNING : 戦略・企画立案<br>
+              -INTEGRATION : 業務の基幹<br>
+              システムやサブシステムの企画開発
+              ・保守運用など一貫して請負います。<br>
+              -CRM:カスタマー・リレーションシップ・マネジメント
+            </p>
+          </div>
+        </div> -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Services --> 
+<!-- Gallery -->
+<div class="portfolio section-padding" id="sec03" data-scroll-index='3'>
+ 
+    <div class="row">
+      <div class="col-lg-12 section-title text-center">
+        <h3>会社案内</h3>
+        <p>会社概要</p>
+        <span class="section-title-line"></span> 
+      </div>
+    </div>
+ 
+
+<div class="in">
+  <div class="prof_wrap  cl">
+    <div class="prof_box">
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">商号</h2>
+        <p class=" prof_list_txt">株式会社ZEAL.G･P</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">本拠地所在地</h2>
+        <p class=" prof_list_txt">〒323-0807 栃木県小山市城東1-5-23</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">TEL</h2>
+        <p class=" prof_list_txt">0285-42-8201</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">FAX</h2>
+        <p class=" prof_list_txt">0285-42-8202</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">創業</h2>
+        <p class=" prof_list_txt">平成15年10月27日</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">資本金</h2>
+        <p class=" prof_list_txt">1000万円</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">代表取締役</h2>
+        <p class=" prof_list_txt">上村 義行</p>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">事業内容</h2>
+        <ul class="prof_list_list">
+          <li>トラック、バス、重機などの中古商用車の回送事業</li>
+        </ul>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">加盟協会・組合</h2>
+        <ul class="prof_list_list">
+          <li>財団法人　日本自動車査定協会</li>
+          <li>日本中古車輸出協同組</li>
+        </ul>
+      </div>
+      <div class="prof_list">
+        <h2 class="prof_list_ttl">適格請求書発行事業者登録番号</h2>
+        <ul class="prof_list_list">
+          <li>T2010401064293</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Contact -->
+<!-- <div class="contact section-padding" id="sec04" data-scroll-index='4'>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 section-title text-center">
+        <h3>問合せ</h3>
+        <p>ご不明な点がございましたら、お気軽にお問い合わせください</p>
+        <span class="section-title-line"></span> </div>
+      <div class="col-lg-5 col-md-4">
+        <div class="part-info">
+          <div class="info-box">
+            <div class="icon"> <i class="fas fa-phone"></i> </div>
+            <div class="content">
+              <h4>TEL :</h4>
+              <p>0285-42-8201</p>
+            </div>
+          </div>
+          <div class="info-box">
+            <div class="icon"> <i class="fas fa-map-marker-alt"></i> </div>
+            <div class="content">
+              <h4>所在地 :</h4>
+              <p>〒323-0807 栃木県小山市城東1-5-23</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-7 col-md-8">
+        <div class="contact-form">
+          <form class='form' id='contact-form' action="index.php?action=check" method='POST' data-toggle='validator'>
+            <input type='hidden' name='form-name' value='contact-form'>
+            <div class="messages"></div>
+            <div class="controls">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="form-group">
+                    <input id="form_name" type="text" name="name" placeholder="お名前 *" required data-error="お名前を入れてください。">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="form-group">
+                    <input id="form_mail" type="mail" name="mail" placeholder="メールアドレス *" required data-error="メールアドレスを入れてください。" pattern="[A-Za-z]{@}" title="@ が入っていません。">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="form-group">
+                    <input id="form_subject" type="text" name="subject" placeholder="件名 *" required data-error="件名が必要です。">
+                  </div>
+                </div>
+                <div class="col-lg-12 form-group">
+                  <textarea id="form_message" name="message" class="form-control" placeholder=" 本文 *" rows="4" required data-error="内容を詳しく教えてください。"></textarea>
+                  <div class="help-block with-errors"></div>
+                </div>
+                <input type="hidden" name="token" value="

@@ -1,0 +1,1068 @@
+
+<html>
+<head>
+<link rel="stylesheet" href="setcss.htm">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>WAN Interface Setup </title>
+<script type="text/javascript" src="getlanguagejs.htm"></script>
+<script language="JavaScript" src="file/functionjs.htm"></script>
+<script language="JavaScript">
+var sysOPMode=0;
+var st={pppConType:'0',pppIdleTime:'10',pppUser:'a241bzfw@adsl.ocn.ne.jp',pppPw:'jddg62',pppSer:'',pppMTU:'1454',pppAuth:'0',unnumEnable:"0",unnumIP:"0.0.0.0",unnumMask:"0",unnumDHCPEn:"0",unnumDHCPStart:"0.0.0.0",unnumDHCPEnd:"0.0.0.0",unnumDHCPLease:"0",dnstype:'0',wanDns1:'',wanDns2:'',pppUser2:'',pppPw2:'',wan2Enable:'0',wan2Flets:'0'};
+var WANInfo={sta_ip:"114.166.172.101",sta_mac:"34:76:C5:28:79:C2",sta_mask:"255.255.255.255",sta_gw:"118.23.136.241",wan2Ip:"---",wan2Mask:"---",wan2Gw:"---",sta_dns1:"221.113.139.250,202.234.232.6"};
+var pppConnectStatus=0;
+var ppptype='0';
+var getpassstate='1';
+var parse_location= "";
+var gDnsType=0;
+if(getpassstate=='NULL')
+getpassstate = 0;
+var validIndex = '1';
+var domainRoutingList = [
+{index:"1",isEnable:"0",isActive:"0",domainname:""},
+{index:"2",isEnable:"0",isActive:"0",domainname:""},
+{index:"3",isEnable:"0",isActive:"0",domainname:""},
+{index:"4",isEnable:"0",isActive:"0",domainname:""}
+];
+var validIndex2 = '1';
+//alert(validIndex);
+//alert(validIndex2);
+var FletsList = [
+{index:"1",isEnable:"0",isActive:"0",mask:"0.0.0.0",lanAddr:"0.0.0.0"},
+{index:"2",isEnable:"0",isActive:"0",mask:"0.0.0.0",lanAddr:"0.0.0.0"},
+{index:"3",isEnable:"0",isActive:"0",mask:"0.0.0.0",lanAddr:"0.0.0.0"},
+{index:"4",isEnable:"0",isActive:"0",mask:"0.0.0.0",lanAddr:"0.0.0.0"}
+];
+var SUBMIT_DEL=0;
+var SUBMIT_ADD=1;
+var SUBMIT_DEL2=5;
+var SUBMIT_ADD2=4;
+var StatusMsgIdx = 0;
+function checkDNSServer()
+{
+var f = document.tcpip;
+var multiDNS=document.getElementById('dnsservSettings').style.display;
+if(FunctionList.HAS_MULTI_DNS_MODE && multiDNS=="block")
+{
+if(f.WAN_FirstDNS.value==1){
+if(!ipRule(f.sysFirDNSAddr,showText(31),"gw",1)) return false;
+if(MULTICAST_IP_REGX.test(f.sysFirDNSAddr.value))
+{
+alert(showText(668));
+setFocus(f.sysFirDNSAddr);
+return false;		
+}
+if(!ipRule(f.sysSecDNSAddr,showText(31),"gw",1)) return false;
+if(MULTICAST_IP_REGX.test(f.sysSecDNSAddr.value))
+{
+alert(showText(668));
+setFocus(f.sysSecDNSAddr);
+return false;		
+}
+}
+}
+return true;
+}
+function setPPPConnected()
+{
+pppConnectStatus = 1;
+}
+function pppoeUserPwdRule()
+{
+var f = document.tcpip;
+if (!strRule(f.pppUserName, showText(930)))
+return false;
+if (!strRule(f.pppPassword, showText(931)))
+return false;
+if(!(COMMONSTR_1_64_NEW_REGX.test(f.pppUserName.value)))
+{
+alert(showText(1008));
+setFocus(f.pppUserName);
+return false;
+}
+if(!(PASSWDSTR_1_64_NEW_REGX.test(f.pppPassword.value)))
+{
+alert(showText(1008));
+setFocus(f.pppPassword);
+return false;
+}
+if(f.cPPPoE2Enable.checked==true && f.cPPPoE2Dial.checked==false)
+{
+if (!strRule(f.pppUserName2, showText(930)))
+return false;
+if (!strRule(f.pppPassword2, showText(931)))
+return false;
+if(!(COMMONSTR_1_64_NEW_REGX.test(f.pppUserName2.value)))
+{
+alert(showText(1008));
+setFocus(f.pppUserName2);
+return false;
+}
+if(!(PASSWDSTR_1_64_NEW_REGX.test(f.pppPassword2.value)))
+{
+alert(showText(1008));
+setFocus(f.pppPassword2);
+return false;
+}
+}
+return true;
+}
+function saveChanges(connect)
+{
+var f = document.tcpip;
+if ( !(f.pppConnectType.selectedIndex == 2 && pppConnectStatus==connect) && !(connect==3)) 
+return false;
+if(pppoeUserPwdRule()==false)
+return false;
+if(f.pppServName.value!="")
+{
+if(!(HOST_NAME_REGX.test(f.pppServName.value)))
+{
+alert("Invalid Service Name");
+setFocus(f.pppServName);
+return false;
+}
+}
+if ( f.pppConnectType.selectedIndex != 0 ) {
+if (!portRule(f.pppIdleTime, " idle time", 0, "", 1, 1000, 1))
+return false;
+}
+if(FunctionList.HAS_WEB_NEW_PPPOE_MTU_MINIMAL==1)
+{
+if (!portRule(f.pppMTU, " MTU", 0, "", 576, 1492, 1))
+return false;
+}
+else
+{ 
+if (!portRule(f.pppMTU, " MTU", 0, "", 512, 1492, 1))
+return false;
+}
+if(FunctionList.HAS_MULTI_DNS_MODE)
+{
+if(!checkDNSServer())
+return false;
+}
+if(FunctionList.HAS_PPPOE_UNNUMBERED_IP)
+{
+if(f.unnumEnable[0].checked && f.unnumIP.value != "0.0.0.0" && !checkIPAddr(f.unnumIP))
+{
+alert("Unnumbered IP is invalid!");
+setFocus(f.unnumIP);
+return false;
+}
+if(f.unnumEnable[0].checked && !isRange(parseInt(f.unnumMask.value), 1, 255))
+{
+alert("Unnumbered Mask is invalid!");
+setFocus(f.unnumMask);
+return false;			
+}		
+}
+f.hSubmitFormNum.value = connect;
+return true;
+}
+function setDNS()
+{
+var f = document.tcpip;
+var dns1mode,dns2mode;
+dns1mode=(gDnsType=="0"||gDnsType=="2")?0:1;
+dns2mode=(gDnsType=="0"||gDnsType=="1")?0:1;
+f.WAN_FirstDNS.value = (gDnsType==0)?0:1;
+if(dns1mode == 0)		// From ISP
+{
+//f.WAN_FirstDNS.value = 0;
+f.sysFirDNSAddr.value = (WANInfo.sta_dns1 == "---")?"0.0.0.0":WANInfo.sta_dns1;
+f.sysFirDNSAddr.disabled = true;
+}
+else if(dns1mode == "1")	// User-Defined
+{
+//f.WAN_FirstDNS.value = 1;
+f.sysFirDNSAddr.disabled = false;
+f.sysFirDNSAddr.value = st.wanDns1;
+}
+/*second DNS*/
+if(dns2mode == 0)		// From ISP
+{
+//f.WAN_SecondDNS.value = 0;
+f.sysSecDNSAddr.value = (WANInfo.sta_dns2 == "---")?"0.0.0.0":WANInfo.sta_dns2;
+f.sysSecDNSAddr.disabled = true;
+}
+else if(dns2mode == "1")	// User-Defined
+{
+//f.WAN_SecondDNS.value = 1;
+f.sysSecDNSAddr.disabled = false;
+f.sysSecDNSAddr.value = st.wanDns2;
+}
+}
+function doDNSType()
+{
+var f=document.tcpip;
+if(f.WAN_FirstDNS.value==0){
+gDnsType=0;
+}
+else
+gDnsType=3;			
+setDNS();
+}
+function pppTypeSelection() {
+if ( document.tcpip.pppConnectType.selectedIndex == 2) {
+if(0)   //org: !FunctionList.HAS_WAN_3G_SETTING
+{
+if (pppConnectStatus==0) {
+document.tcpip.pppConnect.disabled=false;
+document.tcpip.pppDisconnect.disabled = true;
+} else {
+document.tcpip.pppConnect.disabled = true;
+document.tcpip.pppDisconnect.disabled=false;
+}
+}
+document.tcpip.pppIdleTime.disabled = true;
+} else {
+if(0)  //org: !FunctionList.HAS_WAN_3G_SETTING
+{
+document.tcpip.pppConnect.disabled = true;
+document.tcpip.pppDisconnect.disabled = true;
+}
+if (document.tcpip.pppConnectType.selectedIndex == 1)
+document.tcpip.pppIdleTime.disabled=false;
+else
+document.tcpip.pppIdleTime.disabled=true;
+}
+}
+function changePage()  {
+parent.lFrame.stepDisplay(2);
+document.location.replace("settype.htm")
+}
+function change_service(){
+f=document.tcpip;
+if (f.service.value != "select")
+window.location.href="wizard_"+f.service[f.service.selectedIndex].value+".htm";
+}
+function copyto()
+{
+parse_location = parse_location + this.location;
+parse_location = parse_location.split("?");
+parse_location = parse_location[parse_location.length -1];
+arr = parse_location.split("&");
+arr_length = arr.length;
+for(i=0; i<arr_length; i++)
+{
+arr[i] = arr[i].split("=");
+}
+var htype = arr[0][1];
+var f=document.tcpip;
+if(htype=='m2'){f.service.selectedIndex=0}
+document.getElementById('dnsservSettings').style.display =(FunctionList.HAS_MULTI_DNS_MODE)?"block":"none";
+if(FunctionList.HAS_MULTI_DNS_MODE){
+gDnsType=st.dnstype;
+setDNS();
+}
+f.pppIdleTime.value=st.pppIdleTime;
+f.pppUserName.value=st.pppUser;
+f.pppPassword.value=st.pppPw;
+f.pppUserName2.value=st.pppUser2;
+f.pppPassword2.value=st.pppPw2;
+f.pppServName.value=st.pppSer;
+f.pppMTU.value=st.pppMTU;
+f.pppauth.selectedIndex=(st.pppAuth==0)?0:(st.pppAuth==1)?2:1;
+f.pppConnectType.selectedIndex=st.pppConType;
+pppTypeSelection();
+if(FunctionList.HAS_PPPOE_UNNUMBERED_IP)
+{
+if(parseInt(st.unnumEnable))
+f.unnumEnable[0].checked = true;
+else
+f.unnumEnable[1].checked = true;
+f.unnumIP.value = st.unnumIP;
+f.unnumMask.value = st.unnumMask;
+f.dhcpRangeStart.value = st.unnumDHCPStart;
+f.dhcpRangeEnd.value = st.unnumDHCPEnd;
+setUnnumIPStatus();		
+}
+if(StatusMsgIdx==1008)
+alert(showText(1008));
+if (st.wan2Enable == 0) 
+{
+f.cPPPoE2Enable.checked = false;
+}
+else
+{
+f.cPPPoE2Enable.checked = true;
+clickcPPPoE2Enable();
+}
+if (st.wan2Flets == 0) 
+{
+f.cPPPoE2Dial.checked = false;
+}
+else
+{
+f.cPPPoE2Dial.checked = true;
+clickcPPPoE2Dial();
+}
+if(FunctionList.HAS_IPV6_PATHTHROUGH_WIZARD_CONTROL)
+{
+tcpip.ipv6pass[1-getpassstate].checked=true;
+}
+//20120119 Jason: hide multipppoe (first in WN-G300R)
+if(FunctionList.HAS_WEB_HIDE_MULTIPLE_PPPOE)
+{
+//do nothing..
+}
+else
+{
+//show..
+getById("idPPPoE2TopCheckbox").style.display = "";		
+}
+}
+function setUnnumIPStatus()
+{
+var f=document.tcpip;
+if(f.unnumEnable[0].checked)
+{
+f.unnumIP.disabled = false;
+f.unnumMask.disabled = false;
+f.dhcp.disabled = false;
+f.leaseTime.disabled = false;
+f.dhcpRangeStart.disabled = false;
+f.dhcpRangeEnd.disabled = false;
+f.dhcp.disabled = false;
+dhcpChange(document.tcpip.dhcp.selectedIndex)
+}
+else
+{
+f.unnumIP.disabled = true;
+f.unnumMask.disabled = true;		
+f.dhcp.disabled = true;
+f.leaseTime.disabled = true;		
+f.dhcpRangeStart.disabled = true;
+f.dhcpRangeEnd.disabled = true;				
+f.dhcp.disabled = true;		
+}	
+}
+function dhcpChange(index)
+{
+if(index==1)
+{
+document.tcpip.leaseTime.disabled=false;
+document.tcpip.dhcpRangeStart.disabled=false;
+document.tcpip.dhcpRangeEnd.disabled=false;		
+}
+else
+{
+document.tcpip.leaseTime.disabled=true;
+document.tcpip.dhcpRangeStart.disabled=true;
+document.tcpip.dhcpRangeEnd.disabled=true;		
+}
+}
+/*==============New add by Jason 20100225 ===============*/
+function clickcPPPoE2Enable()
+{
+var f=document.tcpip;
+if (f.cPPPoE2Enable.checked==true)	
+{
+document.getElementById('idPPPoE2Settings').style.display = "block";
+}
+else
+{
+document.getElementById('idPPPoE2Settings').style.display = "none";
+}
+}
+function clickcPPPoE2Dial()
+{
+var f=document.tcpip;
+if (f.cPPPoE2Dial.checked==true)	
+{
+document.getElementById('idPPPoE2DialSettings').style.display = "none";
+}
+else
+{
+document.getElementById('idPPPoE2DialSettings').style.display = "block";
+}
+}
+function maskToNum(mask)
+{
+var num,i,j;
+var zero="";
+var bin="";
+var maskToNumValue=0;
+for(i=1;i<=4;i++)
+{
+zero = "";
+num = getDigit(mask,i);
+var length = (rvt(num)).length;
+if(length < 8)
+{			
+for(j=1;j<=(8-length);j++)
+zero = zero + '0';
+}		
+bin = bin + zero + rvt(num);
+}
+for(i=0;i<32;i++)
+{
+if(bin.charAt(i)==1)
+maskToNumValue++;
+else
+break;
+}
+return maskToNumValue;
+}
+function numToMask(num)
+{
+var i;
+var bin="";
+var numToMaskValue="";
+for(i=0;i<parseInt(num);i++)
+{
+bin=bin+'1';
+}
+for(i=0;i<32-parseInt(num);i++)
+{
+bin=bin+'0';
+}
+numToMaskValue = parseInt(bin.substring(0,8),2)+'.'+parseInt(bin.substring(8,16),2)+'.'+parseInt(bin.substring(16,24),2)+'.'+parseInt(bin.substring(24,32),2);
+return numToMaskValue;
+}
+function routeMethodChange()
+{
+var f=document.tcpip;
+if(f.rRouteMethod[0].checked==true)
+{
+document.getElementById('idRoutingTable').style.display = "block";
+document.getElementById('idFletsTable').style.display = "none";
+}
+else if(f.rRouteMethod[1].checked==true)
+{
+document.getElementById('idRoutingTable').style.display = "none";
+document.getElementById('idFletsTable').style.display = "block";
+}
+}
+//=========Routing_Table=============
+function edit_t(x)
+{
+var f=document.tcpip;
+f.hDeleteUrl.value=x;
+f.hSubmitFormNum.value=SUBMIT_DEL;
+//f.submit();
+}
+function deleteSelClick()
+{
+var temp="";
+var first=true;
+var obj=document.getElementsByName("selectA");
+var len=obj.length;
+if (!confirm(showText(352))){
+return false;
+}
+for(i=0;i<len;i++)
+{
+if(obj[i].checked==true)
+{
+if(first==true){
+temp=temp+obj[i].value;
+first=false;
+}
+else{
+temp=temp+','+obj[i].value;	
+}	
+}
+}
+edit_t(temp);//ex:temp=1,3,5,6
+}
+function deleteAllClick()
+{
+if ( !confirm(showText(353))){
+return false;
+}	
+var temp="99";
+edit_t(temp);
+}
+function addClick() {
+var f=document.tcpip;
+var entryNum=0;
+for(var i=0;i<domainRoutingList.length;i++)
+{
+if(domainRoutingList[i].isEnable==1)
+entryNum++;
+}
+if (entryNum < domainRoutingList.length)
+{
+if (f.RouteNum.value==""){
+alert(showText(372));
+f.RouteNum.focus();
+return false;
+}
+if(!DOMAIN_NAME_REGX.test(f.RouteNum.value))
+{
+alert(showText(998));
+f.RouteNum.focus();
+return false;
+}
+for(var k=0;k<domainRoutingList.length;k++)
+{
+if((f.RouteNum.value ==	domainRoutingList[k].domainname) && (domainRoutingList[k].isEnable==1))
+{
+alert(showText(999));
+f.RouteNum.focus();
+return false;
+}
+}
+f.hSubmitFormNum.value=SUBMIT_ADD;
+f.hFirstAvailIdx.value=validIndex;
+if(pppoeUserPwdRule()==false)
+return false;
+//f.submit();
+}
+else	//>=MAX_NUM
+{
+alert(showText(351));
+return false;
+}
+}
+//=========Flets_Table=============
+function edit_t2(x)
+{
+var f=document.tcpip;
+f.hDeleteUrl.value=x;
+f.hSubmitFormNum.value=SUBMIT_DEL2;
+//f.submit();
+}
+function deleteSelClick2()
+{
+var temp="";
+var first=true;
+var obj=document.getElementsByName("selectB");
+var len=obj.length;
+if (!confirm(showText(352))){
+return false;
+}
+for(i=0;i<len;i++)
+{
+if(obj[i].checked==true)
+{
+if(first==true){
+temp=temp+obj[i].value;
+first=false;
+}
+else{
+temp=temp+','+obj[i].value;	
+}	
+}
+}
+edit_t2(temp);//ex:temp=1,3,5,6
+}
+function deleteAllClick2()
+{
+if ( !confirm(showText(353))){
+return false;
+}	
+var temp="99";
+edit_t2(temp);
+}
+function checkSrouteIpAddr(field, msg)
+{
+if ( validateKey(field.value) == 0) {
+//alert(msg + ' ' + showText(428));
+alert(showText(1011));
+return false;
+}
+if ( !checkDigitRange(field.value,1,0,255) ) {
+alert(msg + ' ' + showText(429));
+return false;
+}
+if ( !checkDigitRange(field.value,2,0,255) ) {
+alert(msg + ' ' + showText(430));
+return false;
+}
+if ( !checkDigitRange(field.value,3,0,255) ) {
+alert(msg + ' ' + showText(431));
+return false;
+}
+if ( !checkDigitRange(field.value,4,0,254) ) {
+alert(msg + ' ' + showText(432));
+return false;
+}
+return true;
+}
+function addClick2() {
+var f=document.tcpip;
+var entryNum=0;
+for(var i=0;i<FletsList.length;i++)
+{
+if(FletsList[i].isEnable==1)
+entryNum++;
+}
+if (entryNum < FletsList.length) 
+{
+if (f.FletsNum.value==""){
+alert(showText(372));
+f.FletsNum.focus();
+return false;
+}
+f.hSubmitFormNum.value=SUBMIT_ADD2;
+f.hFirstAvailIdx2.value=validIndex2;
+f.hIP.value = f.FletsNum.value.split("/")[0];
+if (f.FletsNum.value.split("/")[1] > 32 | f.FletsNum.value.split("/")[1] < 0) {
+alert(showText(1001));
+f.FletsNum.focus();
+return false;
+}
+f.hMask.value = numToMask(f.FletsNum.value.split("/")[1]);
+for(var k=0;k<FletsList.length;k++)
+{
+if( (f.hIP.value == FletsList[k].lanAddr) && (f.hMask.value == FletsList[k].mask) &&(FletsList[k].isEnable==1))
+{
+alert(showText(1000));
+f.FletsNum.focus();
+return false;
+}
+}
+//checkrule move from natsrout
+//check up null
+if (f.hIP.value=="") {
+alert(showText(433));
+f.FletsNum.focus();
+return false;
+}
+//check ip 0-255
+if ( checkSrouteIpAddr(f.hIP, showText(434)) == false )
+{
+f.FletsNum.focus();
+return false;
+}
+//check ip rule
+if(MULTICAST_IP_REGX.test(f.hIP.value))
+{
+alert(showText(668));
+f.FletsNum.focus();
+return false;		
+}	
+//check mask null
+if (f.hMask.value=="") {
+alert(showText(669));
+f.FletsNum.focus();
+return false;
+}	
+if(!checkSUBMASK(f.hMask))
+{
+alert(showText(669));
+f.FletsNum.focus();
+return false;
+}
+if(pppoeUserPwdRule()==false)
+return false;
+//f.submit();
+}
+else	//>=MAX_NUM
+{
+alert(showText(351));
+return false;
+}
+}
+/*==============New add END by Jason 20100225 ===============*/
+</SCRIPT>
+</head>
+<body onload="copyto()" bgcolor=white LINK=#ffffff VLINK=#ffffff ALINK=#FFfffff leftmargin=0 topmargin=5>
+<table border="0" bgcolor=white cellspacing="0" cellpadding="0" width="650px">
+<tr>
+<script type="text/javascript">
+newInternetLink("wizard_pppoe",sysOPMode);
+</script>
+</tr>
+</table>
+<blockquote>
+<p><br>
+</p>
+<form  name="tcpip" method="post" action="wizard_pppoe.htm" > 
+<script language="javascript">
+document.write('<input type="hidden" name="csrfmagic" value="gfmrwxoqukecmli">')
+</script>
+<input type="hidden" name="page" value="wizard_pppoe">
+<input type="hidden" name="hDeleteUrl">
+<input type="hidden" name="hSubmitFormNum">
+<input type="hidden" name="hFirstAvailIdx">
+<input type="hidden" name="hFirstAvailIdx2">
+<input type="hidden" name="hIP">	
+<input type="hidden" name="hMask">
+<!--table1 -->
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td width="35%" class="background"><script language="javascript">dw(showText(930) + ' :')</script></td>
+<td width="65%">&nbsp;<input type="text" name="pppUserName" style="width:180px" maxlength="64"></td>
+</tr>
+<tr>
+<td width="35%" class="background"><script type="text/javascript">dw(showText(931) + ' :')</script></td>
+<td>&nbsp;<input type="password" name="pppPassword" style="width:180px" maxlength="64"></td>
+</tr>
+<tr style="display:none">
+<td width="35%" class="background"><script language="javascript">dw(showText(529) + ' :')</script></td>
+<td width="65%">&nbsp;<input type="text" name="pppServName" style="width:180px" maxlength="30"></td>
+</tr>
+<tr>
+<td width="35%" class="background">MTU :</td>
+<td width="65%">&nbsp;<input type="text" name="pppMTU" size="10" maxlength="4">
+<font size=2>&nbsp;(
+<script language="javascript">
+if(FunctionList.HAS_WEB_NEW_PPPOE_MTU_MINIMAL==1)
+dw("576");
+else
+dw("512");
+</script>
+&lt;=MTU 
+<script language="javascript">dw(showText(626));</script>
+&lt;=1492)</td>
+</tr>
+<script language="javascript">
+if(FunctionList.HAS_IPV6_PATHTHROUGH_WIZARD_CONTROL)
+{
+dw("<tr align=left>");
+dw("<td width='40%' class=background><font size=2>" + showText(1004) + " :</font></td>");
+dw('<td><input type="radio" name="ipv6pass" value="1">' + showText(87));
+dw('<input type="radio" name="ipv6pass" value="0">' + showText(88) + '</td></tr>');
+}
+</script>
+<tr style="display:none"><td width="35%" class="background"><script language="javascript">dw(showText(90) + ' :');</script></td>
+<td width="65%">&nbsp;<select name="pppauth">
+<script language="javascript">
+dw("<option value=\"0\">"+showText(625)+"</option>" );
+dw('<option value="2">PAP</option>');
+dw('<option value="1">CHAP</option>');
+</script>
+</td>
+</tr>
+<tr style="display:none">
+<td width="35%" class="background">
+<script type="text/javascript">dw(showText(292)+ ' :')</script>
+</td>
+<td>&nbsp;	
+<script type="text/javascript">
+dw('<select size="1" name="pppConnectType" onChange="pppTypeSelection()">');
+dw( "<option value=\"0\">"+showText(289)+"</option>" );
+dw( "<option value=\"1\">"+showText(287)+"</option>" );
+dw( "<option value=\"2\">"+showText(288)+"</option>" );
+</script>
+</select>&nbsp;
+<script type="text/javascript">
+if(0)  //org: !FunctionList.HAS_WAN_3G_SETTING
+{
+dw('<input type="submit" value="'+showText(296)+'" name="pppConnect" onClick="return saveChanges(0)">')
+dw('&nbsp;')
+dw('<input type="submit" value="'+showText(297)+'" name="pppDisconnect" onClick="return saveChanges(1)">')
+if(pppConnectStatus) 
+setPPPConnected()
+}
+</script>
+</td>
+</tr>
+<tr style="display:none">
+<td width="35%" class="background"><script language="javascript">dw(showText(530) + ' : ')</script></td>
+<td>&nbsp;<input type="text" name="pppIdleTime" size="10" maxlength="4" value="10">&nbsp;(1-1000 <script type="text/javascript">dw(showText(285))</script>)</td>
+</tr>
+<script language="javascript">(FunctionList.HAS_PPPOE_UNNUMBERED_IP)?dw('<tr>'):dw('<tr style="display:none">');</script>
+<td width="35%" class="background">PPPoE Unnumbered IP :&nbsp;</td>
+<td width="65%">&nbsp;
+<input type="radio" name="unnumEnable" value="1" onchange="setUnnumIPStatus()">Enable
+<input type="radio" name="unnumEnable" value="0" onchange="setUnnumIPStatus()">Disable
+</td>
+</tr>
+<script language="javascript">(FunctionList.HAS_PPPOE_UNNUMBERED_IP)?dw('<tr>'):dw('<tr style="display:none">');</script>
+<td width="35%" class="background">Unnumbered IP :&nbsp;</td>
+<td width="65%">&nbsp;
+<input type="text" name="unnumIP" size="20" maxlength="15">/
+<input type="text" name="unnumMask" size="5" maxlength="3">
+</td>
+</tr>
+</table> 
+<!--table1 end-->
+<BR>
+<div id="idPPPoE2TopCheckbox" style="display:none">
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td>
+<input type="checkbox" name="cPPPoE2Enable" onclick="clickcPPPoE2Enable();">&nbsp;&nbsp;<script language="javascript">dw(showText(981))</script>
+</td>
+</tr>
+</table>
+</div>
+<div id="idPPPoE2Settings" style="display:none">
+<script type="text/javascript">
+if(FunctionList2.HAS_WEB_HIDE_PPPOE_FLET_SQUARE==1)
+{
+dw('<span id="PPPoEFletSquare" style="display:none">');
+}
+else
+{
+dw('<span id="PPPoEFletSquare">');
+}
+dw('<table border="0" cellspacing="4" width="600">');
+dw('<tr>');
+dw('<td>');
+dw('<input type="checkbox" name="cPPPoE2Dial" onclick="clickcPPPoE2Dial();">&nbsp;&nbsp;');dw(showText(982))
+dw('</td>');
+dw('</tr>');
+dw('</table>');
+dw('</span>');
+</script>
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td>
+<!--pppoe2 setting and domain,flets table-->			
+<span id="idPPPoE2DialSettings" style="display:block">
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td>
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td width="35%" class="background"><script language="javascript">dw(showText(930) + ' : ')</script></td>
+<td width="65%">&nbsp;<input type="text" name="pppUserName2" style="width:180px" maxlength="64"></td>
+</tr>
+<tr>
+<td width="35%" class="background"><script type="text/javascript">dw(showText(931)+ ' : ')</script></td>
+<td>&nbsp;<input type="password" name="pppPassword2" style="width:180px" maxlength="64"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<BR><BR>
+<script language="javascript">dw(showText(983))</script>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" name="rRouteMethod" value="0" checked onclick="routeMethodChange();"><script type="text/javascript">dw(showText(984))</script>
+<input type="radio" name="rRouteMethod" value="1" onclick="routeMethodChange();"><script type="text/javascript">dw(showText(985))</script>
+</td>
+</tr>	
+<!-- input domainname or flets   -->	
+<tr>
+<td>
+<span id="idRoutingTable" style="display:block">
+<table border="0" cellspacing="4" width="600">
+<tr>	
+<td width="15%" class="background"><font size=2><script type="text/javascript">dw(showText(987)+' :')</script></td>
+<td width="85%">
+<input type="text" name="RouteNum" size="32" maxlength="32">
+<select name="RouteNumAllow" id="RouteNumAllow" style="display:none">
+<option value="1" selected="selected"><script type="text/javascript">dw(showText(40))</script></option>
+<option value="0"><script type="text/javascript">dw(showText(39))</script></option>
+</select>
+&nbsp;
+<script type="text/javascript">dw('<input type="submit" value="'+showText(127)+'" name="addRoutingDN" onClick="return addClick()">')</script>&nbsp;&nbsp;
+</td>
+</tr>
+</table>
+</span>
+<span id="idFletsTable" style="display:none">
+<table border="0" cellspacing="4" width="600">
+<tr>	
+<td width="15%" class="background"><font size=2><script type="text/javascript">dw(showText(987)+' :')</script></td>
+<td width="85%">
+<input type="text" name="FletsNum" size="32" maxlength="32">
+<select name="FletsNumAllow" id="FletsNumAllow" style="display:none" >
+<option value="1" selected="selected"><script type="text/javascript">dw(showText(40))</script></option>
+<option value="0"><script type="text/javascript">dw(showText(39))</script></option>
+</select>
+&nbsp;
+<script type="text/javascript">dw('<input type="submit" value="'+showText(127)+'" name="addFlets" onClick="return addClick2()">')</script>&nbsp;&nbsp;
+</td>
+</tr>
+</table>
+</span>
+</td>
+</tr>
+<!-- show domainname table  -->	
+<tr>
+<td>
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td colspan="3" style="font-weight:bold;"><script type="text/javascript">dw(showText(988))</script>:</td>
+</tr>
+<tr>
+<td width="10%" class="background" style="text-align:center"><font size=2>NO.</td>
+<td width="60%" class="background" style="text-align:center"><font size=2><script type="text/javascript">dw(showText(987))</script></font></td>
+<td  width="15%" class="background" style="display:none"><font size=2><script type="text/javascript">dw(showText(900))</script></font></td>
+<td width="15%" class="background" style="text-align:center"><font size=2><script type="text/javascript">dw(showText(121))</script></font></td>
+</tr>
+<script language="javascript">
+writecolumns1();
+function writecolumns1()
+{	
+for (var i=0,j=1; i<domainRoutingList.length;++i) 
+{
+if(domainRoutingList[i].isEnable=="1"){		
+dw('<tr>');
+dw('<td class="table2" align="center"><font size=2>'+j+'</td>');
+var showStr=domainRoutingList[i].domainname;
+var checkStr=domainRoutingList[i].domainname;
+if(showStr.length>=8)
+{
+if(domainRoutingList[i].domainname.substr(0,7)=="http://")
+showStr=domainRoutingList[i].domainname.substr(7,checkStr.length-7);
+if(domainRoutingList[i].domainname.substr(0,8)=="https://")
+showStr=domainRoutingList[i].domainname.substr(8,checkStr.length-8);
+}
+dw('<td class="table2" align="center"><font size=2>'+(showStr)+'</td>');
+dw('<td class="table2" align="center" style="display:none"><font size=2>'+ ((domainRoutingList[i].isActive==1)?(showText(40)):(showText(39))) +'</td>');
+dw('<td align=center class="table2"><input type="checkbox" name="selectA" value="'+(i+1)+'"></td>');
+dw("</tr>");
+j++;
+}
+}
+}
+</script>
+</table>
+<script type="text/javascript">dw('<input type="submit" value="'+showText(122)+'" name="deleteSelURLB" onClick="deleteSelClick();">')</script>&nbsp;&nbsp;
+<script type="text/javascript">dw('<input type="submit" value="'+showText(123)+'" name="deleteAllURLB" onClick="deleteAllClick();">')</script>&nbsp;&nbsp;&nbsp;
+<script>//disableDelButton();</script>
+</td>
+</tr>
+<!-- show domainname table End -->
+<!-- show flets table -->
+<tr>
+<td>
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td colspan="3" style="font-weight:bold;"><script type="text/javascript">dw(showText(989))</script>:</td>
+</tr>
+<tr>
+<td width="10%" class="background" style="text-align:center"><font size=2>NO.</td>
+<td width="60%" class="background" style="text-align:center"><font size=2><script type="text/javascript">dw(showText(991))</script></font></td>
+<td width="15%" class="background" style="display:none"><font size=2><script type="text/javascript">dw(showText(900))</script></font></td>
+<td width="15%" class="background" style="text-align:center"><font size=2><script type="text/javascript">dw(showText(121))</script></font></td>
+</tr>
+<script language="javascript">
+writecolumns2();
+function writecolumns2()
+{	
+for (var i=0,j=1; i<FletsList.length;++i) 
+{
+if(FletsList[i].isEnable=="1"){		
+dw('<tr>');
+dw('<td class="table2" align="center"><font size=2>'+j+'</td>');
+var IPStr=FletsList[i].lanAddr;
+var MaskNum = maskToNum(FletsList[i].mask);
+var showStr = IPStr + '/' + MaskNum;
+dw('<td class="table2" align="center"><font size=2>'+(showStr)+'</td>');
+dw('<td class="table2" align="center" style="display:none"><font size=2>'+ ((FletsList[i].isActive==1)?(showText(40)):(showText(39))) +'</td>');
+dw('<td align=center class="table2"><input type="checkbox" name="selectB" value="'+(i+1)+'"></td>');
+dw("</tr>");
+j++;
+}
+}
+}
+</script>
+</table>
+<script type="text/javascript">dw('<input type="submit" value="'+showText(122)+'" name="deleteSelURLB2" onClick="deleteSelClick2();">')</script>&nbsp;&nbsp;
+<script type="text/javascript">dw('<input type="submit" value="'+showText(123)+'" name="deleteAllURLB2" onClick="deleteAllClick2();">')</script>&nbsp;&nbsp;&nbsp;
+<script>//disableDelButton();</script>
+</td>
+</tr>
+<!--  show flets table End -->
+<!--end pppoe2 setting and domain,flets table-->		
+</table>
+</span>			
+</td>
+</tr>
+</table>
+</div>
+<script language="javascript">
+(FunctionList.HAS_PPPOE_UNNUMBERED_IP)?dw('<table border="0" cellspacing="4" width="600">'):dw('<table border="0" cellspacing="4" width="600" style="display:none">');
+</script>
+<tr>
+<td><b>Unnumbered IP DHCP Settings</b></td>
+</tr>
+<tr>
+<td width="35%" class="background"><font size=2><script language="javascript">dw(showText(619) + ' : ')</script></td>
+<td width="65%">&nbsp;<select size="1" name="dhcp" onChange="dhcpChange(document.tcpip.dhcp.selectedIndex)">
+<script language="javascript">
+var choice=st.unnumDHCPEn;
+if ( choice == 0 ) {
+dw( "<option selected value=\"0\">"+showText(39)+"</option>" );
+dw( "<option value=\"1\">"+showText(40)+"</option>" );
+}
+if ( choice == 1 ) {
+dw( "<option value=\"0\">"+showText(39)+"</option>" );
+dw( "<option selected value=\"1\">"+showText(40)+"</option>" );
+}
+</script> </select>
+</td>
+</tr>
+<tr>
+<td width="35%" class="background"><script type="text/javascript">dw(showText(41)+' :')</script></td>
+<td width="65%">&nbsp;<select name="leaseTime">
+<script language="javascript">
+var timeValue = new Array("1800","3600","7200","43200","86400","172800","604800","1209600","946080000");
+var timeName = new Array(showText(20),showText(21),showText(22),showText(23),showText(24),showText(25),showText(26),showText(27),showText(28));  	
+for(i=0;i<9;i++){
+if(i==st.unnumDHCPLease)
+dw("<option value=\""+i+"\" selected>"+timeName[i]+"</option>");
+else
+dw("<option value=\""+i+"\">"+timeName[i]+"</option>");
+}
+</script></select>
+</td>
+</tr>
+<tr>
+<td width="35%" class="background"><script type="text/javascript">dw(showText(43)+' :')</script></td>
+<td width="65%">&nbsp;<input type="text" name="dhcpRangeStart" size="15" maxlength="15" value=""></td>
+</tr>
+<tr>
+<td width="35%" class="background"><script type="text/javascript">dw(showText(44)+' :')</script></td>
+<td width="65%">&nbsp;<input type="text" name="dhcpRangeEnd" size="15" maxlength="15" value="">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<span id="dnsservSettings">
+<table border="0" cellspacing="4" width="600">
+<tr>
+<td width="35%"><b><script type="text/javascript">dw(showText(731))</script></b></td>
+</tr> 
+<tr>
+<td width="35%" class="background"><script language="javascript">dw(showText(731)+' '+showText(178));</script></td>
+<td width="65%" colspan="3">
+<select name="WAN_FirstDNS" onChange="doDNSType()">						
+<script language="javascript">
+dw('<option value="0">' + showText(735) + '</option>')</script>
+<option value="1"><script language="javascript">dw(showText(736))</script></option>
+</select>					
+</td>
+</tr>
+<tr>
+<td width="35%" class="background"><script language="javascript">dw(showText(733))</script></td>
+<td width="65%" colspan="3">
+<input type="text" name="sysFirDNSAddr" size="15" maxlength="15">
+</td>
+</tr>
+<tr>
+<td width="35%" class="background"><script language="javascript">dw(showText(734))</script></td>
+<td width="65%" colspan="3">
+<input type="text" name="sysSecDNSAddr" size="15" maxlength="15">
+</td>
+</tr>
+</table>
+</span>
+<tr>
+<td height="30">
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="right">
+<tr><td align="right">
+<script type="text/javascript">
+document.write('<input type="submit" width="105" height="30" border="0" value="'+showText(46)+'" name="save" onClick="return saveChanges(3)">')
+document.write('&nbsp;')
+document.write('<input type="button" value="'+showText(47)+'" onclick="javscript:window.location.href=\'wizard_pppoe.htm\'">')
+</script>
+<input type="hidden" value="2" name="wanMode">
+<input type="hidden" value="ppp" name="ipMode" >
+<script language="javascript">dhcpChange(document.tcpip.dhcp.selectedIndex)</script>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</form>
+</body>
+</html>

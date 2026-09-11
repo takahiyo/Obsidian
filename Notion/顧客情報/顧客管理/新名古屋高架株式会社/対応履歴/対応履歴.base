@@ -1,0 +1,20 @@
+# 対応履歴
+
+filters:
+  and:
+    - file.inFolder("Notion/顧客情報/顧客管理/新名古屋高架株式会社/対応履歴")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: 要約
+  日付:
+    displayName: 日付
+  内容:
+    displayName: 内容
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 日付
+      - 内容

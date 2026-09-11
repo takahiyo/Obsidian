@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.8, maximum-scale=1.6" />-->
+<link href="mobile_css/styles.css" rel="stylesheet" type="text/css" />
+<link href="mobile_css/jquery/jquery.mobile-1.1.1.css" rel="stylesheet" type="text/css" />
+<link href="css/logo.css" rel="stylesheet" type="text/css" id="folder_css" />
+<!--[if lte IE 6]><link href="css/mainframe_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+<title>manual title</title>
+<script type="text/javascript" src="mobile_js/jquery/jquery_1_7_1.js"></script>
+<script type="text/javascript" src="mobile_js/jquery.jStageAligner.js"></script>
+<script type="text/javascript" src="mobile_js/jquery/config.js"></script>
+<script type="text/javascript" src="mobile_js/jquery/jquery.mobile-1.1.1.min.js"></script>
+<script type="text/javascript" src="edit_js/redirect_data.js"></script>
+<script type="text/javascript" src="edit_js/toc.js"></script>
+<script type="text/javascript" src="js/strings.js"></script>
+<script type="text/javascript" src="mobile_js/xmlparser.js"></script>
+<script type="text/javascript" src="mobile_js/xmlmanual.js"></script>
+<script type="text/javascript" src="mobile_js/home.js"></script>
+<script type="text/javascript" src="mobile_js/ios6-timers.js"></script>
+
+<!-- Link Area -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-123644005-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!--/Link Area -->
+</head>
+
+<body id="mainbody">
+<div data-role="page" id="page_i" data-footer-theme="a">
+<a name="top" id="page_top"><span>page top</span></a>
+	<div data-role="content">
+	<div id="base">
+		<div id="header">
+			<div class="logo" title="BUFFALO"></div>
+
+			<!--/Search window -->
+			<div id="search">
+				<form method="post" action="javascript:toSearch();">
+					<input type="text" name="searchword" id="word" required data-role="none"><input type="submit" value="" id="search_img" data-role="none">
+				</form>
+			</div>
+			<!--/END Search window -->
+			<br class="clear" />
+		</div>
+
+		<div id="topbar">
+			<span id="title">manual title</span>
+			<br class="clear" />
+		</div>
+
+		<table border="0" cellpadding="0" cellspacing="0" id="mainbase" width="100%"><tbody><tr>
+			<td>
+				<div id="main"></div>
+				<div id="bottom_bar">
+					<div class="copyright">COPYRIGHT_YEAR</div>
+				</div>
+			</td>
+		</tr></tbody></table>
+
+	</div>
+	</div>
+
+<div id="footer_pos">
+	<div data-role="footer" data-tap-toggle="false" data-position="fixed">
+<!--
+	<div data-role="footer" data-position="fixed">
+-->
+		<div data-role="navbar">
+			<ul>
+				<li><span id="floating"><a rel="external" href="mobile_index.html"></a></span></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</div>
+</body>
+</html>

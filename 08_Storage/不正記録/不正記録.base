@@ -1,0 +1,20 @@
+filters:
+  and:
+    - note["base"] == link("不正記録.base")
+properties:
+  file.name:
+    displayName: 名前
+  更新されました:
+    displayName: 更新されました
+  作成日時:
+    displayName: 作成日時
+  タグ:
+    displayName: タグ
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 更新されました
+      - 作成日時
+      - タグ

@@ -1,0 +1,19 @@
+# 設備・物品資産
+
+filters:
+  and:
+    - note["base"] == link("設備・物品資産.base")
+properties:
+  file.name:
+    displayName: 名前
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  管理主体:
+    displayName: 管理主体
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - ファイル&メディア
+      - 管理主体

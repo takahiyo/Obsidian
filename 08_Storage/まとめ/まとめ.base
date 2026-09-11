@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("まとめ.base")
+properties:
+  file.name:
+    displayName: 名前
+  ファイル&メディア:
+    displayName: ファイル&メディア
+  タグ:
+    displayName: タグ
+  URL:
+    displayName: URL
+  作成日時:
+    displayName: 作成日時
+  更新されました:
+    displayName: 更新されました
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - ファイル&メディア
+      - タグ
+      - URL
+      - 作成日時
+      - 更新されました

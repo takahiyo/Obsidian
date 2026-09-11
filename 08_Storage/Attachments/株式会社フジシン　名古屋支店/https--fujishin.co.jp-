@@ -1,0 +1,1674 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<head>
+	<title>株式会社フジシン</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta content="株式会社フジシン" property="og:title">
+	<meta content="株式会社フジシン" name="twitter:title" >
+	<meta property="og:type" content="website" />
+	<meta content="https://fujishin.co.jp/" property="og:url">
+		<meta content="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/ogp2.png" property="og:image">
+	<meta content="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/ogp2.png" property="twitter:image">
+	<meta content="株式会社フジシン" property="og:site_name">
+	<meta name="description" content="株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです">
+	<meta content="株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです" property="og:description">
+	<meta name="twitter:description" content="株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/css/common.css?v=20240215">
+	<link rel="stylesheet" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/css/post.css?v=1">
+	<link rel="stylesheet" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/css/front-page.css?v=20210705c">
+	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/favicons/favicon.ico">
+	<link rel="icon" type="image/vnd.microsoft.icon" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/favicons/favicon.ico">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/favicons/apple-touch-icon.png">
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/jquery-2.2.4.min.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/jquery.waypoints.min.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/jquery.scrollme.min.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/jquery.matchHeight.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/common.js?v=20210609-02"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/swiper.min.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/lity.min.js"></script>
+		<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/infiniteslidev2.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/scroll-hint.min.js"></script>
+	<script src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/js/front-page.js?v=20210705"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-204886889-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-204886889-1');
+	</script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <script>
+        var ajaxurl = 'https://fujishin.co.jp/cms/wp-admin/admin-ajax.php';
+    </script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです。" />
+	<link rel="canonical" href="https://fujishin.co.jp/" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="株式会社フジシン" />
+	<meta property="og:description" content="株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです。" />
+	<meta property="og:url" content="https://fujishin.co.jp/" />
+	<meta property="og:site_name" content="株式会社フジシン" />
+	<meta property="article:modified_time" content="2026-09-04T00:25:27+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://fujishin.co.jp/","url":"https://fujishin.co.jp/","name":"株式会社フジシン","isPartOf":{"@id":"https://fujishin.co.jp/#website"},"about":{"@id":"https://fujishin.co.jp/#organization"},"datePublished":"2021-10-12T01:00:36+00:00","dateModified":"2026-09-04T00:25:27+00:00","description":"株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです。","breadcrumb":{"@id":"https://fujishin.co.jp/#breadcrumb"},"inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://fujishin.co.jp/"]}]},{"@type":"BreadcrumbList","@id":"https://fujishin.co.jp/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム"}]},{"@type":"WebSite","@id":"https://fujishin.co.jp/#website","url":"https://fujishin.co.jp/","name":"株式会社フジシン","description":"株式会社フジシンは、サロン様の繁栄をサポートする美容総合ディーラーです","publisher":{"@id":"https://fujishin.co.jp/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fujishin.co.jp/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ja"},{"@type":"Organization","@id":"https://fujishin.co.jp/#organization","name":"株式会社フジシン","url":"https://fujishin.co.jp/","logo":{"@type":"ImageObject","inLanguage":"ja","@id":"https://fujishin.co.jp/#/schema/logo/image/","url":"http://wx34.wadax.ne.jp/~fujishin-co-jp/cms/wp-content/uploads/2021/06/logo.png","contentUrl":"http://wx34.wadax.ne.jp/~fujishin-co-jp/cms/wp-content/uploads/2021/06/logo.png","width":1201,"height":401,"caption":"株式会社フジシン"},"image":{"@id":"https://fujishin.co.jp/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://fujishin.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffujishin.co.jp%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://fujishin.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffujishin.co.jp%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='sbi_styles-css' href='https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.6.1' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://fujishin.co.jp/cms/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' media='all' />
+<style id="contact-form-7-inline-css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+/*# sourceURL=contact-form-7-inline-css */
+</style>
+
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=G-CCCS61B6KG" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["fujishin.co.jp"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-CCCS61B6KG");
+//# sourceURL=google_gtagjs-js-after
+</script>
+
+<!-- (ここまで) Google アナリティクス スニペット (Site Kit が追加) -->
+<link rel="https://api.w.org/" href="https://fujishin.co.jp/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://fujishin.co.jp/wp-json/wp/v2/pages/2" /><meta name="generator" content="Site Kit by Google 1.107.0" />		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "sf0zpkb6ak");
+		</script>
+		<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><!-- Meta Pixel Code --> <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1299370785472435'); fbq('track', 'PageView'); </script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1299370785472435&ev=PageView&noscript=1" /></noscript> <!-- End Meta Pixel Code --><link rel="icon" href="https://fujishin.co.jp/cms/wp-content/uploads/2023/10/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://fujishin.co.jp/cms/wp-content/uploads/2023/10/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://fujishin.co.jp/cms/wp-content/uploads/2023/10/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://fujishin.co.jp/cms/wp-content/uploads/2023/10/cropped-android-chrome-512x512-1-270x270.png" />
+<style id="wp-custom-css">
+.mw_wp_form_input .txt1{
+ display: none;
+}
+
+.grecaptcha-badge{
+	position:relative;
+	top:80%;
+	right:0px;
+	z-index:5;
+}
+</style>
+</head>
+<body id="top">
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v10.0&appId=360319078580923&autoLogAppEvents=1" nonce="epFLxb6E"></script>
+<div id="loading"></div>
+<nav id="logo">
+	<h1><a href="https://fujishin.co.jp" alt="株式会社フジシン" ><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="株式会社フジシン" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" alt="株式会社フジシン" data-eio="l"></noscript></a></h1>
+</nav>
+<nav id="store-nav" class="no-fadein">
+	<div class="fujishin-home">
+		<a href="https://fujishin.co.jp/form/">
+			<div>
+				<span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAj8AAAA2AQAAAAAAR8V7AAAAAnRSTlMAAHaTzTgAAAAbSURBVEjH7cExAQAAAMKg9U9tCU+gAAAAgI8BD2YAAdiVBQEAAAAASUVORK5CYII=" alt="フジシン 各種お問合せ" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/fujishin-contact.png" decoding="async" class="lazyload" data-eio-rwidth="575" data-eio-rheight="54"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/fujishin-contact.png" alt="フジシン 各種お問合せ" data-eio="l"></noscript></span><i>フジシン 各種お問合せ</i>
+			</div>
+		</a>
+	</div>
+	<h1><a href="https://fujishin.co.jp" alt="株式会社フジシン"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="株式会社フジシン" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" alt="株式会社フジシン" data-eio="l"></noscript></a></h1>
+	<div id="nav-btn"><i>MENU</i><span id="nav-btn-icon"></span></div>
+</nav>
+<nav id="main-nav" class="no-fadein">
+	<div id="main-nav-cnt">
+		<section class="logo no-fadein">
+			<figure class="inner no-fadein">
+				<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="株式会社フジシン" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/main-nav-logo.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/main-nav-logo.svg" alt="株式会社フジシン" data-eio="l"></noscript>
+			</figure>
+		</section>
+		<section class="nav no-fadein">
+			<ul class="inner no-fadein">
+				<li class="no-fadein"><a href="https://fujishin.co.jp" class="current">HOME</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/news">NEWS</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/about">ABOUT</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/seminar">SEMINAR</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/event">EVENT</a></li>
+								<li class="no-fadein"><a href="https://fujishin.co.jp/brand">BRAND</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio">OFFICE&STUDIO</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/recruit">RECRUIT</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/form/">CONTACT</a></li>
+			</ul>
+		</section>
+		<section class="studio no-fadein">
+			<ul class="inner no-fadein">
+				<h3 class="no-fadein">OFFICE&STUDIO</h3>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/fasta2/">FASTAⅡ 新宿本社</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/fasta/">FASTA 青山スタジオ</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/yokohama/">YOKOHAMA 横浜支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/saitama-%e5%9f%bc%e7%8e%89%e6%94%af%e5%ba%97/">SAITAMA 埼玉支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/chiba/">CHIBA 千葉支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/shizuoka/">SHIZUOKA 静岡支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/nagoya/">NAGOYA 名古屋支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/osaka/">OSAKA 大阪営業所</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/fukuoka/">FUKUOKA 福岡支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/aomori/">AOMORI 青森支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/sendai/">SENDAI 仙台支店</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/sapporo/">SAPPORO 札幌本社</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/sapporo-studio/">SAPPORO STUDIO</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/hakodate/">HAKODATE 函館営業所</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/asahikawa/">ASAHIKAWA 旭川営業所</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/nagaoka/">NAGAOKA 長岡本社</a></li>
+				<li class="no-fadein"><a href="https://fujishin.co.jp/studio/niigata/">NIIGATA 新潟支店</a></li>
+				<div class="no-fadein only-sp">
+					<h3 class="sns-title no-fadein">SNS</h3>
+					<li class="sns-list no-fadein">
+						<a href="https://www.instagram.com/fujishin_official/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="instagram" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/instagram.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/instagram.svg" alt="instagram" data-eio="l"></noscript></a>
+					</li>
+				</div>
+			</ul>
+		</section>
+		<section class="sns no-fadein">
+			<ul class="inner no-fadein">
+				<h3 class="no-fadein">SNS</h3>
+				<li class="sns-list no-fadein">
+						<a href="https://www.instagram.com/fujishin_official/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="instagram" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/instagram.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/instagram.svg" alt="instagram" data-eio="l"></noscript></a>
+				</li>
+			</ul>
+		</section>
+	</div>
+</nav><main id="top">
+	<section id="mv">
+		<div id="mv-slider" class="swiper-container">
+		<div class="swiper-wrapper">
+				<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/ac88fbe6412c0bdc95590bd384f63df7.jpg">
+				<a href="https://fujishin.co.jp/event/japan-cup-photo-contest-2026/">
+				</a>
+			</div>
+				<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/japan2026_top.jpg">
+				<a href="https://fujishin.co.jp/event/japan-cup-hair-design-contest-2026/">
+				</a>
+			</div>
+				<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2025/11/top2.webp">
+				<a href="https://fujishin.co.jp/seminar/">
+				</a>
+			</div>
+				<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/mv04-1.jpg">
+				<a href="">
+				</a>
+			</div>
+			</div>
+		</div>
+		<div id="mv-thumbs" class="swiper-container">
+			<div class="swiper-wrapper">
+									<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/ac88fbe6412c0bdc95590bd384f63df7.jpg">
+					
+				</div>
+						<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/japan2026_top-1280x720.jpg">
+					
+				</div>
+						<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2025/11/top2.webp">
+					
+				</div>
+						<div class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/mv04-1-1280x639.jpg">
+					
+				</div>
+					</div>
+  </div>
+   	<div id="mv-txt">
+  		<h2>FUJISHIN</h2>
+  		<p>株式会社フジシンは、<br class="br-tb">サロン様の繁栄をサポートする<br class="br-tb">美容総合ディーラーです</p>
+  	</div>
+	</section>
+   <section id="scrolled-news">
+   	<div class="infinite-slide">
+   					<a href="https://fujishin.co.jp/5262/">2026.06.09 『結果発表』JAPAN CUP PHOTO CONTEST 2026</a>
+ 				<a href="https://fujishin.co.jp/5284/">2026.06.09 『結果発表』JAPAN CUP HAIR  CONTEST 2026</a>
+ 				<a href="https://fujishin.co.jp/5293/">2026.01.01 『エントリー開始』JAPAN CUP HAIR DESIGN CONTEST 2026</a>
+ 				<a href="https://fujishin.co.jp/5291/">2026.01.01 『エントリー開始』JAPAN CUP PHOTO CONTEST 2026</a>
+ 				<a href="https://fujishin.co.jp/4846/">2025.07.15 フジシン埼玉支店、７月８日オープン！</a>
+ 				<a href="https://fujishin.co.jp/4550/">2024.11.19 【JAPAN CUP ONLINE PHOTO CONTEST 2024】 ノミネート作品を発表！</a>
+   	</div>
+  	<div id="close-scrolled-news"></div>
+   </section>
+   <section id="pickup" class="fadein">
+   	<div class="cnt">
+   		<h2>PICK<br>UP</h2>
+   	</div>
+   	<div id="pickup-slider" class="swiper-container">
+   		<div class="swiper-wrapper">
+  			<div class="swiper-slide">
+  				<div class="slide-cnt">
+  					<figure class="no-fadein">
+  						<a href="" style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/69e2f137fbf2ad8cb80b0ed61b7f0155.jpg"></a>
+  						<div class="shadow"></div>
+  						<div class="shadow2"></div>
+  					</figure>
+  					<div class="desc">
+							<h4 class="no-fadein">F's Message ♯76を発刊いたしました。</h4>
+							<p class="no-fadein">●Contents<br />
+・Cover Interview [NEUF／KITYY]<br />
+・Featured Products 01 スーパーソニック プロフェッショナル／ダイソン<br />
+・フジシン Instagram で最新情報をチェック！<br />
+・Salon Interview [VIEW TOKYO]<br />
+・F`s Selection 開発者Voice [ミルボン]<br />
+・2026 ウルフェスSUMMER 開催中<br />
+・Cosme News<br />
+・F`s Selection 開発者Voice [髪にドラマを。]<br />
+・JAPAN CUP HAIR DESIGN CONTEST 2026速報レポート<br />
+・Message from サロンアドバイザー vol.30<br />
+・F`s Focus Items〈夏の新商品＆注目のアイテム〉<br />
+・point of view 日々の視点から vol.57</p>
+						</div>
+  				</div>
+  				<h3 class="no-fadein"><span class="scrollme animateme en" data-when="enter" data-from=".2" data-to="1" data-easing="linear" data-translatex="-100" style="opacity: 1; transform: translate3d(-10px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">F'S MESSAGE ♯76</span></h3>
+  			</div>
+  			<div class="swiper-slide">
+  				<div class="slide-cnt">
+  					<figure class="no-fadein">
+  						<a href="" style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/cfee3255cf4933c68d0a31942b3af405.jpg"></a>
+  						<div class="shadow"></div>
+  						<div class="shadow2"></div>
+  					</figure>
+  					<div class="desc">
+							<h4 class="no-fadein">【texx Outbath emulsion】<br />
+ほどける、まとまる。質感つづく。</h4>
+							<p class="no-fadein">2026.08 DEBUT<br />
+※フジシン専売品<br />
+濡れ髪も、ダメージ毛も、すっとなじんでつるんとまとまる。<br />
+”指通り”にこだわった、洗い流さないヘアトリートメント。</p>
+						</div>
+  				</div>
+  				<h3 class="no-fadein"><span class="scrollme animateme en" data-when="enter" data-from=".2" data-to="1" data-easing="linear" data-translatex="-100" style="opacity: 1; transform: translate3d(-10px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">TEXX OUTBATH EMULSION</span></h3>
+  			</div>
+  			<div class="swiper-slide">
+  				<div class="slide-cnt">
+  					<figure class="no-fadein">
+  						<a href="" style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/top_salon_low-scaled-1.jpg"></a>
+  						<div class="shadow"></div>
+  						<div class="shadow2"></div>
+  					</figure>
+  					<div class="desc">
+							<h4 class="no-fadein">【つるりんちょ。】<br />
+選べるようになって新登場</h4>
+							<p class="no-fadein">サロン発ヘアケアブランド「つるりんちょ。」が全面リニューアル。<br />
+既存の4アイテムをすべてアップデートするとともに、縮毛矯正やブリーチによるハイダメージ毛に対応した新ライン「REPAIR」を追加し、全6アイテムへと拡充。<br />
+〜独自処方「PLEX SHOT※」を全製品に配合し、ボトルデザインも刷新〜<br />
+<br />
+※PLEX SHOT：独自処方とは、ジマレイン酸シスタミン、マレイン酸、グルタチオン（毛髪補修成分）の配合バランスを指します</p>
+						</div>
+  				</div>
+  				<h3 class="no-fadein"><span class="scrollme animateme en" data-when="enter" data-from=".2" data-to="1" data-easing="linear" data-translatex="-100" style="opacity: 1; transform: translate3d(-10px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">髪にドラマを</span></h3>
+  			</div>
+  			<div class="swiper-slide">
+  				<div class="slide-cnt">
+  					<figure class="no-fadein">
+  						<a href="" style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/brandimage_003.jpg"></a>
+  						<div class="shadow"></div>
+  						<div class="shadow2"></div>
+  					</figure>
+  					<div class="desc">
+							<h4 class="no-fadein">【SINN PURETE】<br />
+シンピュルテの取扱いを始めました！</h4>
+							<p class="no-fadein">SINN PURETEは、オーガニックとサイエンスを融合したハイブリッドナチュラル処方と脳波解析に基づいた香りを採用した、心と肌、髪、すべてに働きかけるMADE IN JAPANのホリスティックなビューティーケアブランド。</p>
+						</div>
+  				</div>
+  				<h3 class="no-fadein"><span class="scrollme animateme en" data-when="enter" data-from=".2" data-to="1" data-easing="linear" data-translatex="-100" style="opacity: 1; transform: translate3d(-10px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">JIMOS</span></h3>
+  			</div>
+  			
+   		</div>
+   		<div class="swiper-pagination-wrap">
+   			<span class="swiper-pagination-pickup">Pick up</span>
+   			<div class="swiper-pagination"></div>
+			</div>
+		
+		</div>
+		<div id="pickup-thumbs" class="swiper-container">
+			<ul class="swiper-wrapper">
+				<li class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/06/69e2f137fbf2ad8cb80b0ed61b7f0155.jpg"></li>
+				<li class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/cfee3255cf4933c68d0a31942b3af405.jpg"></li>
+				<li class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/top_salon_low-scaled-1.jpg"></li>
+				<li class="swiper-slide lazyload" style="" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/brandimage_003.jpg"></li>
+  	
+			</ul>
+		</div>
+   </section>
+   <section id="seminar" class="sec-block fadein">
+   		<h2 class="sec-title"><span class="en">SEMINAR</span><span class="ja">セミナー予定</span></h2>
+   		<ul class="seminar-list">
+   			 <li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e5%90%8d%e5%8f%a4%e5%b1%8b%e3%80%91%e9%ab%98%e5%8d%98%e4%be%a1%e3%81%ae%e7%be%8e%e9%ab%aa%e3%82%b9%e3%83%88%e3%83%ac%e3%83%bc%e3%83%88%e6%88%a6%e7%95%a5/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/b81a50fe2bdb826643730272ec5527ef.jpg"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/9/14（月）12:00〜15:00</time>
+				<span class="lecturer">丹羽大喜氏</span>
+			</div>
+			<h3><span>【名古屋】高単価の美髪ストレート戦略</span></h3>
+			<p class="desc">「縮毛矯正で選ばれる美容師になる方法」「売上200万円overを達成するための考え方と仕組み」を実体験ベースでお伝えします。<br />
+<br />
+●縮毛矯正のカウンセリング<br />
+●高単価でも選ばれる提案方法<br />
+●リピートにつながる技術と接客<br />
+●売上を伸ばすための予約管理<br />
+●SNSからの集客導線<br />
+●月売上200万円を達成するための行動習慣<br />
+<br />
+技術だけでは売上は上がらない。売上だけを追ってもお客様は増えない。だからこそ、「技術」と「売上」の両方を伸ばす方法を包み隠さず公開します。縮毛矯正を武器にしたい方。今よりもっと売上を伸ばしたい方。そんな美容師さんにおすすめのセミナーです。</p>
+		</div>
+	</a>
+</li><li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e5%90%8d%e5%8f%a4%e5%b1%8b%e3%80%91tpps-tp-perm-seminar-%e3%80%9c%e6%98%8e%e6%97%a5%e3%81%8b%e3%82%89%e5%87%ba%e6%9d%a5%e3%82%8bnanuk-perm%e3%80%9c/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/08/0928nanuk_ig1.jpg"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/9/28（月）12:00〜15:00</time>
+				<span class="lecturer">nanuk店長　前村哲平氏</span>
+			</div>
+			<h3><span>【名古屋】TPPS tp perm seminar 〜明日から出来るnanuk perm〜</span></h3>
+			<p class="desc">本セミナーでは、お客様の雰囲気やファッションにフィットするお洒落なパーマスタイルを形にするための、カットとパーマの連動性についてお伝えします。ただパーマをかけるだけでなく、魅力を最大限に引き出すカットの技術、ワインディングのロジックまで前村氏のリアルなサロンワークを凝縮。さらに翌日からもお客様ご自身で再現できるスタイリングの落とし込み方も伝授いたします。提案の幅を広げたいスタイリスト、センスを磨きたいすべてのアシスタント必見のセミナーです。</p>
+		</div>
+	</a>
+</li><li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e6%a8%aa%e6%b5%9c%e3%80%91%e8%87%aa%e5%88%86%e3%82%89%e3%81%97%e3%81%8f%e7%94%9f%e3%81%8d%e3%82%8b%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%82%89%e3%81%97%e3%81%95%e3%82%92%e5%89%b5/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/08/0929yokohama.jpg"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/9/29（火）13:00〜15:00</time>
+				<span class="lecturer">manhood haus 辻のぞみ氏、ROUN 阿久津菜々子氏</span>
+			</div>
+			<h3><span>【横浜】自分らしく生きる、あなた&#8221;らしさ&#8221;を創る。</span></h3>
+			<p class="desc">“好きな人に尽くすように、お客様に尽くす。” 髪を通して、その人のアイデンティティ、つまりその人【らしさ】をデザインする。圧倒的なファンを持つおふたりが、大切にしてきた感性と「自分らしさ」についてリアルな言葉で語り尽くします。</p>
+		</div>
+	</a>
+</li><li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e4%bb%99%e5%8f%b0%e3%80%91%e6%ba%80%e8%b6%b3%e5%ba%a6%e3%82%92%e3%81%82%e3%81%92%e3%82%8b%e6%9c%80%e5%be%8c%e3%81%ae10%e5%88%86-%e3%82%b5%e3%83%ad%e3%83%b3%e3%83%af%e3%83%bc%e3%82%af/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/08/1005_sendai2.webp"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/10/5（月）13:00〜16:00</time>
+				<span class="lecturer">hairsalon de Forever 取締役統括マネージャー 齋藤勇磨氏</span>
+			</div>
+			<h3><span>【仙台】満足度をあげる最後の10分  サロンワークを変えるフィニッシュワーク</span></h3>
+			<p class="desc">美容師の見せ場である【スタイリング術】を【リピート】や【店販強化】に活かすサロンワーク術。スタイリングシーンだけでなく、カウンセリングや施術中の会話の仕方、提案の幅を広げることでお客様との関係を築き指名が増え、店販購入も増える結果が出るフィニッシュワーク術を習得できます。</p>
+		</div>
+	</a>
+</li><li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e6%9c%ac%e7%a4%be%e3%80%91silly%e3%83%96%e3%83%aa%e3%83%bc%e3%83%81%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/silly_ig1.jpg"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/10/6（火）13:00〜17:00</time>
+				<span class="lecturer">TAKUMI氏</span>
+			</div>
+			<h3><span>【本社】Sillyブリーチテクニックセミナー</span></h3>
+			<p class="desc">ブリーチデザインで多くの支持を集める『Silly』TAKUMI氏が東京にてセミナーを開催。実際のサロンワークで使用しているアイテムを使用し、薬剤選定から技術のポイント、デザインの考え方、似合わせまでをリアルに公開します。また、SNSや情報が溢れる時代だからこそ問われる「自分らしさ」の表現や、「自身の価値」をどのように築いていくのか、美容師としての在り方についてもお話しいただきます。福岡と東京の２拠点で活躍し、磨き続けてきた技術と感性。今のTAKUMI氏だからこそ発信できる、技術だけではないデザインとブランディングの考え方を、ぜひ会場でご体感ください。</p>
+		</div>
+	</a>
+</li><li class="fadein">
+	<a href="https://fujishin.co.jp/seminar/%e3%80%90%e9%9d%92%e5%b1%b1%e3%80%91%e3%83%91%e3%83%bc%e3%83%9e%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e5%9f%ba%e6%9c%ac/">
+		<div class="thumb">
+			<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/09/1027aoyama.jpg"></span></figure>
+		</div>
+		<div class="seminar-txt">
+			<div class="meta">
+															<time>2026/10/27（火）11:00〜13:30</time>
+				<span class="lecturer">Hank.  堀江昌樹氏</span>
+			</div>
+			<h3><span>【青山】パーマデザインの基本</span></h3>
+			<p class="desc">「パーマを提案したいけど、自信がない」「失敗が怖くて、つい無難なスタイルに逃げてしまう」そんな“あと一歩”を、基礎から解決するセミナーです。本講座で扱うのは、特別な薬剤でも難解な理論でもありません。BASIC カットとBASIC コールドパーマ、この2つの土台だけ。土台が固まれば、パーマは驚くほど簡単に、そして自由になります。「かけられる」から「デザインできる」へ。パーマへの苦手意識を、あなたの新しい武器に変えるセミナーです。</p>
+		</div>
+	</a>
+</li>   		</ul>
+   		<div class="btn-area">
+   			<a href="https://fujishin.co.jp/seminar/" class="view-more">VIEW MORE</a>
+   		</div>
+   </section>
+	    	<section id="original" class="sec-block">
+	   	<div class="cnt">
+		   	<h2 class="sec-title small"><span class="en">F's RECOMMEND</span><span class="ja">フジシンおすすめ商品</span></h2>
+		   	<div id="original-slider" class="swiper-container">
+   				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90%e3%83%84%e3%83%a4%e3%81%a7%e3%82%8b%e3%82%8a%e3%82%93%e3%80%91%e3%82%bb%e3%83%ab%e3%83%aa%e3%83%b3%e3%82%af/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/10.jpg"></span></figure>
+							<h3><span>【ECET】ツヤでるりん</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90oops%e3%80%91/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/Oops.jpg"></span></figure>
+							<h3><span>【Oops】オンライン診療</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90sinn-purete%e3%80%91%e3%83%88%e3%82%a5%e3%83%bc%e3%82%b0%e3%83%83%e3%83%89-%e3%83%9e%e3%83%ab%e3%83%81%e3%83%99%e3%83%8d%e3%83%95%e3%82%a3%e3%83%83%e3%83%88%e3%82%aa%e3%82%a4%e3%83%ab/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/19dc7b9fc75139b9c8d0e0b26fde9824.jpg"></span></figure>
+							<h3><span>【SINN PURETE】トゥーグッド マルチベネフィットオイル</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90ladamer%e3%80%91serumpad/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/e92512132610dd098d357f2155bf891a.jpg"></span></figure>
+							<h3><span>【LADAMER】SERUM&#038;PAD</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90fujishin%e3%80%91prime-hair/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/PrimeHair.jpg"></span></figure>
+							<h3><span>【FUJISHIN】Prime Hair</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90careness%e3%80%91jewel/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/S__32661524.jpg"></span></figure>
+							<h3><span>【CARENESS】JEWEL</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90soeff-professional%e3%80%91scent/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/c2d34df85d952c96c293f9898da44605.jpg"></span></figure>
+							<h3><span>【soeff professional】SCENT OIL</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90stella-beaute%e3%80%91jewel/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/26709763222995d6b2b0afc510a757c5.jpg"></span></figure>
+							<h3><span>【STELLA BEAUTE】JEWEL</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+					<div class="swiper-slide">
+						<a href="https://fujishin.co.jp/product/%e3%80%90willa%e3%80%91%e3%83%ab%e3%83%aa%e3%83%bc%e3%82%af/">
+							<figure><span style="" class="lazyload" data-back="https://fujishin.co.jp/cms/wp-content/uploads/2026/07/5d4ee55246573b6735422cb50343c550.jpg"></span></figure>
+							<h3><span>【LUREAQU】VCVA LOTION &#038; SERUM</span></h3>
+							<div class="icons">
+														</div>
+						</a>
+					</div>
+		
+		   	</div>
+			</div>
+			<div class="btn-area">
+					<a href="https://fujishin.co.jp/product/feature/recommend/" class="view-more">VIEW MORE</a>
+				</div>
+			</div>
+  	</section>
+  	<section id="studio" class="sec-block">
+    	<h2 class="sec-title"><span class="en">OFFICE & STUDIO</span><span class="ja">オフィス＆スタジオ</span></h2>
+    	<div class="cnt">
+     		<nav class="sp-studio-nav">
+   				<span class="studio-nav-btn">新宿(本社)</span>
+    				<span class="studio-nav-btn">青山スタジオ</span>
+    				<span class="studio-nav-btn">横浜支店</span>
+    				<span class="studio-nav-btn">埼玉支店</span>
+    				<span class="studio-nav-btn">千葉支店</span>
+    				<span class="studio-nav-btn">静岡支店</span>
+    				<span class="studio-nav-btn">名古屋支店</span>
+    				<span class="studio-nav-btn">大阪営業所</span>
+ 		
+   				<a href="https://fujishin.co.jp/studio">その他エリア</a>		
+    		</nav>
+     		<ul class="studio-list front-studio-list">
+<li id="fasta2">
+	<h3><span><a href="https://fujishin.co.jp/studio/fasta2/">FASTAⅡ 新宿本社</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒162-0065</p>
+			<p class="address">東京都新宿区住吉町8-12<p>
+			<p class="contact">TEL：03-3357-4141(代)<br>FAX：03-3357-4142</p>
+			<div class="equipment fadein">
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+	
+				<div class="showroom">ショールーム</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>曙橋駅</div>
+			<p class="whereabouts">地下鉄都営新宿線 曙橋A2出口 徒歩1分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/shinjuku.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOEAQAAAADRNcKWAAAAAnRSTlMAAHaTzTgAAAB6SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeDKQ1wAB9w/8/wAAAABJRU5ErkJggg==" alt="FASTAⅡ 新宿本社 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/shinjuku.webp" decoding="async" class="lazyload" data-eio-rwidth="900" data-eio-rheight="900"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/shinjuku.webp" alt="FASTAⅡ 新宿本社 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/Sx46y7gat18JPdxE9" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="fasta">
+	<h3><span><a href="https://fujishin.co.jp/studio/fasta/">FASTA 青山スタジオ</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒150-0001</p>
+			<p class="address">東京都渋谷区神宮前5-47-1<p>
+			<p class="contact">TEL：03-3400-6688(代)<br>FAX：03-3400-1146</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>表参道駅</div>
+			<p class="whereabouts">表参道駅B2出口より徒歩5分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/aoyama.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYAQAAAACWHaVxAAAAAnRSTlMAAHaTzTgAAABDSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+DbIgAAFbm/qRAAAAAElFTkSuQmCC" alt="FASTA 青山スタジオ 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/aoyama.webp" decoding="async" class="lazyload" data-eio-rwidth="600" data-eio-rheight="600"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/02/aoyama.webp" alt="FASTA 青山スタジオ 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/x1Vqd3qutmJ7ziZj8" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="yokohama">
+	<h3><span><a href="https://fujishin.co.jp/studio/yokohama/">YOKOHAMA 横浜支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒231-0062</p>
+			<p class="address">神奈川県横浜市中区桜木町1-1-100<p>
+			<p class="contact">TEL：045-663-1611(代)<br>FAX：045-663-7666</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+	
+				<div class="showroom">ショールーム</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>桜木町駅</div>
+			<p class="whereabouts">桜木町駅新南口より徒歩1分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/yokohama.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="YOKOHAMA 横浜支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/yokohama.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/yokohama.webp" alt="YOKOHAMA 横浜支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/YBxoT88hbUTD1iz76" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="saitama-%e5%9f%bc%e7%8e%89%e6%94%af%e5%ba%97">
+	<h3><span><a href="https://fujishin.co.jp/studio/saitama-%e5%9f%bc%e7%8e%89%e6%94%af%e5%ba%97/">SAITAMA 埼玉支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒330-0845</p>
+			<p class="address">埼玉県さいたま市大宮区仲町2丁目23番地2大宮仲町センタービル2階<p>
+			<p class="contact">TEL：048-644-4141(代)<br>FAX：048-644-4111</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>大宮駅</div>
+			<p class="whereabouts">大宮駅東口より3分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/07/saitama_map.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOEAQAAAADRNcKWAAAAAnRSTlMAAHaTzTgAAAB6SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeDKQ1wAB9w/8/wAAAABJRU5ErkJggg==" alt="SAITAMA 埼玉支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/07/saitama_map.webp" decoding="async" class="lazyload" data-eio-rwidth="900" data-eio-rheight="900"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/07/saitama_map.webp" alt="SAITAMA 埼玉支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/JDAuR6pdsGozhqNz5" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="chiba">
+	<h3><span><a href="https://fujishin.co.jp/studio/chiba/">CHIBA 千葉支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒260-0031</p>
+			<p class="address">千葉県千葉市中央区新千葉3-18-8<p>
+			<p class="contact">TEL：043-243-4111(代)<br>FAX：043-242-3708</p>
+			<div class="equipment fadein">
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>千葉駅</div>
+			<p class="whereabouts">千葉駅西口より7分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/chiba.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="CHIBA 千葉支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/chiba.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/chiba.webp" alt="CHIBA 千葉支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/dLTfEXcoTeNsZRKV7" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="shizuoka">
+	<h3><span><a href="https://fujishin.co.jp/studio/shizuoka/">SHIZUOKA 静岡支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒420-0857</p>
+			<p class="address">静岡県静岡市葵区御幸町5-2<br />
+リヴァイヴ　２階<p>
+			<p class="contact">TEL：054-260-4111(代)<br>FAX：054-260-4112</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="technique_room">テクニックルーム</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>静岡駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/shizuoka.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="SHIZUOKA 静岡支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/shizuoka.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/shizuoka.webp" alt="SHIZUOKA 静岡支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/CpyAofXZVPPgVy6H7" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="nagoya">
+	<h3><span><a href="https://fujishin.co.jp/studio/nagoya/">NAGOYA 名古屋支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒451-0045</p>
+			<p class="address">愛知県名古屋市西区名駅2丁目6-6<p>
+			<p class="contact">TEL：052-589-6411(代)<br>FAX：052-589-6433</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="showroom">ショールーム</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>名古屋駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagoya.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="NAGOYA 名古屋支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagoya.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagoya.webp" alt="NAGOYA 名古屋支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/e77VM67mFPooGaWB6" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="osaka">
+	<h3><span><a href="https://fujishin.co.jp/studio/osaka/">OSAKA 大阪営業所</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒530-0002</p>
+			<p class="address">大阪府大阪市北区曽根崎新地2-6-23<br />
+MF桜橋ビル5階<p>
+			<p class="contact">TEL：06-4796-4141(代)<br>FAX：06-4796-4142</p>
+			<div class="equipment fadein">
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>JR大阪駅</div>
+			<p class="whereabouts">JR大阪駅 桜橋口 徒歩7分
+JR東西線 北新地駅 徒歩4分
+地下鉄四ツ橋線 西梅田駅 9番出口 徒歩2分</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/osaka.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOEAQAAAADRNcKWAAAAAnRSTlMAAHaTzTgAAAB6SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeDKQ1wAB9w/8/wAAAABJRU5ErkJggg==" alt="OSAKA 大阪営業所 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/osaka.webp" decoding="async" class="lazyload" data-eio-rwidth="900" data-eio-rheight="900"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/osaka.webp" alt="OSAKA 大阪営業所 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/1v73Q4WpjvASbJDQA" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="fukuoka">
+	<h3><span><a href="https://fujishin.co.jp/studio/fukuoka/">FUKUOKA 福岡支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒812-0011</p>
+			<p class="address">福岡県福岡市博多区博多駅前4-11-19<br />
+博多駅前パークサイドビル1階<p>
+			<p class="contact">TEL：092-432-4122<br>FAX：092-432-4123</p>
+			<div class="equipment fadein">
+	
+				<div class="photo_sutudio">フォトスタジオ</div>
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="technique_room">テクニックルーム</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>博多駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/fukuoka.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="FUKUOKA 福岡支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/fukuoka.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/fukuoka.webp" alt="FUKUOKA 福岡支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/ZSv7HyErAph5SQ7A9" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="aomori">
+	<h3><span><a href="https://fujishin.co.jp/studio/aomori/">AOMORI 青森支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒030-0801</p>
+			<p class="address">青森県青森市新町2丁目8-6 下新町ビル1・2階<p>
+			<p class="contact">TEL：017-752-7741(代)<br>FAX：017-752-7742</p>
+			<div class="equipment fadein">
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>青森駅</div>
+			<p class="whereabouts">青森駅東口下車後、新町通りを約 850M 程直進していただき、右手側の通り沿いです。</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/aomori.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="AOMORI 青森支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/aomori.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/aomori.webp" alt="AOMORI 青森支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/K4zRz2MxKr2qT9o57" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="sendai">
+	<h3><span><a href="https://fujishin.co.jp/studio/sendai/">SENDAI 仙台支店</a></span><i>株式会社フジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒981-0913</p>
+			<p class="address">宮城県仙台市青葉区昭和町6-6 ニカーシビル2F<p>
+			<p class="contact">TEL：022-274-9215<br>FAX：022-274-9168</p>
+			<div class="equipment fadein">
+	
+				<div class="multi_purpose_studio">多目的スタジオ</div>
+	
+				<div class="shampoo_color">シャンプー・カラー</div>
+	
+				<div class="meeting_room">会議室</div>
+	
+				<div class="business_talk_corner">商談コーナー</div>
+				
+			</div>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>北仙台駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sendai.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="SENDAI 仙台支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sendai.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sendai.webp" alt="SENDAI 仙台支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/iovRpLhtgPqtfLiR6" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="sapporo">
+	<h3><span><a href="https://fujishin.co.jp/studio/sapporo/">SAPPORO 札幌本社</a></span><i>株式会社フジシン北海道</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒062-0041</p>
+			<p class="address">北海道札幌市豊平区福住1条7丁目1-1<p>
+			<p class="contact">TEL：011-857-1713(代)<br>FAX：011-857-1714</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>地下鉄福住駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sapporo.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="SAPPORO 札幌本社 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sapporo.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/sapporo.webp" alt="SAPPORO 札幌本社 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/XK9FRHpuE19ZhS5n6" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="sapporo-studio">
+	<h3><span><a href="https://fujishin.co.jp/studio/sapporo-studio/">SAPPORO STUDIO</a></span><i>株式会社フジシン北海道</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒060-0063</p>
+			<p class="address">北海道札幌市中央区南3条西8丁目1-2<br />
+Kdx Residence南3条1F<p>
+			<p class="contact">TEL：011-857-1713(代)<br>FAX：011-857-1714</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>地下鉄すすきの駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/sapporo_studio.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQAAAADzCzvFAAAAAnRSTlMAAHaTzTgAAABlSURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAw7rwABdgN32AAAAABJRU5ErkJggg==" alt="SAPPORO STUDIO 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/sapporo_studio.webp" decoding="async" class="lazyload" data-eio-rwidth="800" data-eio-rheight="800"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2023/04/sapporo_studio.webp" alt="SAPPORO STUDIO 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/Gg2jG76cYg9CxZhS6" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="hakodate">
+	<h3><span><a href="https://fujishin.co.jp/studio/hakodate/">HAKODATE 函館営業所</a></span><i>株式会社フジシン北海道</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒040-0015 </p>
+			<p class="address">北海道函館市梁川町5-10 プライム函館EAST8階 805<p>
+			<p class="contact">TEL：0138-42-1557(代)<br>FAX：0138-45-7610</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>五稜郭駅</div>
+			<p class="whereabouts">五稜郭駅から国道5号線。左手に北海道ガスのところを左折。国道571号線を直進。</p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/2107b67af85eb52598a50eca8bd5f28d.jpg"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQAAAADzCzvFAAAAAnRSTlMAAHaTzTgAAABlSURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAw7rwABdgN32AAAAABJRU5ErkJggg==" alt="HAKODATE 函館営業所 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/2107b67af85eb52598a50eca8bd5f28d.jpg" decoding="async" class="lazyload" data-eio-rwidth="800" data-eio-rheight="800"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/2107b67af85eb52598a50eca8bd5f28d.jpg" alt="HAKODATE 函館営業所 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/kmc57T7D3rGXni9Ao" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="asahikawa">
+	<h3><span><a href="https://fujishin.co.jp/studio/asahikawa/">ASAHIKAWA 旭川営業所</a></span><i>株式会社フジシン北海道</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒070-8044</p>
+			<p class="address">北海道旭川市忠和4条1丁目1-26<p>
+			<p class="contact">TEL：0166-61-6011<br>FAX：0166-61-6662</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span></div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/asahikawa.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="ASAHIKAWA 旭川営業所 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/asahikawa.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/asahikawa.webp" alt="ASAHIKAWA 旭川営業所 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://maps.app.goo.gl/nWzwocUHnRm56a8U7" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="nagaoka">
+	<h3><span><a href="https://fujishin.co.jp/studio/nagaoka/">NAGAOKA 長岡本社</a></span><i>株式会社TSBフジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒940-1106</p>
+			<p class="address">新潟県長岡市宮内2-8-10<p>
+			<p class="contact">TEL：0258-34-7779(代)<br>FAX：0258-34-7807</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>宮内駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagaoka.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="NAGAOKA 長岡本社 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagaoka.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/05/nagaoka.webp" alt="NAGAOKA 長岡本社 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/mX7SSKxoLNmoBcYT6" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li><li id="niigata">
+	<h3><span><a href="https://fujishin.co.jp/studio/niigata/">NIIGATA 新潟支店</a></span><i>株式会社TSBフジシン</i></h3>
+	<div class="col2">
+		<div class="first">
+			<p class="postalcode">〒950-0983</p>
+			<p class="address">新潟県新潟市中央区神道寺1-2-26<p>
+			<p class="contact">TEL：025-243-7523(代)<br>FAX：025-243-7627</p>
+		</div>
+		<div class="second">
+			<div class="station fadein"><span>最寄駅</span>新潟駅</div>
+			<p class="whereabouts"></p>
+			<figure class="map">
+				<a href="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/niigata.webp"  data-lity>
+					<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="NIIGATA 新潟支店 地図" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/niigata.webp" decoding="async" class="lazyload" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/niigata.webp" alt="NIIGATA 新潟支店 地図" data-eio="l"></noscript>
+				</a>
+			</figure>
+				<a href="https://goo.gl/maps/43aqa53y8QPSsv3u7" target="_blank" class="map-link fadein">Google Map</a> 
+		</div>
+	</div>
+</li>		
+    		</ul>
+    	</div>
+    </section>
+    <section id="concept" class="sec-block">
+    	<div class="cnt">
+				<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTgAAADGSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBvw+4AAZdzZFoAAAAASUVORK5CYII=" alt="Management Philosophy" class="fadein lazyload" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/concept/model.jpg" decoding="async" data-eio-rwidth="1200" data-eio-rheight="1200"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/concept/model.jpg" alt="Management Philosophy" class="fadein" data-eio="l"></noscript></figure>
+				<div class="concept-cnt fadein">
+					<h3>美容は人生を美しくする</h3>
+					<h2><span class="en">Management<br>Philosophy</span></h2>
+					<p>美しいものを見たとき、<br>人は感動し、歓びや幸せを感じます。<br>"美"とは、人生を彩るかけがえのないもの。</p>
+					<p>私達FUJISHINは<br>「美容は人生を美しくする」をテーマに、<br>製品や技術を提供し、<br>お客様が心から満足できるサービスを<br>見つめ続けています。</p>
+					<p>美容業界のリーディングカンパニーとして<br>本物の“美”を探求し、<br>皆様にお届けしていく<br>それが私達の使命です。</p>
+				</div>
+				
+    	</div>
+    </section>
+    <section id="news" class="sec-block">
+    	<div class="cnt">
+    		<div class="title">
+					<h2 class="sec-title news"><span class="en">NEWS</span><span class="ja">お知らせ</span></h2>
+					<div class="btn-area">
+						<a href="https://fujishin.co.jp/news" class="view-more">VIEW MORE</a>
+					</div>
+				</div>
+				<ul class="news-list">
+ <li>
+	<a href="https://fujishin.co.jp/5262/">
+			<time>2026.06.09</time>
+			<h3>『結果発表』JAPAN CUP PHOTO CONTEST 2026</h3>
+	</a>
+</li><li>
+	<a href="https://fujishin.co.jp/5284/">
+			<time>2026.06.09</time>
+			<h3>『結果発表』JAPAN CUP HAIR  CONTEST 2026</h3>
+	</a>
+</li><li>
+	<a href="https://fujishin.co.jp/5293/">
+			<time>2026.01.01</time>
+			<h3>『エントリー開始』JAPAN CUP HAIR DESIGN CONTEST 2026</h3>
+	</a>
+</li>      	</ul>
+    	</div>
+    </section>
+</main>
+<footer id="main-footer">
+	<section class="banners" class="pink-bg">
+		<div class="cnt">
+			<a href="https://fujishin.co.jp/brand/" class="brands">
+				<h3>BRANDS</h3>
+				<p>お取り扱いブランド一覧</p>
+			</a>
+			<a href="https://fujishin.co.jp/brand/#partner" class="partner">
+				<h3>PARTNER</h3>
+				<p>協力会社一覧</p>
+			</a>
+		</div>
+	</section>
+	<section class="links">
+		<div class="cnt">
+			<div class="first">
+				<div class="footer-logo">
+					<a href="https://fujishin.co.jp"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="株式会社フジシン" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" decoding="async" class="lazyload"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/header-logo.svg" alt="株式会社フジシン" data-eio="l"></noscript></a>
+				</div>
+				<p class="desc">全国の有名美容室に世界の有名ブランド化粧品をはじめとして、美容室に必要な全ての商品の販売から、美容室の経営に必要なコンサルティングまでを業務とする美容業界の専門商社です。</p>
+				<div class="recruit">
+					<a href="https://fujishin.co.jp/recruit"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCQAAAFAAQAAAABMsJBPAAAAAnRSTlMAAHaTzTgAAABASURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgN6eAAAEoW/oqAAAAAElFTkSuQmCC" alt="フジシン採用情報" data-src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/banner-recruit.jpg" decoding="async" class="lazyload" data-eio-rwidth="1060" data-eio-rheight="320"><noscript><img src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/img/common/banner-recruit.jpg" alt="フジシン採用情報" data-eio="l"></noscript></a>
+				</div>
+				<div class="external-links">
+					<a href="http://www.jbca.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABAAQAAAAA4nQZWAAAAAnRSTlMAAHaTzTgAAAAXSURBVDjLY2AYBaNgFIyCUTAKRgG9AQAHgAABOufK1AAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jbca.jpg" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="64"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jbca.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://asiabeautyacademy.com/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABAAQAAAAA4nQZWAAAAAnRSTlMAAHaTzTgAAAAXSURBVDjLY2AYBaNgFIyCUTAKRgG9AQAHgAABOufK1AAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_aba.jpg" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="64"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_aba.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://fsgroup.jp/order/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABAAQAAAAA4nQZWAAAAAnRSTlMAAHaTzTgAAAAXSURBVDjLY2AYBaNgFIyCUTAKRgG9AQAHgAABOufK1AAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_btob.jpg" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="64"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_btob.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="http://www.j-h-a.com/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABAAQAAAAA4nQZWAAAAAnRSTlMAAHaTzTgAAAAXSURBVDjLY2AYBaNgFIyCUTAKRgG9AQAHgAABOufK1AAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jha.jpg" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="64"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jha.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="http://www.jhcma.or.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABAAQAAAAA4nQZWAAAAAnRSTlMAAHaTzTgAAAAXSURBVDjLY2AYBaNgFIyCUTAKRgG9AQAHgAABOufK1AAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jhcma.jpg" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="64"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/bnr_jhcma.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://www.jhca.ne.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUYAAABYAQAAAAChB2MCAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tCU+gAAAA4G8OcAAB9AqghgAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/jhca.jpg" decoding="async" class="lazyload" data-eio-rwidth="326" data-eio-rheight="88"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/jhca.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://beautyweek.com" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUYAAABYAQAAAAChB2MCAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tCU+gAAAA4G8OcAAB9AqghgAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/banner-beautyweek.jpg" decoding="async" class="lazyload" data-eio-rwidth="326" data-eio-rheight="88"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/06/banner-beautyweek.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://jabs.or.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAABYAQAAAABKMNgBAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tCU+gAAAA4G8OcAAB9AqghgAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/07/cc3e54d0ba6178bbf87b27f04c25a2be.png" decoding="async" class="lazyload" data-eio-rwidth="325" data-eio-rheight="88"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/07/cc3e54d0ba6178bbf87b27f04c25a2be.png" alt="" data-eio="l"></noscript></a>
+					<a href="https://www.jba-tokyo.co.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAA3AQAAAABh5zj/AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTB4AAAFlgABS5lOGgAAAABJRU5ErkJggg==" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2021/09/JBAlogo.jpg" decoding="async" class="lazyload" data-eio-rwidth="200" data-eio-rheight="55"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2021/09/JBAlogo.jpg" alt="" data-eio="l"></noscript></a>
+					<a href="https://asiabeautyexpo.jp/" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAABIAQAAAADUzoQ7AAAAAnRSTlMAAHaTzTgAAAAZSURBVEjHY2AYBaNgFIyCUTAKRsEooC0AAAhwAAFMcH+tAAAAAElFTkSuQmCC" alt="" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2025/02/24cdcdd057feca41792c6819e76a91cb.png" decoding="async" class="lazyload" data-eio-rwidth="232" data-eio-rheight="72"><noscript><img src="https://fujishin.co.jp/cms/wp-content/uploads/2025/02/24cdcdd057feca41792c6819e76a91cb.png" alt="" data-eio="l"></noscript></a>
+					
+				</div>
+			</div>
+			<div class="second">
+				
+<div id="sb_instagram"  class="sbi sbi_mob_col_3 sbi_tab_col_3 sbi_col_3 sbi_width_resp sbi_palette_custom_3" style="padding-bottom: 20px;" data-feedid="*3"  data-res="auto" data-cols="3" data-colsmobile="3" data-colstablet="3" data-num="9" data-nummobile="9" data-item-padding="10" data-shortcode-atts="{&quot;feed&quot;:&quot;3&quot;}"  data-postid="2" data-locatornonce="349b240fc0" data-sbi-flags="favorLocal">
+	<div class="sb_instagram_header  sbi_header_palette_custom_3"   >
+	<a class="sbi_header_link" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/fujishin_official/" title="@fujishin_official">
+		<div class="sbi_header_text sbi_no_bio">
+			<div class="sbi_header_img"  data-avatar-url="https://scontent-itm1-1.cdninstagram.com/v/t51.2885-19/118605694_682071449054556_956048170789319229_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MDAuQzMifQ%3D%3D&amp;_nc_ohc=cb1xDSXko-QQ7kNvwHhEn6a&amp;_nc_oc=Ado4T5Kde02rNqy6XLfYZok1uFzFTfVff7TC82i007I6zx5IHQANVU6qMmR9Lo9V-5Q&amp;_nc_zt=24&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_tpa=Q5bMBQLls7Ont11aTMl2nuUD0hZkCkKMCqtd9OmhkvnzApPVwy6ZANQndHVJvSmHqzczZsvVc6gfm9tiYA&amp;oh=00_AQI8iUBJNE7-1h0Z5hLdFP8MCyqZB3_EfI6HAIwbKwTbSw&amp;oe=6AA39017">
+									<div class="sbi_header_img_hover"  ><svg class="sbi_new_logo fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg></div>
+					<img  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQAAAADzCzvFAAAAAnRSTlMAAHaTzTgAAABlSURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAw7rwABdgN32AAAAABJRU5ErkJggg==" alt="株式会社フジシン【公式】" width="50" height="50" data-src="https://fujishin.co.jp/cms/wp-content/uploads/2024/01/S__51855363.jpg" decoding="async" class="lazyload" data-eio-rwidth="800" data-eio-rheight="800"><noscript><img  src="https://fujishin.co.jp/cms/wp-content/uploads/2024/01/S__51855363.jpg" alt="株式会社フジシン【公式】" width="50" height="50" data-eio="l"></noscript>
+											</div>
+
+			<div class="sbi_feedtheme_header_text">
+				<h3 style="color: rgb(255,255,255);">fujishin_official</h3>
+							</div>
+		</div>
+	</a>
+</div>
+
+    <div id="sbi_images"  style="gap: 20px;">
+		<div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18071049560723518" data-date="1788166801">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Dcstwi7FOyD/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/790880903_18472051492113673_4702656680443527415_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=100&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=aGmh1AabW6cQ7kNvwEH6xLo&#038;_nc_oc=AdoU_WttlQTfQ1hS9vUhMrscm07VaRA8AxNp2LPfHNuVn_d3o3RALyiVP_pEKxuai58&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQIjkWbGBx5vcmcZ-J70xku7vAorchR03no4NdFTfRcccsJG3fBYd1juCSWCy3iKpfdm3qplKvGClA&#038;oh=00_AQImjNe2NZFHxStcmKx47zY-Twb-vPg33Hec6xJ9LSurRQ&#038;oe=6AA3944E" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/790880903_18472051492113673_4702656680443527415_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=aGmh1AabW6cQ7kNvwEH6xLo&amp;_nc_oc=AdoU_WttlQTfQ1hS9vUhMrscm07VaRA8AxNp2LPfHNuVn_d3o3RALyiVP_pEKxuai58&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjkWbGBx5vcmcZ-J70xku7vAorchR03no4NdFTfRcccsJG3fBYd1juCSWCy3iKpfdm3qplKvGClA&amp;oh=00_AQImjNe2NZFHxStcmKx47zY-Twb-vPg33Hec6xJ9LSurRQ&amp;oe=6AA3944E&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/790880903_18472051492113673_4702656680443527415_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=aGmh1AabW6cQ7kNvwEH6xLo&amp;_nc_oc=AdoU_WttlQTfQ1hS9vUhMrscm07VaRA8AxNp2LPfHNuVn_d3o3RALyiVP_pEKxuai58&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjkWbGBx5vcmcZ-J70xku7vAorchR03no4NdFTfRcccsJG3fBYd1juCSWCy3iKpfdm3qplKvGClA&amp;oh=00_AQImjNe2NZFHxStcmKx47zY-Twb-vPg33Hec6xJ9LSurRQ&amp;oe=6AA3944E&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/790880903_18472051492113673_4702656680443527415_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=aGmh1AabW6cQ7kNvwEH6xLo&amp;_nc_oc=AdoU_WttlQTfQ1hS9vUhMrscm07VaRA8AxNp2LPfHNuVn_d3o3RALyiVP_pEKxuai58&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjkWbGBx5vcmcZ-J70xku7vAorchR03no4NdFTfRcccsJG3fBYd1juCSWCy3iKpfdm3qplKvGClA&amp;oh=00_AQImjNe2NZFHxStcmKx47zY-Twb-vPg33Hec6xJ9LSurRQ&amp;oe=6AA3944E&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/790880903_18472051492113673_4702656680443527415_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=aGmh1AabW6cQ7kNvwEH6xLo&amp;_nc_oc=AdoU_WttlQTfQ1hS9vUhMrscm07VaRA8AxNp2LPfHNuVn_d3o3RALyiVP_pEKxuai58&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjkWbGBx5vcmcZ-J70xku7vAorchR03no4NdFTfRcccsJG3fBYd1juCSWCy3iKpfdm3qplKvGClA&amp;oh=00_AQImjNe2NZFHxStcmKx47zY-Twb-vPg33Hec6xJ9LSurRQ&amp;oe=6AA3944E&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="中野製薬のSONQ(ソンク)から、仕上がり✨香り💐価格💰どれも妥協しないバランスよく兼ね揃えたオイルが登場しました❗️
+
+ソンク リフレコート ヘアオイルは、Z世代をターゲットにしてるのですが、中身に妥協せず、比較的お試ししやすい価格でトレンドをおさえたアイテムとなっています🔥
+
+毎日の熱習慣でキラキラの艶髪へ❤️‍🔥
+ドライヤーはもちろんのこと、ヘアアイロンなどの熱を使用したセットをする場面が多いかと思いますが、SONQのオイルは熱を利用した毛髪保護成分がキューティクルをコートしてくれます🪼
+(アイロン等を使用する前にオイルを塗布の場合は、必ずドライしてください⚠️)
+
+トレンドのパフュームオイルを💐
+香水のようにふわっと香り、余韻を残すフローラルムスクの香りを採用。
+時間が経つにつれて香りの印象が変わるので、スタイリング後の仕上げに使用もおすすめです😌
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#中野製薬#ソンクオイル#ソンク#サロン専売品" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="中野製薬のSONQ(ソンク)から、仕上がり✨香り💐価格💰どれも妥協しないバランスよく兼ね揃えたオイルが登場しました❗️
+
+ソンク リフレコート ヘアオイルは、Z世代をターゲットにしてるのですが、中身に妥協せず、比較的お試ししやすい価格でトレンドをおさえたアイテムとなっています🔥
+
+毎日の熱習慣でキラキラの艶髪へ❤️‍🔥
+ドライヤーはもちろんのこと、ヘアアイロンなどの熱を使用したセットをする場面が多いかと思いますが、SONQのオイルは熱を利用した毛髪保護成分がキューティクルをコートしてくれます🪼
+(アイロン等を使用する前にオイルを塗布の場合は、必ずドライしてください⚠️)
+
+トレンドのパフュームオイルを💐
+香水のようにふわっと香り、余韻を残すフローラルムスクの香りを採用。
+時間が経つにつれて香りの印象が変わるので、スタイリング後の仕上げに使用もおすすめです😌
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#中野製薬#ソンクオイル#ソンク#サロン専売品" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18189259936399465" data-date="1787562001">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DcasQlelGGn/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/784198286_18470736178113673_1022777469769379688_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=107&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=2AGwJ_8a4jIQ7kNvwH5wqcY&#038;_nc_oc=AdpHcH0-l_kJQ-8IDzVA1YlvZ_Sc29WycKCu0_qrVjZIMsV2Zp9Ua2tnb4LjK3no9Os&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQJ0dptjS6PrYEcEq1Y_ivFQLbEPPHHaR93BGBvdK5K3fkFG_bzG9pRyi1hUoNQ4sBiBmkA0XBTRTQ&#038;oh=00_AQKP6uphbnVE5zY2JjL_zp1RqAju8DX-JFUAdwni6qnKDA&#038;oe=6AA39301" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/784198286_18470736178113673_1022777469769379688_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=2AGwJ_8a4jIQ7kNvwH5wqcY&amp;_nc_oc=AdpHcH0-l_kJQ-8IDzVA1YlvZ_Sc29WycKCu0_qrVjZIMsV2Zp9Ua2tnb4LjK3no9Os&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ0dptjS6PrYEcEq1Y_ivFQLbEPPHHaR93BGBvdK5K3fkFG_bzG9pRyi1hUoNQ4sBiBmkA0XBTRTQ&amp;oh=00_AQKP6uphbnVE5zY2JjL_zp1RqAju8DX-JFUAdwni6qnKDA&amp;oe=6AA39301&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/784198286_18470736178113673_1022777469769379688_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=2AGwJ_8a4jIQ7kNvwH5wqcY&amp;_nc_oc=AdpHcH0-l_kJQ-8IDzVA1YlvZ_Sc29WycKCu0_qrVjZIMsV2Zp9Ua2tnb4LjK3no9Os&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ0dptjS6PrYEcEq1Y_ivFQLbEPPHHaR93BGBvdK5K3fkFG_bzG9pRyi1hUoNQ4sBiBmkA0XBTRTQ&amp;oh=00_AQKP6uphbnVE5zY2JjL_zp1RqAju8DX-JFUAdwni6qnKDA&amp;oe=6AA39301&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/784198286_18470736178113673_1022777469769379688_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=2AGwJ_8a4jIQ7kNvwH5wqcY&amp;_nc_oc=AdpHcH0-l_kJQ-8IDzVA1YlvZ_Sc29WycKCu0_qrVjZIMsV2Zp9Ua2tnb4LjK3no9Os&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ0dptjS6PrYEcEq1Y_ivFQLbEPPHHaR93BGBvdK5K3fkFG_bzG9pRyi1hUoNQ4sBiBmkA0XBTRTQ&amp;oh=00_AQKP6uphbnVE5zY2JjL_zp1RqAju8DX-JFUAdwni6qnKDA&amp;oe=6AA39301&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/784198286_18470736178113673_1022777469769379688_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=2AGwJ_8a4jIQ7kNvwH5wqcY&amp;_nc_oc=AdpHcH0-l_kJQ-8IDzVA1YlvZ_Sc29WycKCu0_qrVjZIMsV2Zp9Ua2tnb4LjK3no9Os&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ0dptjS6PrYEcEq1Y_ivFQLbEPPHHaR93BGBvdK5K3fkFG_bzG9pRyi1hUoNQ4sBiBmkA0XBTRTQ&amp;oh=00_AQKP6uphbnVE5zY2JjL_zp1RqAju8DX-JFUAdwni6qnKDA&amp;oe=6AA39301&quot;}">
+            <span class="sbi-screenreader">無理な食事制限ナシ👌🏻プロラボホ</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="無理な食事制限ナシ👌🏻プロラボホールディングス『メタスレンディア』を紹介します🔥
+
+食事制限と聞くとダイエットを連想する方も多いと思いますが、メタスレンディアはダイエットを意識してない方にも注目いただきたいサプリメント💊✨
+
+血糖値のコントロールが強みなので、体型はそこまで気にならないけど、食べすぎちゃうから無理なくコントロールしたい💦
+ボディケアやインナーケアに興味がある👀
+このようなお悩みや興味がある方にもおすすめです。
+
+植物由来原料メタボレードとは❓
+スペインのモンテローダ社が開発した特許取得原料。
+レモンバーベナ抽出物とハイビスカス抽出物を独自技術で組み合わせており、メタスレンディアには、このメタボレードが500mg配合されています🌿🌺
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#メタスレンディア#サプリメント#ダイエット#食事制限" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="無理な食事制限ナシ👌🏻プロラボホールディングス『メタスレンディア』を紹介します🔥
+
+食事制限と聞くとダイエットを連想する方も多いと思いますが、メタスレンディアはダイエットを意識してない方にも注目いただきたいサプリメント💊✨
+
+血糖値のコントロールが強みなので、体型はそこまで気にならないけど、食べすぎちゃうから無理なくコントロールしたい💦
+ボディケアやインナーケアに興味がある👀
+このようなお悩みや興味がある方にもおすすめです。
+
+植物由来原料メタボレードとは❓
+スペインのモンテローダ社が開発した特許取得原料。
+レモンバーベナ抽出物とハイビスカス抽出物を独自技術で組み合わせており、メタスレンディアには、このメタボレードが500mg配合されています🌿🌺
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#メタスレンディア#サプリメント#ダイエット#食事制限" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18057526679615525" data-date="1787216402">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DcQZBQ-FIH5/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/778380974_18469989445113673_3614053980965392252_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=104&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=Js2D6ZYLXVYQ7kNvwFj6nlK&#038;_nc_oc=AdrdMJy44PTmsc9777swX0CYy_o7M030_m9UFOnWzSoUDvDi8QpPAKbljkYsUdTyvt8&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQJNkmhu2sTjtnetl-qmat7kJg1-QcCl0TJwdhHv_mxsgTpYTU5yXYk0PUgi1YxfL7B-bp9pYEpjjg&#038;oh=00_AQIESiex_ufF6pkI4PNklVt02TorsqEHBhJjgr-_U_-ACw&#038;oe=6AA38310" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/778380974_18469989445113673_3614053980965392252_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Js2D6ZYLXVYQ7kNvwFj6nlK&amp;_nc_oc=AdrdMJy44PTmsc9777swX0CYy_o7M030_m9UFOnWzSoUDvDi8QpPAKbljkYsUdTyvt8&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJNkmhu2sTjtnetl-qmat7kJg1-QcCl0TJwdhHv_mxsgTpYTU5yXYk0PUgi1YxfL7B-bp9pYEpjjg&amp;oh=00_AQIESiex_ufF6pkI4PNklVt02TorsqEHBhJjgr-_U_-ACw&amp;oe=6AA38310&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/778380974_18469989445113673_3614053980965392252_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Js2D6ZYLXVYQ7kNvwFj6nlK&amp;_nc_oc=AdrdMJy44PTmsc9777swX0CYy_o7M030_m9UFOnWzSoUDvDi8QpPAKbljkYsUdTyvt8&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJNkmhu2sTjtnetl-qmat7kJg1-QcCl0TJwdhHv_mxsgTpYTU5yXYk0PUgi1YxfL7B-bp9pYEpjjg&amp;oh=00_AQIESiex_ufF6pkI4PNklVt02TorsqEHBhJjgr-_U_-ACw&amp;oe=6AA38310&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/778380974_18469989445113673_3614053980965392252_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Js2D6ZYLXVYQ7kNvwFj6nlK&amp;_nc_oc=AdrdMJy44PTmsc9777swX0CYy_o7M030_m9UFOnWzSoUDvDi8QpPAKbljkYsUdTyvt8&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJNkmhu2sTjtnetl-qmat7kJg1-QcCl0TJwdhHv_mxsgTpYTU5yXYk0PUgi1YxfL7B-bp9pYEpjjg&amp;oh=00_AQIESiex_ufF6pkI4PNklVt02TorsqEHBhJjgr-_U_-ACw&amp;oe=6AA38310&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/778380974_18469989445113673_3614053980965392252_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=104&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Js2D6ZYLXVYQ7kNvwFj6nlK&amp;_nc_oc=AdrdMJy44PTmsc9777swX0CYy_o7M030_m9UFOnWzSoUDvDi8QpPAKbljkYsUdTyvt8&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJNkmhu2sTjtnetl-qmat7kJg1-QcCl0TJwdhHv_mxsgTpYTU5yXYk0PUgi1YxfL7B-bp9pYEpjjg&amp;oh=00_AQIESiex_ufF6pkI4PNklVt02TorsqEHBhJjgr-_U_-ACw&amp;oe=6AA38310&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="白髪ケア、育毛ケアを1本で解決できるから幅広い世代に訴求ができる💪🏻ホーユーのグランケアYSの紹介です🍃
+
+ファッションカラーをできるだけ長く楽しんでもらいたい😌❣️
+だからこそ、白髪予防習慣を身につけ土台ケアで未来の白髪リスクを減らす、ありそうでなかったコンセプトのアイテムです。
+
+育毛や抜け毛の悩みを真剣に考え始める20代後半〜30代には、白髪予防もできる未来のケアを💫
+白髪に悩む40代〜50代には、さらに育毛効果への期待も🥹
+幅広い世代に2つのエイジング悩みを訴求できるので、紹介しやすいのもポイントです☝🏻
+
+キー成分はハーブの一種である『ヤーバサンタ🌿』
+ステルビンを多く含む、ヤーバサンタが白髪予防・改善・育毛効果を発揮すると言われています。
+とくに目を引くのは、白髪改善もできると言われてるところ🤔
+ステルビンは色素細胞と色素幹細胞の両方に作用するため、メラニンの活性化や産生効果が期待できるとか🥹
+
+すでにお悩みの方にも、未来のために今から先行投資したい方にぜひおすすめしてみては❓
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ホーユー#白髪ケア#育毛ケア#サロン専売品" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="白髪ケア、育毛ケアを1本で解決できるから幅広い世代に訴求ができる💪🏻ホーユーのグランケアYSの紹介です🍃
+
+ファッションカラーをできるだけ長く楽しんでもらいたい😌❣️
+だからこそ、白髪予防習慣を身につけ土台ケアで未来の白髪リスクを減らす、ありそうでなかったコンセプトのアイテムです。
+
+育毛や抜け毛の悩みを真剣に考え始める20代後半〜30代には、白髪予防もできる未来のケアを💫
+白髪に悩む40代〜50代には、さらに育毛効果への期待も🥹
+幅広い世代に2つのエイジング悩みを訴求できるので、紹介しやすいのもポイントです☝🏻
+
+キー成分はハーブの一種である『ヤーバサンタ🌿』
+ステルビンを多く含む、ヤーバサンタが白髪予防・改善・育毛効果を発揮すると言われています。
+とくに目を引くのは、白髪改善もできると言われてるところ🤔
+ステルビンは色素細胞と色素幹細胞の両方に作用するため、メラニンの活性化や産生効果が期待できるとか🥹
+
+すでにお悩みの方にも、未来のために今から先行投資したい方にぜひおすすめしてみては❓
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ホーユー#白髪ケア#育毛ケア#サロン専売品" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17960079575980616" data-date="1786957202">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DcIqsI-FIor/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/774745380_18469341493113673_6060917941925238863_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=URvkD14ADCEQ7kNvwGvLM1d&#038;_nc_oc=AdqgQjhLtSm14HFlwKCv1wRAUEOZP4AyMcaON1586YAJXfnHqg_WKB6srUtaR5hnQJo&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQKv064RVr-IMErlHoaRvXJs7FnbzVo2jdpT102N7QMYfLa34sXd9Y2MnK8CTrWNpb-wrmRyW93FwQ&#038;oh=00_AQIReEpuvd4Ii34J_A3GL1MNEZLIvCn5K-1JM4tw8bPACg&#038;oe=6AA39777" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774745380_18469341493113673_6060917941925238863_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=URvkD14ADCEQ7kNvwGvLM1d&amp;_nc_oc=AdqgQjhLtSm14HFlwKCv1wRAUEOZP4AyMcaON1586YAJXfnHqg_WKB6srUtaR5hnQJo&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQKv064RVr-IMErlHoaRvXJs7FnbzVo2jdpT102N7QMYfLa34sXd9Y2MnK8CTrWNpb-wrmRyW93FwQ&amp;oh=00_AQIReEpuvd4Ii34J_A3GL1MNEZLIvCn5K-1JM4tw8bPACg&amp;oe=6AA39777&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774745380_18469341493113673_6060917941925238863_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=URvkD14ADCEQ7kNvwGvLM1d&amp;_nc_oc=AdqgQjhLtSm14HFlwKCv1wRAUEOZP4AyMcaON1586YAJXfnHqg_WKB6srUtaR5hnQJo&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQKv064RVr-IMErlHoaRvXJs7FnbzVo2jdpT102N7QMYfLa34sXd9Y2MnK8CTrWNpb-wrmRyW93FwQ&amp;oh=00_AQIReEpuvd4Ii34J_A3GL1MNEZLIvCn5K-1JM4tw8bPACg&amp;oe=6AA39777&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774745380_18469341493113673_6060917941925238863_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=URvkD14ADCEQ7kNvwGvLM1d&amp;_nc_oc=AdqgQjhLtSm14HFlwKCv1wRAUEOZP4AyMcaON1586YAJXfnHqg_WKB6srUtaR5hnQJo&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQKv064RVr-IMErlHoaRvXJs7FnbzVo2jdpT102N7QMYfLa34sXd9Y2MnK8CTrWNpb-wrmRyW93FwQ&amp;oh=00_AQIReEpuvd4Ii34J_A3GL1MNEZLIvCn5K-1JM4tw8bPACg&amp;oe=6AA39777&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774745380_18469341493113673_6060917941925238863_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=URvkD14ADCEQ7kNvwGvLM1d&amp;_nc_oc=AdqgQjhLtSm14HFlwKCv1wRAUEOZP4AyMcaON1586YAJXfnHqg_WKB6srUtaR5hnQJo&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQKv064RVr-IMErlHoaRvXJs7FnbzVo2jdpT102N7QMYfLa34sXd9Y2MnK8CTrWNpb-wrmRyW93FwQ&amp;oh=00_AQIReEpuvd4Ii34J_A3GL1MNEZLIvCn5K-1JM4tw8bPACg&amp;oe=6AA39777&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="取り扱いスタート▶️ラダメールのブースター化粧水の紹介です🍃
+
+リピーター続出中の、拭き取りパッドとセラムでお馴染みのラダメールから、ついに化粧水が登場しました🥹👏
+
+モイスチャーローションは、単なる保湿化粧水ではなく、肌の土台を整えて、次に使用するスキンケアの効果を最大限に引き出してくれるブースター化粧水⚡️⚡️
+サラッとしたテクスチャーなのに、肌に馴染ませるともっちり&amp;ぷるんとして、ベタつく感じとはまた違うなんとも言えない使用感にファンになる方も多いはず☺️
+
+500mlの大容量なので、全身の保湿に使用や、ご家族でのシェアにもおすすめです👍
+
+夏の日差し☀️エアコン🌪️汗💦
+でハードな環境に晒されたお肌にたっぷり潤いを与えて、秋冬を乾燥知らずのお肌に導きませんか❓
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ラダメール#スキンケア#韓国コスメ#サロン専売品" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="取り扱いスタート▶️ラダメールのブースター化粧水の紹介です🍃
+
+リピーター続出中の、拭き取りパッドとセラムでお馴染みのラダメールから、ついに化粧水が登場しました🥹👏
+
+モイスチャーローションは、単なる保湿化粧水ではなく、肌の土台を整えて、次に使用するスキンケアの効果を最大限に引き出してくれるブースター化粧水⚡️⚡️
+サラッとしたテクスチャーなのに、肌に馴染ませるともっちり&amp;ぷるんとして、ベタつく感じとはまた違うなんとも言えない使用感にファンになる方も多いはず☺️
+
+500mlの大容量なので、全身の保湿に使用や、ご家族でのシェアにもおすすめです👍
+
+夏の日差し☀️エアコン🌪️汗💦
+でハードな環境に晒されたお肌にたっぷり潤いを与えて、秋冬を乾燥知らずのお肌に導きませんか❓
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ラダメール#スキンケア#韓国コスメ#サロン専売品" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18140792260567381" data-date="1786611603">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Db-XexdlOcD/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/774313625_18468483874113673_5443499840298908962_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=100&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=8RDr-QoC_7MQ7kNvwHSa9Fe&#038;_nc_oc=AdqngpT8xTibBl9FFX9WmBl4nHwq-FZ2WNDTvHDqinZSwTY_i9RSNdugiw-AF-h_ZRU&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQJ4TSoDj27hAltOURFkApjz9rqbVFs_vak_zRkJc_30cR37mSGIGh4OzQiOUuJVKmADvSUMuY_FFw&#038;oh=00_AQJIcLi7bmS1uqDK6AhCoFZIUrZMtJGIc6FWk-nlWrYqyQ&#038;oe=6AA386B6" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774313625_18468483874113673_5443499840298908962_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8RDr-QoC_7MQ7kNvwHSa9Fe&amp;_nc_oc=AdqngpT8xTibBl9FFX9WmBl4nHwq-FZ2WNDTvHDqinZSwTY_i9RSNdugiw-AF-h_ZRU&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ4TSoDj27hAltOURFkApjz9rqbVFs_vak_zRkJc_30cR37mSGIGh4OzQiOUuJVKmADvSUMuY_FFw&amp;oh=00_AQJIcLi7bmS1uqDK6AhCoFZIUrZMtJGIc6FWk-nlWrYqyQ&amp;oe=6AA386B6&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774313625_18468483874113673_5443499840298908962_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8RDr-QoC_7MQ7kNvwHSa9Fe&amp;_nc_oc=AdqngpT8xTibBl9FFX9WmBl4nHwq-FZ2WNDTvHDqinZSwTY_i9RSNdugiw-AF-h_ZRU&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ4TSoDj27hAltOURFkApjz9rqbVFs_vak_zRkJc_30cR37mSGIGh4OzQiOUuJVKmADvSUMuY_FFw&amp;oh=00_AQJIcLi7bmS1uqDK6AhCoFZIUrZMtJGIc6FWk-nlWrYqyQ&amp;oe=6AA386B6&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774313625_18468483874113673_5443499840298908962_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8RDr-QoC_7MQ7kNvwHSa9Fe&amp;_nc_oc=AdqngpT8xTibBl9FFX9WmBl4nHwq-FZ2WNDTvHDqinZSwTY_i9RSNdugiw-AF-h_ZRU&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ4TSoDj27hAltOURFkApjz9rqbVFs_vak_zRkJc_30cR37mSGIGh4OzQiOUuJVKmADvSUMuY_FFw&amp;oh=00_AQJIcLi7bmS1uqDK6AhCoFZIUrZMtJGIc6FWk-nlWrYqyQ&amp;oe=6AA386B6&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/774313625_18468483874113673_5443499840298908962_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=8RDr-QoC_7MQ7kNvwHSa9Fe&amp;_nc_oc=AdqngpT8xTibBl9FFX9WmBl4nHwq-FZ2WNDTvHDqinZSwTY_i9RSNdugiw-AF-h_ZRU&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ4TSoDj27hAltOURFkApjz9rqbVFs_vak_zRkJc_30cR37mSGIGh4OzQiOUuJVKmADvSUMuY_FFw&amp;oh=00_AQJIcLi7bmS1uqDK6AhCoFZIUrZMtJGIc6FWk-nlWrYqyQ&amp;oe=6AA386B6&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="デミコスメティクスから新ブランドが登場🍯
+9月4日デビューのFetee(フェテ)のオイルを紹介します👀
+
+調香師によるオリジナルの香りは、どれも美味しそうな香りばかり🫠
+トレンドでもあるネオグルマン系でありながら心地よさを感じるので、強すぎる香りが苦手な方にも使いやすいオイルではないでしょうか🤔
+
+また、フェテは持ち歩けるヘアオイルをコンセプトとしており、外出先でもお直しがしやすい軽いテクスチャーのオイルとなっています。
+28mlのサイズはポーチに入れてもかさばらないですし、プレゼントにも良さそう❣️
+
+補修成分や保湿成分も含まれているため、ケアしながら香りを纏えるオイルです✨
+
+香りは3種類👇
+🫖ソフトムスクティー
+🍬キャラメルデイドリーム
+🪽カシミヤフィグ
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#デミ#ヘアオイル#フレグランスオイル#サロン専売品" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="デミコスメティクスから新ブランドが登場🍯
+9月4日デビューのFetee(フェテ)のオイルを紹介します👀
+
+調香師によるオリジナルの香りは、どれも美味しそうな香りばかり🫠
+トレンドでもあるネオグルマン系でありながら心地よさを感じるので、強すぎる香りが苦手な方にも使いやすいオイルではないでしょうか🤔
+
+また、フェテは持ち歩けるヘアオイルをコンセプトとしており、外出先でもお直しがしやすい軽いテクスチャーのオイルとなっています。
+28mlのサイズはポーチに入れてもかさばらないですし、プレゼントにも良さそう❣️
+
+補修成分や保湿成分も含まれているため、ケアしながら香りを纏えるオイルです✨
+
+香りは3種類👇
+🫖ソフトムスクティー
+🍬キャラメルデイドリーム
+🪽カシミヤフィグ
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#デミ#ヘアオイル#フレグランスオイル#サロン専売品" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18119904274857835" data-date="1786352403">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Db2pHNBlACV/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/770938372_18467967700113673_2323145981410614352_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=Zb9bOynVAhUQ7kNvwFdSVQ8&#038;_nc_oc=AdoMB5Hh2TehKenSASEG_jIQ49ybv0dTbJnkb_r8KIxYzdglhGwby0XqIWVXo-6PTRA&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQJwtjSS0XSPfXfBoIm0aT0_TMBwQJ4c0B_87O4JpxnP5xp33gnqpR2tn1C-YpMMbtYBhkMSPXk4ow&#038;oh=00_AQJ-vMCj3gV1AGuqXCuoNJg-FS9grJ-i8Fn8wMU-scDADg&#038;oe=6AA36E90" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/770938372_18467967700113673_2323145981410614352_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zb9bOynVAhUQ7kNvwFdSVQ8&amp;_nc_oc=AdoMB5Hh2TehKenSASEG_jIQ49ybv0dTbJnkb_r8KIxYzdglhGwby0XqIWVXo-6PTRA&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJwtjSS0XSPfXfBoIm0aT0_TMBwQJ4c0B_87O4JpxnP5xp33gnqpR2tn1C-YpMMbtYBhkMSPXk4ow&amp;oh=00_AQJ-vMCj3gV1AGuqXCuoNJg-FS9grJ-i8Fn8wMU-scDADg&amp;oe=6AA36E90&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/770938372_18467967700113673_2323145981410614352_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zb9bOynVAhUQ7kNvwFdSVQ8&amp;_nc_oc=AdoMB5Hh2TehKenSASEG_jIQ49ybv0dTbJnkb_r8KIxYzdglhGwby0XqIWVXo-6PTRA&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJwtjSS0XSPfXfBoIm0aT0_TMBwQJ4c0B_87O4JpxnP5xp33gnqpR2tn1C-YpMMbtYBhkMSPXk4ow&amp;oh=00_AQJ-vMCj3gV1AGuqXCuoNJg-FS9grJ-i8Fn8wMU-scDADg&amp;oe=6AA36E90&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/770938372_18467967700113673_2323145981410614352_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zb9bOynVAhUQ7kNvwFdSVQ8&amp;_nc_oc=AdoMB5Hh2TehKenSASEG_jIQ49ybv0dTbJnkb_r8KIxYzdglhGwby0XqIWVXo-6PTRA&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJwtjSS0XSPfXfBoIm0aT0_TMBwQJ4c0B_87O4JpxnP5xp33gnqpR2tn1C-YpMMbtYBhkMSPXk4ow&amp;oh=00_AQJ-vMCj3gV1AGuqXCuoNJg-FS9grJ-i8Fn8wMU-scDADg&amp;oe=6AA36E90&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/770938372_18467967700113673_2323145981410614352_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zb9bOynVAhUQ7kNvwFdSVQ8&amp;_nc_oc=AdoMB5Hh2TehKenSASEG_jIQ49ybv0dTbJnkb_r8KIxYzdglhGwby0XqIWVXo-6PTRA&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJwtjSS0XSPfXfBoIm0aT0_TMBwQJ4c0B_87O4JpxnP5xp33gnqpR2tn1C-YpMMbtYBhkMSPXk4ow&amp;oh=00_AQJ-vMCj3gV1AGuqXCuoNJg-FS9grJ-i8Fn8wMU-scDADg&amp;oe=6AA36E90&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="ミルボンから待望のメンズスタイリングシリーズが9月10日に発売💡
+
+キャプチャーザモーメントのコンセプトは
+シンプルで使いやすく続けやすい、自然体な毎日に少しのアクセントを加えてくれるシリーズとなっています🌅
+
+ネイビーのパッケージはドライな仕上がり💨
+オレンジのパッケージはツヤ感のある仕上がり✨
+
+ラインナップは全7種🌈
+◼️グリップジェル
+どんなスタイルもカチッとキープ
+
+◼️ハードグリース
+ひと撫でで立ち上げ、動かした髪を固めずにウェットな質感をキープ
+
+◼️ソフトグリース
+髪質を問わず動かせ、ウェットな質感と束感を固めずにホールド
+
+◼️ナチュラルクリーム
+ナチュラルなツヤとまとまりが、重くならずに続く
+
+◼️ハードワックス
+セミマットな質感なのに、馴染ませやすく無造作に動かせる
+
+◼️ラフワックス
+ふんわりとした束感がベタつかず続き、手直しできる
+
+◼️ドライクリーム
+指通りよく、素髪のような質感がパサつかずに続く
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ミルボン#メンズスタイリング#スタイリング剤#サロン専売品" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="ミルボンから待望のメンズスタイリングシリーズが9月10日に発売💡
+
+キャプチャーザモーメントのコンセプトは
+シンプルで使いやすく続けやすい、自然体な毎日に少しのアクセントを加えてくれるシリーズとなっています🌅
+
+ネイビーのパッケージはドライな仕上がり💨
+オレンジのパッケージはツヤ感のある仕上がり✨
+
+ラインナップは全7種🌈
+◼️グリップジェル
+どんなスタイルもカチッとキープ
+
+◼️ハードグリース
+ひと撫でで立ち上げ、動かした髪を固めずにウェットな質感をキープ
+
+◼️ソフトグリース
+髪質を問わず動かせ、ウェットな質感と束感を固めずにホールド
+
+◼️ナチュラルクリーム
+ナチュラルなツヤとまとまりが、重くならずに続く
+
+◼️ハードワックス
+セミマットな質感なのに、馴染ませやすく無造作に動かせる
+
+◼️ラフワックス
+ふんわりとした束感がベタつかず続き、手直しできる
+
+◼️ドライクリーム
+指通りよく、素髪のような質感がパサつかずに続く
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#ミルボン#メンズスタイリング#スタイリング剤#サロン専売品" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17862695778662259" data-date="1786006802">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DbsV3fGFJlQ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/765983635_18467245549113673_8685020945332562880_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=cpIzPNIuu5cQ7kNvwHjRW72&#038;_nc_oc=Adqq70l3bjH3r51keStU9QBAkSmV75itjAU3b962E0HbkGPXUHhtiMnLK9t5KeIXXBs&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQLGCdYtXn-jO3Hg4LGFsyZO0N0kTox3WY3vreZs3uWdx_3dQBhVXISbhLk88T_cS89pc3FDdtN_3Q&#038;oh=00_AQJYN3klALTC3rQBBZysf9ZVuvFoO0FJnM41eGlVTqeCng&#038;oe=6AA3787B" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/765983635_18467245549113673_8685020945332562880_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=cpIzPNIuu5cQ7kNvwHjRW72&amp;_nc_oc=Adqq70l3bjH3r51keStU9QBAkSmV75itjAU3b962E0HbkGPXUHhtiMnLK9t5KeIXXBs&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQLGCdYtXn-jO3Hg4LGFsyZO0N0kTox3WY3vreZs3uWdx_3dQBhVXISbhLk88T_cS89pc3FDdtN_3Q&amp;oh=00_AQJYN3klALTC3rQBBZysf9ZVuvFoO0FJnM41eGlVTqeCng&amp;oe=6AA3787B&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/765983635_18467245549113673_8685020945332562880_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=cpIzPNIuu5cQ7kNvwHjRW72&amp;_nc_oc=Adqq70l3bjH3r51keStU9QBAkSmV75itjAU3b962E0HbkGPXUHhtiMnLK9t5KeIXXBs&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQLGCdYtXn-jO3Hg4LGFsyZO0N0kTox3WY3vreZs3uWdx_3dQBhVXISbhLk88T_cS89pc3FDdtN_3Q&amp;oh=00_AQJYN3klALTC3rQBBZysf9ZVuvFoO0FJnM41eGlVTqeCng&amp;oe=6AA3787B&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/765983635_18467245549113673_8685020945332562880_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=cpIzPNIuu5cQ7kNvwHjRW72&amp;_nc_oc=Adqq70l3bjH3r51keStU9QBAkSmV75itjAU3b962E0HbkGPXUHhtiMnLK9t5KeIXXBs&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQLGCdYtXn-jO3Hg4LGFsyZO0N0kTox3WY3vreZs3uWdx_3dQBhVXISbhLk88T_cS89pc3FDdtN_3Q&amp;oh=00_AQJYN3klALTC3rQBBZysf9ZVuvFoO0FJnM41eGlVTqeCng&amp;oe=6AA3787B&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/765983635_18467245549113673_8685020945332562880_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=cpIzPNIuu5cQ7kNvwHjRW72&amp;_nc_oc=Adqq70l3bjH3r51keStU9QBAkSmV75itjAU3b962E0HbkGPXUHhtiMnLK9t5KeIXXBs&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQLGCdYtXn-jO3Hg4LGFsyZO0N0kTox3WY3vreZs3uWdx_3dQBhVXISbhLk88T_cS89pc3FDdtN_3Q&amp;oh=00_AQJYN3klALTC3rQBBZysf9ZVuvFoO0FJnM41eGlVTqeCng&amp;oe=6AA3787B&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="1DKから頭皮クレンジング「1DKスカルプクレイ」が登場🪨
+
+天然由来成分100%にこだわり、洗いながら整える処方を実現したクレイタイプの頭皮クレンジングです💆🏻‍♀️
+美人の湯で有名な榊原温泉水と、優れた皮脂吸着力で毛穴の皮脂や汚れ、古い角質の除去を促進する2種のクレイを配合し、頭皮はもちろん毛髪に適度な弾力としっとりとした質感を与えてくれます🥹
+
+サロンメニューとして、クレンジングやヘッドスパでの導入にも活用できますし、ホームケアとして週1のクレンジング習慣を呼びかけるアイテムとしてもおすすめ👌🏻❣️
+
+程よい清涼感で、頭皮からリフレッシュするのはいかがでしょうか🌊🌿
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#1DK#頭皮クレンジング#ヘッドスパ#クレイクレンジング" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="1DKから頭皮クレンジング「1DKスカルプクレイ」が登場🪨
+
+天然由来成分100%にこだわり、洗いながら整える処方を実現したクレイタイプの頭皮クレンジングです💆🏻‍♀️
+美人の湯で有名な榊原温泉水と、優れた皮脂吸着力で毛穴の皮脂や汚れ、古い角質の除去を促進する2種のクレイを配合し、頭皮はもちろん毛髪に適度な弾力としっとりとした質感を与えてくれます🥹
+
+サロンメニューとして、クレンジングやヘッドスパでの導入にも活用できますし、ホームケアとして週1のクレンジング習慣を呼びかけるアイテムとしてもおすすめ👌🏻❣️
+
+程よい清涼感で、頭皮からリフレッシュするのはいかがでしょうか🌊🌿
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#1DK#頭皮クレンジング#ヘッドスパ#クレイクレンジング" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18350510335219019" data-date="1785759468">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/Dbk-HqtFNbz/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/762883545_18466759489113673_6610623649031066470_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=p9yoU-tc8Y8Q7kNvwEw2NWE&#038;_nc_oc=Adrsc2Q5Z3ayBmIzCR5pFivg1cMXcrSdKykSSCV9KWrNSZ0600U26-9p_13a35jJA9Q&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQJ-itZPufcr_oU-Kbl7hjKUhayNwZr9WoEFTigtd5Eb3O4smksFyAWDiJ8prSqc3FMAC7E0LHPzOQ&#038;oh=00_AQJ0P6kJGmsEYFvzb6gEn66jAmhyOt5se8DdIhOmGT11YQ&#038;oe=6AA37EE9" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/762883545_18466759489113673_6610623649031066470_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=p9yoU-tc8Y8Q7kNvwEw2NWE&amp;_nc_oc=Adrsc2Q5Z3ayBmIzCR5pFivg1cMXcrSdKykSSCV9KWrNSZ0600U26-9p_13a35jJA9Q&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ-itZPufcr_oU-Kbl7hjKUhayNwZr9WoEFTigtd5Eb3O4smksFyAWDiJ8prSqc3FMAC7E0LHPzOQ&amp;oh=00_AQJ0P6kJGmsEYFvzb6gEn66jAmhyOt5se8DdIhOmGT11YQ&amp;oe=6AA37EE9&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/762883545_18466759489113673_6610623649031066470_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=p9yoU-tc8Y8Q7kNvwEw2NWE&amp;_nc_oc=Adrsc2Q5Z3ayBmIzCR5pFivg1cMXcrSdKykSSCV9KWrNSZ0600U26-9p_13a35jJA9Q&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ-itZPufcr_oU-Kbl7hjKUhayNwZr9WoEFTigtd5Eb3O4smksFyAWDiJ8prSqc3FMAC7E0LHPzOQ&amp;oh=00_AQJ0P6kJGmsEYFvzb6gEn66jAmhyOt5se8DdIhOmGT11YQ&amp;oe=6AA37EE9&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/762883545_18466759489113673_6610623649031066470_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=p9yoU-tc8Y8Q7kNvwEw2NWE&amp;_nc_oc=Adrsc2Q5Z3ayBmIzCR5pFivg1cMXcrSdKykSSCV9KWrNSZ0600U26-9p_13a35jJA9Q&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ-itZPufcr_oU-Kbl7hjKUhayNwZr9WoEFTigtd5Eb3O4smksFyAWDiJ8prSqc3FMAC7E0LHPzOQ&amp;oh=00_AQJ0P6kJGmsEYFvzb6gEn66jAmhyOt5se8DdIhOmGT11YQ&amp;oe=6AA37EE9&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/762883545_18466759489113673_6610623649031066470_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=p9yoU-tc8Y8Q7kNvwEw2NWE&amp;_nc_oc=Adrsc2Q5Z3ayBmIzCR5pFivg1cMXcrSdKykSSCV9KWrNSZ0600U26-9p_13a35jJA9Q&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQJ-itZPufcr_oU-Kbl7hjKUhayNwZr9WoEFTigtd5Eb3O4smksFyAWDiJ8prSqc3FMAC7E0LHPzOQ&amp;oh=00_AQJ0P6kJGmsEYFvzb6gEn66jAmhyOt5se8DdIhOmGT11YQ&amp;oe=6AA37EE9&quot;}">
+            <span class="sbi-screenreader">【ツヤでるりん】
+
+もう、複雑にしな</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="【ツヤでるりん】
+
+もう、複雑にしない。
+
+突然ですが、日々のサロンワークで、こんなことを感じたことはございませんか？💁
+☑︎ 商材が増えすぎている
+☑︎ 薬剤の用途が複雑で、使い分けが難しかったり、有効活用ができていない
+☑︎ メニューが増えすぎて整理できていない
+☑︎ 技術理論が複雑で、価値が伝わりにくかったり、スタッフ教育に時間がかかる
+
+もしそんな「足し算」のサロンワークを感じたことがあったり、情報過多で悩んでしまった時は、一度『ツヤでるりん』という選択肢を考えてみませんか？🧑‍🏫
+
+研ぎ澄まされた9つのプロダクトが、
+カラー、ブリーチ、パーマ、縮毛矯正、システムトリートメント、酸熱トリートメント、薬剤の中和処理まで、どんな施術もシンプルかつハイクオリティを実現する、再現性の高いアイテムです🙌
+
+複雑な時代だからこそ、サロンワークをもっとシンプルに。
+そして、何よりもお客様に感動される&quot;ツヤ&quot;を✨✨
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#fujishin#ツヤでるりん#髪質改善#ツヤ" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="【ツヤでるりん】
+
+もう、複雑にしない。
+
+突然ですが、日々のサロンワークで、こんなことを感じたことはございませんか？💁
+☑︎ 商材が増えすぎている
+☑︎ 薬剤の用途が複雑で、使い分けが難しかったり、有効活用ができていない
+☑︎ メニューが増えすぎて整理できていない
+☑︎ 技術理論が複雑で、価値が伝わりにくかったり、スタッフ教育に時間がかかる
+
+もしそんな「足し算」のサロンワークを感じたことがあったり、情報過多で悩んでしまった時は、一度『ツヤでるりん』という選択肢を考えてみませんか？🧑‍🏫
+
+研ぎ澄まされた9つのプロダクトが、
+カラー、ブリーチ、パーマ、縮毛矯正、システムトリートメント、酸熱トリートメント、薬剤の中和処理まで、どんな施術もシンプルかつハイクオリティを実現する、再現性の高いアイテムです🙌
+
+複雑な時代だからこそ、サロンワークをもっとシンプルに。
+そして、何よりもお客様に感動される&quot;ツヤ&quot;を✨✨
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#fujishin#ツヤでるりん#髪質改善#ツヤ" data-eio="l"></noscript>
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18127648969708949" data-date="1785409037">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DbahuaNlOMv/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-itm1-1.cdninstagram.com/v/t51.82787-15/759179704_18466025992113673_5464243656262331918_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=107&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=ISgXZVOFl5oQ7kNvwHcwUVo&#038;_nc_oc=Adr9wsJ_FpHvZQINLUD3jrz9QVmYgD68IUUv4y5F7Juy-mwX2x3A70Yfz4XzyEuS6tE&#038;_nc_zt=23&#038;_nc_ht=scontent-itm1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=dyESe4jz2OHsCuRcwasl2A&#038;_nc_tpa=Q5bMBQIjxm30ZocB1-OQZ8WhQpAzIzdOzLHPonneUIet8X-ZbR5XOqCRzxcW5edCmFLSo5x4fVnhgBm4QQ&#038;oh=00_AQIcltIKnMfqaTZbYhZ7TYqhuYykHwbXUp7coyyerREEFQ&#038;oe=6AA37F6B" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/759179704_18466025992113673_5464243656262331918_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ISgXZVOFl5oQ7kNvwHcwUVo&amp;_nc_oc=Adr9wsJ_FpHvZQINLUD3jrz9QVmYgD68IUUv4y5F7Juy-mwX2x3A70Yfz4XzyEuS6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjxm30ZocB1-OQZ8WhQpAzIzdOzLHPonneUIet8X-ZbR5XOqCRzxcW5edCmFLSo5x4fVnhgBm4QQ&amp;oh=00_AQIcltIKnMfqaTZbYhZ7TYqhuYykHwbXUp7coyyerREEFQ&amp;oe=6AA37F6B&quot;,&quot;150&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/759179704_18466025992113673_5464243656262331918_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ISgXZVOFl5oQ7kNvwHcwUVo&amp;_nc_oc=Adr9wsJ_FpHvZQINLUD3jrz9QVmYgD68IUUv4y5F7Juy-mwX2x3A70Yfz4XzyEuS6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjxm30ZocB1-OQZ8WhQpAzIzdOzLHPonneUIet8X-ZbR5XOqCRzxcW5edCmFLSo5x4fVnhgBm4QQ&amp;oh=00_AQIcltIKnMfqaTZbYhZ7TYqhuYykHwbXUp7coyyerREEFQ&amp;oe=6AA37F6B&quot;,&quot;320&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/759179704_18466025992113673_5464243656262331918_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ISgXZVOFl5oQ7kNvwHcwUVo&amp;_nc_oc=Adr9wsJ_FpHvZQINLUD3jrz9QVmYgD68IUUv4y5F7Juy-mwX2x3A70Yfz4XzyEuS6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjxm30ZocB1-OQZ8WhQpAzIzdOzLHPonneUIet8X-ZbR5XOqCRzxcW5edCmFLSo5x4fVnhgBm4QQ&amp;oh=00_AQIcltIKnMfqaTZbYhZ7TYqhuYykHwbXUp7coyyerREEFQ&amp;oe=6AA37F6B&quot;,&quot;640&quot;:&quot;https:\/\/scontent-itm1-1.cdninstagram.com\/v\/t51.82787-15\/759179704_18466025992113673_5464243656262331918_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ISgXZVOFl5oQ7kNvwHcwUVo&amp;_nc_oc=Adr9wsJ_FpHvZQINLUD3jrz9QVmYgD68IUUv4y5F7Juy-mwX2x3A70Yfz4XzyEuS6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-itm1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=dyESe4jz2OHsCuRcwasl2A&amp;_nc_tpa=Q5bMBQIjxm30ZocB1-OQZ8WhQpAzIzdOzLHPonneUIet8X-ZbR5XOqCRzxcW5edCmFLSo5x4fVnhgBm4QQ&amp;oh=00_AQIcltIKnMfqaTZbYhZ7TYqhuYykHwbXUp7coyyerREEFQ&amp;oe=6AA37F6B&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIwAQAAAAA9wny/AAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GhOvAAGIKt1oAAAAAElFTkSuQmCC" alt="【A.P.P. スカルプ シーエヌエフ バリア プラス】
+
+NO BARRIER
+NO COLOR 
+
+ヘアカラー特化の頭皮保護剤として名高い
+「スカルプ シーエヌエフ バリア」が、
+さらに使いやすく、流しやすくなってバージョンアップ🆙
+
+新発想のCNFテクノロジーが、カラー時の違和感の元を包み込み、頭皮への浸透を防ぎます🕊️
+カラー剤が頭皮に触れないため、頭皮への染まりを防ぎ、スムーズなカラーシャンプーをサポートしてくれます🙂‍↕️✨
+
+新たな取り組みとして、「認定サロンオンライントレーニング」もスタート。
+安心•安全の知識と対策をしっかりと学ぶこで、お客様に安心して、より長く、美しく、自由なカラーを楽しんでいただけます🌈🌈
+
+「頭皮リスクゼロ」をスタンダードに🤝
+
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#APP#エーピーピー#頭皮トラブル#ジアミン" data-src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" decoding="async" class="lazyload" data-eio-rwidth="1000" data-eio-rheight="560"><noscript><img src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png" alt="【A.P.P. スカルプ シーエヌエフ バリア プラス】
+
+NO BARRIER
+NO COLOR 
+
+ヘアカラー特化の頭皮保護剤として名高い
+「スカルプ シーエヌエフ バリア」が、
+さらに使いやすく、流しやすくなってバージョンアップ🆙
+
+新発想のCNFテクノロジーが、カラー時の違和感の元を包み込み、頭皮への浸透を防ぎます🕊️
+カラー剤が頭皮に触れないため、頭皮への染まりを防ぎ、スムーズなカラーシャンプーをサポートしてくれます🙂‍↕️✨
+
+新たな取り組みとして、「認定サロンオンライントレーニング」もスタート。
+安心•安全の知識と対策をしっかりと学ぶこで、お客様に安心して、より長く、美しく、自由なカラーを楽しんでいただけます🌈🌈
+
+「頭皮リスクゼロ」をスタンダードに🤝
+
+.
+.
+＊詳細は担当営業またはフジシンまでお問い合わせ下さい。
+.
+.
+#フジシン#APP#エーピーピー#頭皮トラブル#ジアミン" data-eio="l"></noscript>
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+			<a class="sbi_load_btn" href="javascript:void(0);">
+			<span class="sbi_btn_text">さらに読み込む</span>
+			<span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);" aria-hidden="true"></span>
+		</a>
+	
+			<span class="sbi_follow_btn sbi_custom">
+        <a href="https://www.instagram.com/fujishin_official/" style="background: rgb(64,139,209);" target="_blank" rel="nofollow noopener">
+            <svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            <span>Instagram でフォロー</span>
+        </a>
+    </span>
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*3" data-resized="{&quot;18127648969708949&quot;:{&quot;id&quot;:&quot;759179704_18466025992113673_5464243656262331918_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18350510335219019&quot;:{&quot;id&quot;:&quot;762883545_18466759489113673_6610623649031066470_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;17862695778662259&quot;:{&quot;id&quot;:&quot;765983635_18467245549113673_8685020945332562880_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18119904274857835&quot;:{&quot;id&quot;:&quot;770938372_18467967700113673_2323145981410614352_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18140792260567381&quot;:{&quot;id&quot;:&quot;774313625_18468483874113673_5443499840298908962_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;17960079575980616&quot;:{&quot;id&quot;:&quot;774745380_18469341493113673_6060917941925238863_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18057526679615525&quot;:{&quot;id&quot;:&quot;778380974_18469989445113673_3614053980965392252_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18189259936399465&quot;:{&quot;id&quot;:&quot;784198286_18470736178113673_1022777469769379688_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18071049560723518&quot;:{&quot;id&quot;:&quot;790880903_18472051492113673_4702656680443527415_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;}}">
+	</span>
+	</div>
+
+	<style type="text/css">
+				.sbi_header_palette_custom_3,
+		#sb_instagram.sbi_palette_custom_3,
+		#sbi_lightbox .sbi_lb-outerContainer .sbi_lb-dataContainer,
+		#sbi_lightbox .sbi_lightbox_tooltip,
+		#sbi_lightbox .sbi_share_close{
+			background: #000000;
+		}
+													</style>
+		<style type="text/css">
+				
+		#sb_instagram .sbi_follow_btn a:hover,
+		#sb_instagram .sbi_follow_btn a:focus{
+			outline: none;
+			box-shadow: inset 0 0 10px 20px #359dff;
+		}
+			</style>
+				</div>
+		</div>
+	</section>
+	<section class="footer-nav no-fadein">
+		<div class="cnt">
+			<nav class="no-fadein">
+				<a href="https://fujishin.co.jp/news/" class="no-fadein">NEWS</a>
+				<a href="https://fujishin.co.jp/about/" class="no-fadein">ABOUT</a>
+				<a href="https://fujishin.co.jp/seminar/" class="no-fadein">SEMINAR</a>
+				<a href="https://fujishin.co.jp/event" class="no-fadein">EVENT</a>
+				<a href="https://fujishin.co.jp/product" class="no-fadein">PRODUCT</a>
+				<a href="https://fujishin.co.jp/brand" class="no-fadein">BRAND</a>
+				<a href="https://fujishin.co.jp/studio" class="no-fadein">STUDIO</a>
+				<a href="https://fujishin.co.jp/recruit" class="no-fadein">RECRUIT</a>
+				<a href="https://fujishin.co.jp/privacy-policy" class="no-fadein">PRIVACY POLICY</a>
+			</nav>
+			<p class="copyright no-fadein">&copy;2026 Fujishin.</p>
+		</div>
+	</section>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/cms/wp-*.php","/cms/wp-admin/*","/cms/wp-content/uploads/*","/cms/wp-content/*","/cms/wp-content/plugins/*","/cms/wp-content/themes/fujishin/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://fujishin.co.jp/cms/wp-admin/admin-ajax.php";
+</script>
+<script id="eio-lazy-load-js-before">
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0,"use_dpr":1};
+//# sourceURL=eio-lazy-load-js-before
+</script>
+<script async data-wp-strategy="async" id="eio-lazy-load-js" src="https://fujishin.co.jp/cms/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=814"></script>
+<script id="swv-js" src="https://fujishin.co.jp/cms/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https://fujishin.co.jp/wp-json/","namespace":"contact-form-7/v1"}};
+//# sourceURL=contact-form-7-js-extra
+</script>
+<script id="contact-form-7-js" src="https://fujishin.co.jp/cms/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7"></script>
+<script id="main-script-js" src="https://fujishin.co.jp/cms/wp-content/themes/fujishin/select.js?ver=7.1"></script>
+<script id="jquery-core-js" src="https://fujishin.co.jp/cms/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://fujishin.co.jp/cms/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="sbi_scripts-js-extra">
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https://fujishin.co.jp/cms/wp-content/uploads/sb-instagram-feed-images/","placeholder":"https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/img/placeholder.png","ajax_url":"https://fujishin.co.jp/cms/wp-admin/admin-ajax.php"};
+//# sourceURL=sbi_scripts-js-extra
+</script>
+<script id="sbi_scripts-js" src="https://fujishin.co.jp/cms/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.6.1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://fujishin.co.jp/cms/wp-includes/js/wp-emoji-release.min.js?ver=7.1"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://fujishin.co.jp/cms/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+</html>

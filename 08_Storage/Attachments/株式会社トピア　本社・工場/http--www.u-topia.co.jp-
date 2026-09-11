@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="jp">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>株式会社トピア「試作」のリーディングカンパニー</title>
+    <meta name="keywords" content="トピア,三重県,鈴鹿市,一ノ宮町,カーボン,カーボン成形,カーボンコンポジット,CFRP,複合材加工,ホットプレス,プレス成形,量産技術,高強度,強度計算,熱硬化,熱可塑,異種材の結合,機械加工,ZAS型,航空宇宙,自動車,軽量化,技術開発,開発設計CAD,CAM,ATOS,三次元,3D,エイトス,デザイン,リバースエンジニアリング,試作,ホワイトボディ,精密機械加工,溶接" />
+    <meta name="description" content="自動車、電機、新製品開発試作のトピア" />
+    <meta name="copyright" content="Copyright &copy; Topia CO.,LTD.All Rights Reserved." />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link href="asset/css/general.css?v=20250103" rel="stylesheet">
+    <script src="asset/js/typekit.js"></script>
+    <!-- <script src="asset/js/video-player.js?up=20240618"></script> -->
+    <!-- WebAnalysis -->
+    <script src="/mode2_piwik/wa.js"></script><noscript><img src="/mode2_piwik/piwik.php?idsite=1" style="border:0;"></noscript><!-- End WebAnalysis -->
+
+    <!--Add 2025/06/22分析用-->
+    <script type="text/javascript" src="//api.docodoco.jp/v6/docodoco?key=TwJo0fDxlfirVCDvkLrBZCOmptXvSrIQOKdbQKoSHpL1wJj7yx90xIcCXtzvNt57&bake=1" referrerpolicy="no-referrer-when-downgrade" charset="utf-8"></script>
+
+</head>
+
+<body oncontextmenu="return false;">
+    <div id="particles-js"></div>
+    <header id="header" class="box" data-section-name="Top">
+        <div class="container-fluid mainv">
+            <h1>
+                <svg version="1.1" id="svg-animation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve" title="株式会社トピア">
+                    <g>
+                        <g>
+                            <g>
+                                <path class="st1" d="M63.43,47.81c-8.73-5.55-10.83-15.17-13.6-21.37C45.93,17.7,41.94,11.73,35,7.37
+                                    c-6.95-4.36-18.6-5.18-18.6-5.18s23.9,33.2,31.08,43.56c7.18,10.36,9.77,17.19,18.25,28.37c4.01,5.29,7.3,8.91,9.64,10.71
+                                    c2.34,1.8,5.17,3.13,8.29,3.13c1.35,0,2.64-0.24,3.85-0.65c3.79-1.29,6.33-3.64,8.83-6.95c3.2-4.25,7.65-10.95,7.65-10.95
+                                    S69.39,51.6,63.43,47.81z" />
+                                <g>
+                                    <g>
+                                        <g>
+                                            <polygon class="st2" points="118.06,49.92 106.81,65.61 58.93,41.75" />
+                                            <polygon class="st2" points="134.42,27.08 123.02,42.99 58.93,40.57" />
+                                            <polygon class="st2" points="152.25,2.19 138.78,20.99 58.93,39.15" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <path class="st0" d="M29.29,96.85l-11.1,34.17H7.88l11.1-34.17H8.64l1.77-5.44h29.41l-0.23,0.7c-0.9,2.75-3.48,4.73-6.52,4.73H29.29z" />
+                            <path class="st0" d="M57.82,96.86H41.34c-3.04,0-5.63,1.98-6.52,4.73l-6.64,20.45c-0.22,0.67-0.34,1.38-0.34,2.13c0,3.79,3.07,6.86,6.86,6.86
+                                h16.48c3.05,0,5.63-1.98,6.52-4.73l6.64-20.45c0.22-0.67,0.34-1.39,0.34-2.13C64.68,99.93,61.61,96.86,57.82,96.86z M47.63,125.59
+                                h-10.3l7.57-23.3l10.3,0L47.63,125.59z" />
+                            <path class="st0" d="M78.03,120.93l1.77-5.44l7.21,0l4.29-13.2l-10.3,0l-9.34,28.74h-10.3l11.1-34.17l0,0l21.46,0c3.79,0,6.86,3.07,6.86,6.86
+                                c0,0.74-0.12,1.46-0.34,2.13l-3.35,10.36c-0.89,2.75-3.48,4.73-6.52,4.73H78.03z" />
+                            <g>
+                                <polygon class="st0" points="115.78,106.17 118.8,96.85 108.5,96.85 105.47,106.17" />
+                                <polygon class="st0" points="104.21,110.06 97.4,131.02 107.7,131.02 114.51,110.06" />
+                            </g>
+                            <path class="st0" d="M123.92,96.85l-1.76,5.44h20.61l-7.57,23.3l-10.3,0l3.28-10.1h7.21l1.76-5.44h-12.53c-3.05,0-5.63,1.98-6.52,4.73
+                                l-2.35,7.26c-0.22,0.67-0.34,1.39-0.34,2.13c0,3.79,3.07,6.86,6.86,6.86l21.47,0h0l8.17-25.18c0.22-0.67,0.34-1.39,0.34-2.13
+                                c0-3.79-3.07-6.86-6.86-6.86H123.92z" />
+                        </g>
+                    </g>
+                    <g>
+                        <path class="st3" d="M20.05,151.18c-0.5,0.97-1.05,1.92-1.66,2.86l-0.98-2.51c1.06-1.55,1.93-3.11,2.64-4.68v-0.58H17.7v-2.15h2.33
+                            v-2.82h2.24v2.82h2v1.6c0.47-1.24,0.84-2.61,1.09-4.11l1.97,0.29c-0.1,0.61-0.18,1.08-0.25,1.42h1.11v-2.07h2.09v2.07h3.48v2.2
+                            h-3.48v1.95h4v2.17h-3.33c0.98,1.87,2.2,3.57,3.66,5.1l-1.51,1.71c-1.1-1.27-2.06-2.66-2.86-4.15v5.33h-2.09v-5.37
+                            c-0.84,1.6-1.81,3.05-2.93,4.33l-1.51-1.73c1.42-1.47,2.65-3.21,3.69-5.22h-3.28v-2.17h4.02v-1.95h-1.64
+                            c-0.17,0.55-0.36,1.08-0.56,1.6L24,146.39l0.05-0.13h-1.78v0.75c0.58,1.02,1.33,2.11,2.24,3.26l-0.93,2.26
+                            c-0.46-0.61-0.9-1.25-1.31-1.93v7.03h-2.22V151.18z" />
+                        <path class="st3" d="M45.27,155.75c-2.75,0.68-5.56,1.15-8.41,1.42l-0.64-2.33c1.13-0.1,2.29-0.23,3.49-0.4v-3.82h-2.73v-2.15h7.83
+                            v2.15h-2.64v3.44c0.95-0.17,1.98-0.39,3.09-0.67V155.75z M52.17,146.76h-4.55v0.09c0.15,2.18,0.39,4,0.73,5.46
+                            c0.38,1.65,0.8,2.48,1.27,2.48c0.21,0,0.49-0.3,0.84-0.91c0.3-0.51,0.57-1.06,0.8-1.66l1.4,2.35c-0.49,0.86-0.88,1.47-1.18,1.82
+                            c-0.62,0.72-1.28,1.07-1.98,1.07c-1.34,0-2.35-0.99-3.04-2.97c-0.56-1.6-0.96-4.08-1.2-7.43l-0.02-0.31h-8.99v-2.33h8.85
+                            c-0.06-1.04-0.11-2.03-0.15-2.97h2.4c0,0.51,0.04,1.5,0.13,2.97h2.29c-0.58-0.68-1.22-1.3-1.91-1.86l1.47-1.29
+                            c0.76,0.57,1.5,1.27,2.22,2.11l-1.18,1.04h1.8V146.76z" />
+                        <path class="st3" d="M66.77,148.14h-8.86v-1.27c-0.9,0.6-1.83,1.13-2.78,1.6l-1.62-1.84c3.02-1.35,5.51-3.12,7.46-5.33h2.66
+                            c2.03,2.16,4.59,3.9,7.68,5.21l-1.6,1.91c-0.95-0.42-1.92-0.96-2.93-1.6V148.14z M66.64,156.3c-3.59,0.59-7.3,1-11.12,1.22
+                            l-0.78-2.33c0.91-0.02,1.78-0.05,2.6-0.09c0.76-1.23,1.43-2.4,1.98-3.51h-4.75v-2.2h15.63v2.2H62c-0.46,0.91-1.08,2.03-1.86,3.35
+                            c1.57-0.11,3.23-0.26,4.99-0.45c-0.61-0.69-1.17-1.3-1.69-1.84l2.22-0.82c1.4,1.33,2.83,2.93,4.31,4.79l-2.37,0.98
+                            C67.24,157.08,66.92,156.65,66.64,156.3z M59.13,146.01h6.44c-1.26-0.9-2.35-1.81-3.28-2.75
+                            C61.33,144.25,60.28,145.16,59.13,146.01z" />
+                        <path class="st3" d="M77.49,157.55h-2.31v-5.66c-0.67,0.69-1.4,1.37-2.18,2.02l-1.07-2.15c2.28-1.87,3.93-3.79,4.95-5.75h-4.3
+                            v-2.13h2.44v-2.55h2.35v2.55h2.11v1.86c-0.51,1.07-1.09,2.08-1.75,3.04c0.76,0.82,1.69,1.68,2.78,2.57l-1.27,1.89
+                            c-0.56-0.5-1.14-1.06-1.75-1.69V157.55z M88.95,157.1H79.4v-2.4h3.62v-6.15H79.8v-2.37h3.22v-4.57h2.44v4.57h3.17v2.37h-3.17v6.15
+                            h3.49V157.1z" />
+                        <path class="st3" d="M105.9,151.62c-3.14-0.85-6.48-1.63-10.01-2.35v7.9H93.2v-15.43h2.69v4.95c4.23,0.83,7.57,1.58,10.01,2.26
+                            V151.62z" />
+                        <path class="st3" d="M124.14,156.77h-9.37c-1.49,0-2.57-0.29-3.22-0.86c-0.69-0.59-1.04-1.58-1.04-2.97v-10.96h2.64v3.13h10.72v2.4
+                            h-10.72v4.93c0,0.72,0.18,1.21,0.55,1.49c0.33,0.27,0.89,0.4,1.67,0.4h8.77V156.77z M124.28,142.72c0,0.52-0.19,0.96-0.56,1.33
+                            c-0.37,0.36-0.82,0.55-1.34,0.55c-0.52,0-0.96-0.18-1.33-0.55c-0.36-0.36-0.55-0.81-0.55-1.33c0-0.52,0.18-0.97,0.55-1.34
+                            c0.36-0.37,0.81-0.56,1.33-0.56c0.52,0,0.97,0.19,1.34,0.56C124.1,141.75,124.28,142.2,124.28,142.72z M123.24,142.72
+                            c0-0.23-0.08-0.43-0.25-0.6c-0.17-0.17-0.37-0.25-0.6-0.25c-0.23,0-0.43,0.09-0.59,0.25c-0.16,0.17-0.25,0.37-0.25,0.6
+                            c0,0.23,0.08,0.43,0.25,0.59s0.36,0.25,0.59,0.25c0.23,0,0.43-0.08,0.6-0.25C123.16,143.15,123.24,142.95,123.24,142.72z" />
+                        <path class="st3" d="M142.72,142.85c0,2.74-0.81,4.93-2.44,6.55c-1.35,1.33-3.13,2.19-5.35,2.57c-1.1,2.66-3.2,4.36-6.3,5.11v-2.49
+                            c1.54-0.59,2.69-1.45,3.44-2.57c0.8-1.21,1.2-2.81,1.2-4.8v-0.91h2.49v1.04c0,0.7-0.04,1.36-0.13,1.98
+                            c2.32-0.64,3.69-2.15,4.13-4.53h-11.68v-2.44h14.63V142.85z" />
+                    </g>
+                </svg>
+            </h1>
+            <div class="catch">
+                <h2>試作のリーディングカンパニー</h2>
+                <h3>The leading company in BIW Prototyping</h3>
+            </div>
+            <!-- トップページ用PC版ナビゲーションメニュー -->
+            <nav class="top-pc-header-nav d-none d-lg-block">
+                <ul class="top-pc-nav-menu">
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="nav-link">会社情報</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/profile/index.html">トップメッセージ</a></li>
+                            <li><a href="/profile/history.html">沿革</a></li>
+                            <li><a href="/profile/office.html">事業所・アクセス</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="nav-link">特徴</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/advantage/index.html">メッセージ（企業理念）</a></li>
+                            <li><a href="/advantage/advantage.html">当社の強み</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="nav-link">事業内容</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/products/index.html">業務フロー</a></li>
+                            <li><a href="/products/products.html">製品紹介</a></li>
+                            <li><a href="/products/products2.html">軽量化技術</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="https://www.u-topia.co.jp/recruit/index.html" target="_blank" class="nav-link">採用</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.u-topia.co.jp/recruit/index.html" target="_blank">採用情報</a></li>
+                            <li><a href="/hayawakari/" target="_blank">トピア早わかりサイト</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/info/" class="nav-link">お知らせ</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="nav-link">Language</a>
+                        <ul class="dropdown-menu">
+                            <li><a id="lang-sw" href="#">English</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="lp-menu">
+            <a href="/hayawakari/" target="_blank"><img src="./asset/images/bana_quick.jpg" alt="トピア早わかりサイト"></a>
+        </div>
+        <!-- SNSアイコン（PC版のみ表示） -->
+        <div class="sns-icons d-none d-lg-flex">
+            <div class="sns-label">公式SNS</div>
+            <div class="sns-links">
+                <a href="https://www.youtube.com/channel/UCoChI2VPov_Z5VguqomLhJA" target="_blank" class="sns-link youtube" aria-label="YouTube">
+                    <img src="asset/images/icon/sns-icon01.png" alt="YouTube" width="24" height="24">
+                </a>
+                <a href="https://x.com/topiasaiyo" target="_blank" class="sns-link x-twitter" aria-label="X (Twitter)">
+                    <img src="asset/images/icon/sns-icon02.png" alt="X (Twitter)" width="24" height="24">
+                </a>
+                <a href="https://www.instagram.com/topia_co.ltd.1973/" target="_blank" class="sns-link instagram" aria-label="Instagram">
+                    <img src="asset/images/icon/sns-icon03.png" alt="Instagram" width="24" height="24">
+                </a>
+            </div>
+        </div>
+        <div class="hamburger-menu">
+            <input type="checkbox" id="menu-btn-check">
+            <label for="menu-btn-check" class="menu-btn"><span></span></label>
+
+            <div id="menu" class="menu-content">
+                <a href="/"><img src="../asset/images/logo-sec.png" alt="株式会社トピア 「試作」のリーディングカンパニー" class="img-fluid make-this-white"></a>
+                <div class="lang">
+                    <div class="lang-title">Language</div>
+                    <a id="lang-sw-mobile" href="#">English</a>
+                </div>
+                <div class="header-menu">
+                    <ul>
+                        <li class="head">会社情報</li>
+                        <li><a href="/profile/index.html">トップメッセージ</a></li>
+                        <li><a href="/profile/history.html">沿革</a></li>
+                        <li><a href="/profile/office.html">事業所・アクセス</a></li>
+                    </ul>
+                    <ul>
+                        <li class="head">当社の特徴</li>
+                        <li><a href="/advantage/index.html">メッセージ（企業理念）</a></li>
+                        <li><a href="/advantage/advantage.html">当社の強み</a></li>
+                    </ul>
+                    <ul>
+                        <li class="head">事業内容</li>
+                        <li><a href="/products/index.html">業務フロー</a></li>
+                        <li><a href="/products/products.html">製品紹介</a></li>
+                        <li><a href="/products/products2.html">軽量化技術</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/sustainability/index.html" target="_blank" class="head-l">サステナビリティ</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="https://www.u-topia.co.jp/recruit/index.html" target="_blank" class="head-l">採用情報</a></li>
+                        <li><a href="/hayawakari/" target="_blank">トピア早わかりサイト</a></li>
+                    </ul>
+                    <ul class="sub-nav">
+                        <li><a href="/info/">お知らせ</a></li>
+                        <li><a href="mailto:topia@u-topia.co.jp">お問い合わせ</a></li>
+                        <li><a href="/sitemap/index.html">サイトマップ</a></li>
+                        <li><a href="/profile/privacy.html">個人情報保護方針</a></li>
+                        <li><a href="/profile/policy.html">反社会勢力に対する基本方針</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <div class="scrolldown1"><span>Scroll</span></div>
+    </header>
+
+    <section id="movie" class="box" data-section-name="FactoryTour">
+        <div class="title">
+            <h2>FactoryTour</h2>
+        </div>
+        <video muted loop controls playsinline>
+            <source src="asset/videos/topia2022.webm" type="video/webm">
+            <source src="asset/videos/topia2022.mp4" type="video/mp4">
+        </video>
+        <div class="description">
+            <p>トピアは、日本発の革新的なエンジニアリングと<br />
+                試作製造をグローバルに届ける企業であり、<br />
+                自動車産業において顧客が求めるパートナーとして<br />
+                相応しいサービスを提供します。</p>
+        </div>
+    </section>
+
+    <section id="prototyping" class="box" data-section-name="Prototyping">
+        <div class="title">
+            <h2>Prototyping</h2>
+        </div>
+        <iframe src="anime.html" frameborder="0"></iframe>
+    </section>
+
+                <section id="information" class="box" data-section-name="Information">
+            <div class="title">
+                <h2>Information</h2>
+            </div>
+            <div class="container archive">
+                <div class="row">
+                                            
+
+                        <div class="col-12 col-sm-6 col-lg-3">
+                            <div class="card h-100">
+                                <a class="h-100" href="https://www.u-topia.co.jp/info/archives/2375">
+                                    <p class="date">2026年7月31日</p>
+                                    <img  class="img-fluid attachment-post-thumbnail wp-post-image" src="http://www.u-topia.co.jp/info/wp-content/themes/topia/asset/images/thumbnail-default.png" alt="" />                                    <h3>
+                                        「トピアグループ サステナビリティレポー...                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+
+                                            
+
+                        <div class="col-12 col-sm-6 col-lg-3">
+                            <div class="card h-100">
+                                <a class="h-100" href="https://www.u-topia.co.jp/info/archives/2370">
+                                    <p class="date">2026年5月8日</p>
+                                    <img  class="img-fluid attachment-post-thumbnail wp-post-image" src="http://www.u-topia.co.jp/info/wp-content/themes/topia/asset/images/thumbnail-default.png" alt="" />                                    <h3>
+                                        展示会出展のお知らせ                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+
+                                            
+
+                        <div class="col-12 col-sm-6 col-lg-3">
+                            <div class="card h-100">
+                                <a class="h-100" href="https://www.u-topia.co.jp/info/archives/2366">
+                                    <p class="date">2025年12月1日</p>
+                                    <img  class="img-fluid attachment-post-thumbnail wp-post-image" src="http://www.u-topia.co.jp/info/wp-content/themes/topia/asset/images/thumbnail-default.png" alt="" />                                    <h3>
+                                        オートモーティブワールド2026                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+
+                                            
+
+                        <div class="col-12 col-sm-6 col-lg-3">
+                            <div class="card h-100">
+                                <a class="h-100" href="https://www.u-topia.co.jp/info/archives/2359">
+                                    <p class="date">2025年8月29日</p>
+                                    <img  class="img-fluid attachment-post-thumbnail wp-post-image" src="http://www.u-topia.co.jp/info/wp-content/themes/topia/asset/images/thumbnail-default.png" alt="" />                                    <h3>
+                                        新工場の購入について                                    </h3>
+                                </a>
+                            </div>
+                        </div>
+
+                                    </div>
+            </div>
+                        <div class="news-bottom-btn">
+                <a class="btn btn--yellow" href="info/">お知らせ一覧</a>
+            </div>
+        </section>
+    
+    <section id="contact" class="box" data-section-name="Contact">
+        <div class="title">
+            <h2>Contact</h2>
+        </div>
+        <form method="post" action="mail.php">
+            <div class="container">
+                <div class="row formset">
+                    <div class="col-12 col-lg-6">
+                        <div class="Form">
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label">
+                                    <span class="Form-Item-Label-Required">必須</span>会社名
+                                </p>
+                                <input type="text" class="Form-Item-Input" name="会社名">
+                            </div>
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label">
+                                    <span class="Form-Item-Label-Not-Required">任意</span>部署
+                                </p>
+                                <input type="text" class="Form-Item-Input" name="部署">
+                            </div>
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label">
+                                    <span class="Form-Item-Label-Not-Required">任意</span>役職
+                                </p>
+                                <input type="text" class="Form-Item-Input" name="役職">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="Form">
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>氏名</p>
+                                <input type="text" class="Form-Item-Input" name="氏名">
+                            </div>
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>電話番号</p>
+                                <input type="text" class="Form-Item-Input" name="電話番号">
+                            </div>
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>メールアドレス</p>
+                                <input type="email" class="Form-Item-Input" name="メールアドレス">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="Form">
+                            <div class="Form-Item">
+                                <p class="Form-Item-Label isMsg"><span class="Form-Item-Label-Required">必須</span>お問い合わせ内容</p>
+                                <textarea class="Form-Item-Textarea" name="内容"></textarea>
+                            </div>
+                            <input type="submit" class="Form-Btn" value="確認">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </section>
+
+    <section id="bana-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="text-center col-12 col-lg-3 mb-3">
+                    <div class="banacard"><img class="img-fluid" src="asset/images/bana-btm01.png" alt="ISO9001/ISO9100"></div>
+                </div>
+                <div class="text-center col-12 col-lg-3 mb-3">
+                    <div class="banacard"><a target="_blank" href="https://enx.com/tisax"><img class="img-fluid" src="asset/images/bana-btm06.png" alt="
+                    TISAX RESULT AVAILABLE"></a>
+                    </div>
+                </div>
+                <div class="text-center col-12 col-lg-3 mb-3">
+                    <div class="banacard"><a target="_blank" href="doc/topiagroup_sdgs_jpn.pdf"><img class="img-fluid" src="asset/images/bana-btm02.png" alt="株式会社トピアは三重県SDGs推進パートナーに登録されています"></a>
+                    </div>
+                </div>
+                <div class="text-center col-12 col-lg-3 mb-3">
+                    <div class="banacard">
+                        <a target="_blank" href="https://www.fukuri.jp/contents/files/fukuri/img/eigyo/c1/index.html?compname=%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%94%E3%82%A2"><img class="img-fluid" src="asset/images/bana-btm03.png" alt="福利厚生倶楽部"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SNSアイコン（スマホ版のみ表示） -->
+    <div class="sns-icons-mobile d-block d-lg-none">
+        <div class="sns-label">公式SNS</div>
+        <div class="sns-links">
+            <a href="https://www.youtube.com/channel/UCoChI2VPov_Z5VguqomLhJA" target="_blank" class="sns-link youtube" aria-label="YouTube">
+                <img src="asset/images/icon/sns-icon01.png" alt="YouTube" width="24" height="24">
+            </a>
+            <a href="https://x.com/topiasaiyo" target="_blank" class="sns-link x-twitter" aria-label="X (Twitter)">
+                <img src="asset/images/icon/sns-icon02.png" alt="X (Twitter)" width="24" height="24">
+            </a>
+            <a href="https://www.instagram.com/topia_co.ltd.1973/" target="_blank" class="sns-link instagram" aria-label="Instagram">
+                <img src="asset/images/icon/sns-icon03.png" alt="Instagram" width="24" height="24">
+            </a>
+        </div>
+    </div>
+
+    <div id="footer" class="container-fluid foot">
+        <div id="footer-inner">
+            <div class="clearfix">
+                <div class="footer-title"><img src="asset/images/logo-foot.png" alt="株式会社トピア「試作」のリーディングカンパニー"><span>「試作」のリーディングカンパニー</span></div>
+            </div>
+            <div id="menu" class="footer-menu-content">
+                <nav class="footer-menu">
+                    <ul>
+                        <li class="head">会社情報</li>
+                        <li><a href="/profile/index.html">トップメッセージ</a></li>
+                        <li><a href="/profile/history.html">沿革</a></li>
+                        <li><a href="/profile/office.html">事業所・アクセス</a></li>
+                    </ul>
+                    <ul>
+                        <li class="head">当社の特徴</li>
+                        <li><a href="/advantage/index.html">メッセージ（企業理念）</a></li>
+                        <li><a href="/advantage/advantage.html">当社の強み</a></li>
+                    </ul>
+                    <ul>
+                        <li class="head">事業内容</li>
+                        <li><a href="/products/index.html">業務フロー</a></li>
+                        <li><a href="/products/products.html">製品紹介</a></li>
+                        <li><a href="/products/products2.html">軽量化技術</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/sustainability/index.html" target="_blank" class="head-l">サステナビリティ</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/recruit/index.html" target="_blank" class="head-l">採用情報</a></li>
+                        <li><a href="/hayawakari/" target="_blank">トピア早わかりサイト</a></li>
+                    </ul>
+                    <ul class="sub-nav">
+                        <li><a href="/info/">お知らせ</a></li>
+                        <li><a href="mailto:topia@u-topia.co.jp">お問い合わせ</a></li>
+                        <li><a href="/sitemap/index.html">サイトマップ</a></li>
+                        <li><a href="/profile/privacy.html">個人情報保護方針</a></li>
+                        <li><a href="/profile/policy.html">反社会勢力に対する基本方針</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div id="footer-copyright">Copyright &copy; <a href="/">「試作」のリーディングカンパニー トピア</a> CO.,LTD.All Rights Reserved.</div>
+        </div>
+    </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script>
+        $(function() {
+            $('#prototyping').on('load', function() {
+                $('#prototyping').contents().find('body').css('overflow', 'hidden');
+            });
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/vivus@latest/dist/vivus.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.21/jquery.scrollify.min.js"></script>
+    <script src="asset/js/const.js?up=20221207"></script>
+</body>
+
+</html>

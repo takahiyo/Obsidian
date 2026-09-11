@@ -1,0 +1,141 @@
+# NVR510 Rev.15.01.25 (Mon Jul 10 18:14:08 2023)
+# MAC Address : ac:44:f2:cd:d4:0e, ac:44:f2:cd:d4:0f
+# Memory 256Mbytes, 2LAN, 1ONU
+# main:  NVR510 ver=00 serial=M4X265839 MAC-Address=ac:44:f2:cd:d4:0e MAC-Address=ac:44:f2:cd:d4:0f
+# Reporting Date: Oct 15 09:19:37 2024
+administrator password encrypted *
+ip route default gateway pp 1
+ip lan1 address 192.168.89.1/24
+ip lan1 secondary address 172.31.0.254/24
+ip lan1 proxyarp on
+pp select 1
+ description pp OCN
+ pp keepalive interval 30 retry-interval=30 count=12
+ pp always-on on
+ pppoe use lan2
+ pppoe auto disconnect off
+ pp auth accept pap chap
+ pp auth myname j318uo3v@one.ocn.ne.jp jrek75
+ ppp lcp mru on 1454
+ ppp ipcp ipaddress on
+ ppp ipcp msext on
+ ppp ccp type none
+ ip pp secure filter in 200003 200020 200021 200022 200023 200024 200025 200030 200032 200100 200101 200102 200103 200104 200105 200106 200107
+ ip pp secure filter out 200013 200020 200021 200022 200023 200024 200025 200026 200027 200099 dynamic 200080 200081 200082 200083 200084 200085 200098 200099
+ ip pp nat descriptor 1000
+ netvolante-dns hostname host pp server=1 jyoudo.aa1.netvolante.jp
+ pp enable 1
+pp select anonymous
+ pp bind tunnel1-tunnel4
+ pp auth request mschap-v2
+ pp auth username orca.pptp li2rzmyx
+ pp auth username orca2.pptp li2rzmyx
+ ppp ipcp ipaddress on
+ ppp ipcp msext on
+ ppp ccp type mppe-any
+ ip pp remote address pool dhcp
+ pp enable anonymous
+tunnel select 1
+ tunnel encapsulation pptp
+ pptp tunnel disconnect time 23
+ tunnel enable 1
+tunnel select 2
+ tunnel encapsulation pptp
+ pptp tunnel disconnect time 23
+ tunnel enable 2
+tunnel select 3
+ tunnel encapsulation l2tp
+ ipsec tunnel 1
+  ipsec sa policy 1 1 esp aes-cbc sha-hmac
+  ipsec ike keepalive use 1 off
+  ipsec ike nat-traversal 1 on
+  ipsec ike pre-shared-key 1 text %Yav)fX_wtHnu(Nf8jn%
+  ipsec ike remote address 1 any
+ l2tp tunnel disconnect time 180
+ ip tunnel tcp mss limit auto
+ tunnel enable 3
+tunnel select 4
+ tunnel encapsulation l2tp
+ ipsec tunnel 2
+  ipsec sa policy 2 2 esp aes-cbc sha-hmac
+  ipsec ike keepalive use 2 off
+  ipsec ike nat-traversal 2 on
+  ipsec ike pre-shared-key 2 text %Yav)fX_wtHnu(Nf8jn%
+  ipsec ike remote address 2 any
+ l2tp tunnel disconnect time 180
+ ip tunnel tcp mss limit auto
+ tunnel enable 4
+ip filter 200000 reject 10.0.0.0/8 * * * *
+ip filter 200001 reject 172.16.0.0/12 * * * *
+ip filter 200002 reject 192.168.0.0/16 * * * *
+ip filter 200003 reject 192.168.89.0/24 * * * *
+ip filter 200010 reject * 10.0.0.0/8 * * *
+ip filter 200011 reject * 172.16.0.0/12 * * *
+ip filter 200012 reject * 192.168.0.0/16 * * *
+ip filter 200013 reject * 192.168.89.0/24 * * *
+ip filter 200020 reject * * udp,tcp 135 *
+ip filter 200021 reject * * udp,tcp * 135
+ip filter 200022 reject * * udp,tcp netbios_ns-netbios_ssn *
+ip filter 200023 reject * * udp,tcp * netbios_ns-netbios_ssn
+ip filter 200024 reject * * udp,tcp 445 *
+ip filter 200025 reject * * udp,tcp * 445
+ip filter 200026 restrict * * tcpfin * www,21,nntp
+ip filter 200027 restrict * * tcprst * www,21,nntp
+ip filter 200030 pass * 192.168.89.0/24 icmp * *
+ip filter 200031 pass * 192.168.89.0/24 established * *
+ip filter 200032 pass * 192.168.89.0/24 tcp * ident
+ip filter 200033 pass * 192.168.89.0/24 tcp ftpdata *
+ip filter 200034 pass * 192.168.89.0/24 tcp,udp * domain
+ip filter 200035 pass * 192.168.89.0/24 udp domain *
+ip filter 200036 pass * 192.168.89.0/24 udp * ntp
+ip filter 200037 pass * 192.168.89.0/24 udp ntp *
+ip filter 200099 pass * * * * *
+ip filter 200100 pass * 192.168.89.1 tcp * 1723
+ip filter 200101 pass * 192.168.89.1 gre
+ip filter 200102 pass * 192.168.89.1 udp * 500
+ip filter 200103 pass * 192.168.89.1 esp
+ip filter 200104 pass * 192.168.89.1 udp * 4500
+ip filter 200105 pass * 192.168.89.1 udp * 1701
+ip filter 200106 pass * 192.168.89.240 tcp * 35061,35062
+ip filter 200107 pass * 192.168.89.240 udp * 30000-30063
+ip filter 500000 restrict * * * * *
+ip filter dynamic 200080 * * ftp
+ip filter dynamic 200081 * * domain
+ip filter dynamic 200082 * * www
+ip filter dynamic 200083 * * smtp
+ip filter dynamic 200084 * * pop3
+ip filter dynamic 200085 * * submission
+ip filter dynamic 200098 * * tcp
+ip filter dynamic 200099 * * udp
+nat descriptor type 1000 masquerade
+nat descriptor masquerade incoming 1000 reject 
+nat descriptor masquerade static 1000 1 192.168.89.1 tcp 1723
+nat descriptor masquerade static 1000 2 192.168.89.1 gre
+nat descriptor masquerade static 1000 3 192.168.89.1 udp 500
+nat descriptor masquerade static 1000 4 192.168.89.1 esp
+nat descriptor masquerade static 1000 5 192.168.89.1 udp 4500
+nat descriptor masquerade static 1000 6 192.168.89.1 udp 1701
+nat descriptor masquerade static 1000 7 192.168.89.240 tcp 35061,35062
+nat descriptor masquerade static 1000 8 192.168.89.240 udp 30000-30063
+ipsec auto refresh on
+ipsec transport 3 1 udp 1701
+ipsec transport 4 2 udp 1701
+telnetd host lan
+dhcp service server
+dhcp server rfc2131 compliant except remain-silent
+dhcp scope 1 192.168.89.101-192.168.89.191/24 expire 48:00 maxexpire 48:00
+dns host lan1
+dns server pp 1
+dns server select 500001 pp 1 any . restrict pp 1
+dns private address spoof on
+dns private name setup.netvolante.jp
+schedule at 1 */Sun 03:33:03 * ntpdate ntp.nict.jp syslog
+pppoe pass-through member lan1 lan2 
+pptp service on
+l2tp service on
+analog supplementary-service pseudo call-waiting
+analog extension dial prefix sip prefix="9#"
+alarm connection data off
+operation http revision-up permit on
+operation button function download http revision-up
+statistics traffic on

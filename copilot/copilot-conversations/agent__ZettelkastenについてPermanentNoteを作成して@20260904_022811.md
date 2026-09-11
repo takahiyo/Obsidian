@@ -27,7 +27,7 @@ tags:
 PermanentNote作成時、プロパティとして組み入れてはどうか
 [Timestamp: 2026/09/04 02:32:56]
 
-**ai**: なるほど、Permanent Noteから元のLiterature Noteへのリンクが切れているんですね。Permanent NoteにプロパティとしてLiterature Noteへのリンクを追加します。[[Permanent Note(知識の資産化)/Zettelkasten|Zettelkasten]]（Permanent Note）に `source` プロパティを追加しました。
+**ai**: なるほど、Permanent Noteから元のLiterature Noteへのリンクが切れているんですね。Permanent NoteにプロパティとしてLiterature Noteへのリンクを追加します。[[Zettelkasten|Zettelkasten]]（Permanent Note）に `source` プロパティを追加しました。
 
 ```yaml
 source: "[[Zettelkasten]]"

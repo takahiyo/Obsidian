@@ -1,0 +1,44 @@
+filters:
+  and:
+    - note["base"] == link("人材管理.base")
+properties:
+  file.name:
+    displayName: 名前
+  所属会社:
+    displayName: 所属会社
+  関係会社名:
+    displayName: 関係会社名
+  補足情報:
+    displayName: 補足情報
+  連絡先（直通）:
+    displayName: 連絡先（直通）
+  住所:
+    displayName: 住所
+  Email:
+    displayName: Email
+  FAX（所属）:
+    displayName: FAX（所属）
+  Wantedly People:
+    displayName: Wantedly People
+  関係:
+    displayName: 関係
+  所属:
+    displayName: 所属
+  連絡先（所属）:
+    displayName: 連絡先（所属）
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - 所属会社
+      - 関係会社名
+      - 補足情報
+      - 連絡先（直通）
+      - 住所
+      - Email
+      - FAX（所属）
+      - Wantedly People
+      - 関係
+      - 所属
+      - 連絡先（所属）
