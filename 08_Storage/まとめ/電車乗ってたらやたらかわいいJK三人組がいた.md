@@ -1,11 +1,3 @@
----
-notion-id: 40b2374b-1c56-466b-bdcb-3e4488d18a99
-base: "[[まとめ.base]]"
-タグ: []
-URL: http://otanew.jp/archives/8149866.html
-作成日時: 2015-04-29T11:39:00
-更新されました: 2015-06-16T06:56:00
----
 [電車乗ってたらやたらかわいいJK三人組がいた](http://otanew.jp/archives/8149866.html)
 
 オタクニュース
